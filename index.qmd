@@ -1,7 +1,8 @@
 ---
-title: "classes"
+title: "Professors Smith's Classes"
 ---
 
-This is a Quarto website.
+Welcome to my classes website! Here you will find information for the courses I teach, including syllabi, schedules, and assignments and resources for each class. Please navigate through the tabs to find the information you need. If you have any questions, feel free to reach out to me via email.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My office hours for Fall 2026 are:
+

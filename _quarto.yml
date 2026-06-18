@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Professor Smith's Classes"
+  page-navigation: true
   navbar:
     background: primary
     search: true
@@ -11,23 +12,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: PUBH_115/pubh115.qmd
-        text: PUBH 115
-      - href: PUBH_402/pubh402.qmd
-        text: PUBH 402
+      - sidebar:pubh115
   sidebar:
     style: floating
     search: true
-    contents:
-      - section: "PUBH 115"
-        contents:
-          - text: "Welcome"
-            href: PUBH_115/pubh115.qmd
-      - section: "PUBH 402"
-        contents:
-          - text: "Welcome"
-            href: PUBH_402/pubh402.qmd
-
+    contents: auto
+      
 format:
   html:
     theme:

@@ -1,0 +1,12 @@
+- id: pubh115
+        title: "PUBH 115"
+        collapse-level: 2
+        contents:
+          - text: "Welcome"
+            href: PUBH_115/pubh115.qmd
+          - text: "Syllabus"
+            href: PUBH_115/pubh115_syllabus.qmd
+      - section: "PUBH 402"
+        contents:
+          - text: "Welcome"
+            href: PUBH_402/pubh402.qmd

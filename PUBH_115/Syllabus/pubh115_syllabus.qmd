@@ -1,0 +1,378 @@
+---
+title: "Syllabus"
+date: "2026-06-17"
+draft: false
+class: "115"
+categories: "syllabus"
+
+---
+
+
+# Instructor Information
+
+**Instructor:** Jason A. Smith
+
+**Email:** [jasosmith\@fullerton.edu](mailto:jasosmith@fullerton.edu)
+
+**Phone:** +1 657-278-5606
+
+**Office Location:** KHS 241
+
+**Office Hours (via Zoom)**
+
+- Tuesday, 9:00–10:30 AM
+- Wednesday, 10:00–11:30 AM
+
+Use the link in Canvas to schedule and for the Zoom link.
+
+## Contacting Me
+
+The best way to contact me is by email. I will respond to emails within 48 hours. Put the course number and section in the subject line of the email.
+
+## Class Announcements
+
+Announcements will be made through Canvas.
+
+---
+
+# Course Description
+
+How environmental and safety hazards influence public health and sustainability. Multiple perspectives on water, air, and solid waste pollution, sustainability and public safety issues.
+
+This class is focused on providing you an introduction to the relationship between the environment and health; an introduction to environmental health; and, most importantly, an opportunity for you to reflect on your own values, learning, and goals in the context of your existence and the planet that you live on.
+
+---
+
+# General Education
+
+This course meets the requirements of Area E – Lifelong Learning.
+
+---
+
+# Prerequisites
+
+None.
+
+---
+
+# Course Modality
+
+Asynchronous Online
+
+---
+
+# Course Student Learning Outcomes (SLOs)
+
+- Further their own critical self-understanding and acquire the knowledge, skills, and attitudes necessary to engage and reflect in learning and self-development practices.
+- Develop strategies to be integrated physiological, socio-cultural, and psychological beings to promote a holistic awareness of lifelong learning throughout their lives.
+- Develop themselves as responsible citizens, employees and employers, family members, and members of the global society.
+- Actively apply and participate in developing a lifelong commitment to health for both personal well-being (such as physical, financial, emotional, intellectual, spiritual, social/interpersonal, and/or environmental aspects) and societal responsibility.
+- Discuss concepts of sustainability associated with natural resources and human population.
+- Explore people's attitudes and motivations to change consumptive practices to preserve natural resources.
+- Characterize the health outcomes of exposure to environmental pollutants, including air, water, and food.
+- Understand the importance of safety in protecting the public and workers from various hazards at home and workplaces.
+- Review careers available in environmental health and safety.
+
+---
+
+# Required Course Materials
+
+## Purchase Required
+
+Hsu, H. L. (2023). *Air conditioning*. Bloomsbury Academic.
+
+## Provided on Leganto (linked from Canvas)
+
+- *Introduction to Environmental Health* lecture video and slides (2024-07-31)
+- *Environmental Justice Overview* video
+- Walker, G. (2012). *Environmental Justice: Concepts, evidence and politics* (1st ed.). Routledge. <https://doi.org/10.4324/9780203610671>
+- WHO. *Overview of Lead Poisoning*. <https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health>
+- *The legacy of the Flint water crisis* \[Video\]. 60 Minutes. <https://www.youtube.com/watch?v=GYiVHh4U4pE>
+- Hanna-Attisha, M., LaChance, J., Sadler, R. C., & Schnepp, A. C. (2016). Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis: A Spatial Analysis of Risk and Public Health Response. *American Journal of Public Health*, *106*(2), 283–290. <https://doi.org/10.2105/AJPH.2015.303003>
+- Harris, E. P. Chapter 7: Water Availability and Use. University of West Florida Pressbooks. <https://pressbooks.uwf.edu/envrioscience/part/chapter-7-water-availability-and-use/>
+- Harris, E. P. Chapter 9: Conventional and Sustainable Agriculture. University of West Florida Pressbooks. <https://pressbooks.uwf.edu/envrioscience/part/chapter-9-conventional-sustainable-agriculture/>
+- Duchenne-Moutien, R. A., & Neetoo, H. (2021). Climate Change and Emerging Food Safety Issues: A Review. *Journal of Food Protection*, *84*(11), 1884–1897. <https://doi.org/10.4315/JFP-21-141>
+- Harris, E. P. Chapter 10: Air Pollution, Climate Change, and Ozone Depletion. <https://pressbooks.uwf.edu/envrioscience/part/chp-10-air-pollution-climate-change-and-ozone-depletion/>
+- MIT Climate Primer. <https://climateprimer.mit.edu/>
+- FNCA Chapter 2: Climate Trends \[PDF\]
+- FNCA Chapter 3: Earth Systems Processes \[PDF\]
+- FNCA Chapter 4: Water \[PDF\]
+- FNCA Chapter 6: Land Cover and Land-use Change \[PDF\]
+- FNCA Chapter 11: Agriculture, Food Systems, and Rural Communities. <https://doi.org/10.7930/NCA5.2023.CH11>
+- FNCA Chapter 14: Air Quality \[PDF\]
+- FNCA Chapter 15: Human Health \[PDF\]
+- *Sustainability Overview* \[Video\]. <https://vimeo.com/1108205548/51a341c0b0?share=copy>
+- United Nations. What is Sustainable Development?
+- United Nations. UN Sustainable Development Goals. <https://www.un.org/sustainabledevelopment/>
+- WHO. *Global Sustainable Development Report 2023: Times of Crisis, Times of Change*.
+- *Anthropocene: The Human Epoch* \[Film\]. Kanopy. <https://www.kanopy.com/en/fullerton/video/6016074>
+- The Geology and Culture of the Anthropocene. Anthropocene Curriculum. <https://www.anthropocene-curriculum.org/contribution/the-geology-and-culture-of-the-anthropocene>
+- Living in the Anthropocene: Toward a New Global Ethos. Yale E360. <https://e360.yale.edu/features/living_in_the_anthropocene_toward_a_new_global_ethos>
+- *Introduction to Planetary Health* \[Video\]. <https://vimeo.com/1107915009/4868e35b07?share=copy>
+- Planetary Health Alliance. *What is Planetary Health?* \[Video\]. <https://youtu.be/lw_I7rhn9eY?feature=shared>
+- Planetary Health Alliance. *Introduction to Planetary Health* \[Video\]. <https://youtu.be/_b2yVNkPgvM?feature=shared>
+- Whitmee, S., et al. (2015). Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health. *The Lancet*, *386*(10007), 1973–2028. <https://doi.org/10.1016/S0140-6736(15)60901-1>
+- FNCA Chapter 18: Sector Interactions, Multiple Stressors, and Complex Systems \[PDF\]
+- Chapter 14: Sustainability and Urban Infrastructure. <https://pressbooks.uwf.edu/envrioscience/part/chapter-14-sustainability-and-urban-infrastructure/>
+- Lopez, R. P. (2012). Chapter 1: Introduction to the Built Environment and Public Health. In *The built environment and public health* (Vol. 16). Wiley. <https://ebookcentral.proquest.com/lib/fullerton/reader.action?docID=7103425&ppg=21>
+- Lopez, R. P. (2012). Chapter 2: History. In *The built environment and public health* (Vol. 16). Wiley. <https://ebookcentral.proquest.com/lib/fullerton/reader.action?docID=7103425&ppg=35>
+- Hsu, H. (2024). Introduction; Chapters 1, 2, 3, 5, 6. In *Air Conditioning* (1st ed.). Bloomsbury. <https://doi.org/10.5040/9781501377853>
+
+---
+
+# Course Calendar
+
+This course calendar provides an overview of the topic for each week. Dates indicate the Monday of the week that you should complete the assignment. **Bold dates are specific due dates.** Some topics and modules span multiple weeks. You will be asked to complete reading assignments, watch lectures, and complete other activities for each module.
+
+> **IMPORTANT:** Due dates for modules and readings are available in Canvas. All assigned readings are also available on Leganto linked to in Canvas, except for *Air Conditioning*, which is required for purchase. Please review the dates and materials at the beginning of the class. There may be adjustments to the readings and materials as the class progresses.
+
+| Date | Topic |
+|------|-------|
+| 08/24/26 | Introduction to the class, instructor, and course requirements |
+| 08/31/26 | Introduction to Environmental Health |
+| 09/07/26 | Exploring your Values *(Note: Labor Day 09/07 — campus closed; plan accordingly)* |
+| **09/11/26** | **Values exercise due** |
+| 09/14/26 | Water |
+| 09/21/26 | Land |
+| 09/28/26 | Air |
+| 10/05/26 | Causes of Climate Change |
+| **10/09/26** | **Exam 1** – Introduction to Environmental Health, Water, Land, Air |
+| 10/12/26 | Climate Change, the Environment, and Human Health |
+| 10/19/26 | Sustainability |
+| 10/26/26 | Introduction to the Anthropocene |
+| **10/30/26** | **Exam 2** – Causes of Climate Change through Sustainability |
+| 11/02/26 | The Anthropocene and Health – Planetary Health Framework |
+| 11/09/26 | The Built Environment |
+| 11/16/26 | The Built Environment and Health – Introduction, Chapters 1–3 |
+| **11/13/26** | **Essay 1 due** |
+| 11/23/26 | *Fall Recess – no classes (campus closed Nov. 26–27)* |
+| 11/30/26 | The Built Environment and the Anthropocene – Chapters 5 & 6 |
+| **12/11/26** | **Essay 2 due** *(Last day of classes)* |
+
+---
+
+# Grading Policy
+
+## Grading Scale
+
+This course follows the standard CSUF grading scale.
+
+## Grade Breakdown
+
+| Assignment | Weight |
+|------------|--------|
+| Values Exercise | 20% |
+| Exams (2) | 40% |
+| Reflection Essays (2) | 40% |
+
+## WU Grades
+
+If you do not attempt an assignment or do not take an exam, you will receive a **WU** (Withdrawal Unauthorized) as your class grade. WU is calculated as an F for your GPA, but unlike an F, it indicates that you did not submit work that could be evaluated. It is critical that you attempt each assignment.
+
+See the [CSUF Catalog](https://catalog.fullerton.edu/content.php?catoid=80&navoid=10986) for complete details.
+
+---
+
+# Course Assignments and Requirements
+
+All course assignments and exams will be completed on Canvas.
+
+## Missed and Late Work Policy
+
+- Each student will have one make-up exam opportunity for missed exams without documented justification. The make-up exam will be shorter and carry a 5% score reduction.
+- Essays submitted late have a 5% reduction per day, up to a maximum of 30%.
+- This course has no meeting time and no attendance requirement.
+- No extra credit assignments are available.
+- All assignments are completed individually.
+
+## Discover Your Values (20%)
+
+This class explores environmental health from multiple perspectives. Our personal values are a key part of understanding how we see, value, and interact with the environment. This assignment will ask you to spend time thinking about your own core values.
+
+## Exams (40%)
+
+There will be two exams, each worth 20% of your total grade. Exams are multiple choice.
+
+## Reflection Essays (40%)
+
+**Personal Reflections on Environmental Interconnectedness**
+
+There will be two reflection essays, each worth 20% of your grade. These assignments aim to deepen your understanding of the intricate relationship between human life and the environment. You are encouraged to reflect critically on how the concepts presented in the class might influence your thinking, lifelong learning, and your personal relationship with the environment.
+
+**Grading Criteria:** Each essay has detailed instructions and a rubric attached in Canvas. Please review them carefully.
+
+---
+
+# Technical Issues
+
+## Canvas Issues
+
+Issues involving Canvas access, submissions, quizzes, or grades must be reported to me immediately. After notifying me, contact campus IT Services (ITS) and follow their procedures. Documentation from ITS may be required. Canvas problems reported after a deadline, without prior notice or documentation, will not be accommodated.
+
+## Personal Technical Problems
+
+Problems with your own computer, internet connection, software, file corruption, browser issues, time zone settings, or general device failure are **not** grounds for extensions or exceptions. You are expected to maintain reliable access to a functioning computer and internet connection for an online course.
+
+## Timing and Documentation
+
+Technical issues must be reported as soon as they occur. Waiting until or after a deadline substantially limits what can be done. Screenshots, error messages, timestamps, or ITS documentation may be required.
+
+## Bottom Line
+
+This is an asynchronous online course. Managing your technology is part of managing the course. Legitimate system failures will be handled fairly when reported promptly and through the correct channel. Personal technical failures remain your responsibility.
+
+---
+
+# Class AI Policy
+
+You are strictly prohibited from using Generative AI (GenAI) or Large Language Models (LLMs), such as ChatGPT, Gemini, Claude, Copilot, and Grok, for research or writing assignments. Any submitted work that has obviously used such tools will receive a failing grade. You are also prohibited from submitting (or inputting) any course material to a GenAI or LLM service, especially an online one.
+
+The writing assignments in this course ask **you** to think about what **you feel** about a topic. They are designed for you to reflect on your own values. AI cannot perform this task.
+
+There are several reasons for this policy:[^ai-policy]
+
+- **The written assignments are designed to teach you how to think critically and reflect on your own values.** This includes learning to do your own research, developing your own writing style, and being able to communicate through writing. Research, writing, and communication *are* thinking. You aren't thinking and you aren't learning to think critically if you aren't doing the research, writing, and communicating. (Perfors 2024; Barshay 2024; Bastani et al. 2024; Chiang 2024; Lee et al. 2025)
+
+- **Do not submit any course material to an LLM.** You do not have permission from the authors/creators to do so. LLMs will use submitted material to train their models, effectively taking ownership of that material. (OpenAI, n.d.)
+
+- **LLMs are not search engines, databases, or indexes.** They are systems for generating sequences of words statistically probable given a prompt. Use the readings provided in the course, and learn to use the library and its databases. Be aware that **using AI as a search engine is bad for information verification, information literacy, and serendipity.** (Bender 2024b; Shah & Bender 2022; Shah & Bender 2024)
+
+- **Do not turn in the output of an LLM in this course. Turn in your own work instead.** I cannot express how little I care about an LLM's output to a prompt on the assignments for this course. I am, however, very interested in your writing, your thoughts, and how you answer the assignments.
+
+- **LLMs are not "intelligent."** They have no reasoning capability or understanding. As purely stochastic systems, they are unable to differentiate between facts and falsehoods, reality and unrealities, truth and lies. An LLM could produce passing work for this course — but it could also (and this is more likely) produce nonsensical arguments, made-up references, and plagiarized material. **AI assistants cannot be relied upon because they are both inaccurate and misleading.** (Birhane & McGann 2024; Bjarnason 2023; Chiang 2024; Hicks et al. 2024; Xu et al. 2024; Zhou et al. 2024)
+
+- **LLMs are not reliable at summarizing documents and data.** They emphasize the wrong points, include incorrect information, disregard context, and cause more work than if you had simply done the summary yourself. **The idea that LLMs boost productivity is a myth.** (Humlum & Vestergaard 2025; Mensik 2024; Wilson 2024)
+
+- **GenAI / LLMs are prejudiced in just about every way they have been tested.** They reproduce and intensify biases from their training data — including racism, sexism, and homophobia. They advise women to request significantly lower salaries than men and misclassify African American English as hateful. (Caliskan et al. 2017; Gilbert 2024; Hofmann et al. 2024; O'Hagan 2024; Sorokovikova et al. 2025)
+
+- **GenAI / LLMs are polluting the internet and scientific research.** AI-generated papers with incorrect arguments are indexed alongside reputable sources, threatening research integrity. (Haider et al. 2024; Koebler 2024; Roswell 2025)
+
+- **AI companies have used information without authors' or creators' consent or compensation.** AI exploits student labor by using submitted work to train products that are then sold back to universities without compensating students. I recommend you do not upload your own material to an LLM. (Low 2023; Marcus & Southern 2024; Weinberg 2024)
+
+Remember: in almost all cases, your writing will only ever be read by exactly two people — you and me. Is it worth risking a failing grade when you could simply produce your own work?
+
+*Much of this policy text has been adapted from David Murakami Wood's [policy](https://ubisurv.net/2024/09/01/llms-and-the-social-science-classroom/), with additions and modifications. It is shared under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+
+[^ai-policy]: This policy is almost entirely based on the policy by Joe McVeigh (<https://eviljoemcveigh.com/>) with my own additions and modifications. Shared under the same CC license.
+
+## AI Policy Sources
+
+Al-Sibai, N. (2024, January 8). OpenAI Pleads That It Can't Make Money Without Using Copyrighted Materials for Free. *Futurism*. <https://futurism.com/the-byte/openai-copyrighted-material-parliament>
+
+Barshay, J. (2024, September 2). Kids who use ChatGPT as a study assistant do worse on tests. *The Hechinger Report*. <http://hechingerreport.org/kids-chatgpt-worse-on-tests/>
+
+Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2024). *Generative AI Can Harm Learning*. <https://doi.org/10.2139/ssrn.4895486>
+
+BBC RAI Research. (2025). *Representation of BBC News content in AI Assistants*. <https://www.bbc.co.uk/aboutthebbc/documents/bbc-research-into-ai-assistants.pdf>
+
+Bender, E. M. (2024a). Resisting Dehumanization in the Age of "AI." *Current Directions in Psychological Science*, *33*(2), 114–120. <https://doi.org/10.1177/09637214231217286>
+
+Bender, E. M. (2024b, November 5). Information literacy and chatbots as search. <https://buttondown.com/maiht3k/archive/information-literacy-and-chatbots-as-search/>
+
+Birhane, A., & McGann, M. (2024). Large models of what? Mistaking engineering achievements for human linguistic agency. *Language Sciences*, *106*, 101672. <https://doi.org/10.1016/j.langsci.2024.101672>
+
+Bjarnason, B. (2023). The LLMentalist Effect: How chat-based Large Language Models replicate the psychic's con. *Out of the Software Crisis*. <https://softwarecrisis.dev/letters/llmentalist/>
+
+Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. *Science*, *356*(6334), 183–186. <https://doi.org/10.1126/science.aal4230>
+
+Center for Countering Digital Hate. (2025). *Fake Friend: How ChatGPT is betraying teenagers*. <https://counterhate.com/research/fake-friend-chatgpt/>
+
+Chiang, T. (2024, August 31). Why A.I. Isn't Going to Make Art. *The New Yorker*. <https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art>
+
+Eichenberger, A., Thielke, S., & Van Buskirk, A. (2025). A Case of Bromism Influenced by Use of Artificial Intelligence. *Annals of Internal Medicine: Clinical Cases*, *4*(8), e241260. <https://doi.org/10.7326/aimcc.2024.1260>
+
+Gilbert, D. (2024, October 24). Google, Microsoft, and Perplexity Are Promoting Scientific Racism in Search Results. *Wired*. <https://www.wired.com/story/google-microsoft-perplexity-scientific-racism-search-results-ai/>
+
+HAI. (2024). How Harmful Are AI's Biases on Diverse Student Populations? *Stanford Institute for Human-Centered AI*. <https://hai.stanford.edu/news/how-harmful-are-ais-biases-on-diverse-student-populations>
+
+Haider, J., Söderström, K. R., Ekström, B., & Rödl, M. (2024). GPT-fabricated scientific papers on Google Scholar: Key features, spread, and implications for preempting evidence manipulation. *Harvard Kennedy School Misinformation Review*. <https://doi.org/10.37016/mr-2020-156>
+
+Hao, K., & Seetharaman, D. (2023, July 24). Cleaning Up ChatGPT Takes Heavy Toll on Human Workers. *Wall Street Journal*. <https://www.wsj.com/articles/chatgpt-openai-content-abusive-sexually-explicit-harassment-kenya-workers-on-human-workers-cf191483>
+
+Herrman, J. (2024, June 14). The Other Big Problem With AI Search. *Intelligencer*. <https://nymag.com/intelligencer/article/perplexity-demonstrates-the-other-big-problem-with-ai-search.html>
+
+Hicks, M. T., Humphries, J., & Slater, J. (2024). ChatGPT is bullshit. *Ethics and Information Technology*, *26*(2), 38. <https://doi.org/10.1007/s10676-024-09775-5>
+
+Hofmann, V., Kalluri, P. R., Jurafsky, D., & King, S. (2024). AI generates covertly racist decisions about people based on their dialect. *Nature*. <https://doi.org/10.1038/s41586-024-07856-5>
+
+Humlum, A., & Vestergaard, E. (2025). *Large Language Models, Small Labor Market Effects*. SSRN. <https://doi.org/10.2139/ssrn.5219933>
+
+Joshi, A., et al. (2025). Natural Language Processing for Dialects of a Language: A Survey. *ACM Computing Surveys*, *57*(6), 1–37. <https://doi.org/10.1145/3712060>
+
+Koebler, J. (2024, September 19). Project Analyzing Human Language Usage Shuts Down Because 'Generative AI Has Polluted the Data.' *404 Media*. <https://www.404media.co/project-analyzing-human-language-usage-shuts-down-because-generative-ai-has-polluted-the-data/>
+
+Lee, H.-P., et al. (2025). The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. *CHI Conference on Human Factors in Computing Systems*. <https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf>
+
+Low, E. (2023, February 18). TV Writers Found 139,000 of Their Scripts Trained AI. Hell Broke Loose. *The Ankler*. <https://theankler.com/p/tv-writers-scripts-ai-training-controversy-chatbot>
+
+Marcus, G., & Southern, R. (2024). Generative AI Has a Visual Plagiarism Problem. *IEEE Spectrum*. <https://spectrum.ieee.org/midjourney-copyright>
+
+McQuillan, D. (2023, February 10). ChatGPT: The world's largest bullshit machine. *Transforming Society*. <https://www.transformingsociety.co.uk/2023/02/10/chatgpt-the-worlds-largest-bullshit-machine/>
+
+Mensik, H. (2024, July 24). AI is actually making workers less productive. *WorkLife*. <https://www.worklife.news/technology/ai-is-actually-making-workers-less-productive/>
+
+Murakami Wood, D. (2024, September 1). LLMs and the Social Science Classroom. *Ubisurv*. <https://ubisurv.net/2024/09/01/llms-and-the-social-science-classroom/>
+
+O'Hagan, C. (2024). Generative AI: UNESCO study reveals alarming evidence of regressive gender stereotypes. *UNESCO*. <https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes>
+
+OpenAI. (n.d.). *Terms of use*. <https://openai.com/policies/row-terms-of-use/>
+
+Perfors, A. (2024, February 14). The work of creation in the age of AI. <http://perfors.net/blog/creation-ai/>
+
+Reif, J. A., Larrick, R. P., & Soll, J. B. (2025). Evidence of a social evaluation penalty for using AI. *PNAS*, *122*(19), e2426766122. <https://doi.org/10.1073/pnas.2426766122>
+
+Roswell, J. (2025, May 12). Flood of AI-assisted research 'weakening quality of science.' *Times Higher Education*. <https://www.timeshighereducation.com/news/flood-ai-assisted-research-weakening-quality-science>
+
+Salvaggio, E. (2024, August 29). Challenging The Myths of Generative AI. *Tech Policy Press*. <https://techpolicy.press/challenging-the-myths-of-generative-ai>
+
+Shah, C., & Bender, E. M. (2022). Situating Search. *ACM SIGIR Conference on Human Information Interaction and Retrieval*, 221–232. <https://doi.org/10.1145/3498366.3505816>
+
+Shah, C., & Bender, E. M. (2024). Envisioning Information Access Systems: What Makes for Good Tools and a Healthy Web? *ACM Transactions on the Web*, *18*(3), 1–24. <https://doi.org/10.1145/3649468>
+
+Shieh, E., Vassel, F.-M., Sugimoto, C., & Monroe-White, T. (2024). *Laissez-Faire Harms: Algorithmic Biases in Generative Language Models* (arXiv:2404.07475). <https://doi.org/10.48550/arXiv.2404.07475>
+
+Sorokovikova, A., Chizhov, P., Eremenko, I., & Yamshchikov, I. P. (2025). *Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models* (arXiv:2506.10491). <https://doi.org/10.48550/arXiv.2506.10491>
+
+Speer, R. (2024). wordfreq/SUNSET.md. GitHub. <https://github.com/rspeer/wordfreq/blob/master/SUNSET.md>
+
+Suchak, T., et al. (2025). Explosion of formulaic research articles … based on the NHANES US national health database. *PLOS Biology*, *23*(5), e3003152. <https://doi.org/10.1371/journal.pbio.3003152>
+
+Vassel, F.-M., Shieh, E., Sugimoto, C. R., & Monroe-White, T. (2024). The Psychosocial Impacts of Generative AI Harms. *AAAI Symposium Series*, *3*(1). <https://doi.org/10.1609/aaaiss.v3i1.31251>
+
+Weinberg, L. (2024). Breaking the AI Fever. *Inside Higher Ed*. <https://www.insidehighered.com/opinion/views/2024/11/06/ai-consolidating-corporate-power-higher-ed-opinion>
+
+Wilson, C. (2024, September 3). AI worse than humans in every way at summarising information, government trial finds. *Crikey*. <https://www.crikey.com.au/2024/09/03/ai-worse-summarising-information-humans-government-trial/>
+
+Xu, Z., Jain, S., & Kankanhalli, M. (2024). *Hallucination is Inevitable: An Innate Limitation of Large Language Models* (arXiv:2401.11817). <http://arxiv.org/abs/2401.11817>
+
+Zhou, L., et al. (2024). Larger and more instructable language models become less reliable. *Nature*, *634*(8032), 61–68. <https://doi.org/10.1038/s41586-024-07930-y>
+
+*This policy is made available under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+
+---
+
+# Academic Integrity
+
+Most students hold themselves to high ethical standards. When others engage in academic misconduct, it can reduce morale and diminish the meaning of being a Titan. The following policy is intended to support everyone in the Titan community.
+
+California State University has a strict policy against academic fraud and dishonesty. It is the student's responsibility to adhere to the guidelines regarding academic dishonesty as set forth in the university handbook. Policies can be found at: <http://www.fullerton.edu/deanofstudents/conduct/policies-procedures.php>.
+
+These include, but are not limited to: California Code of Regulations Title 5, Section 41301; Student Rights and Responsibilities (UPS 300.000); Academic Dishonesty Policy (UPS 300.021).
+
+The success of public health intervention relies on the public's trust in the integrity of public health workers. Every act of dishonesty undermines the potential for public health officials and their research to be trusted. Probity should be considered a requisite characteristic of all persons working in the health sciences and is expected of Titans.
+
+Students who inadvertently or negligently engage in academic dishonesty will be ineligible to receive credit for the related work. The student may be reassessed on all course material using a variety of modalities, including oral examination. Evidence of academic dishonesty will be reported to the Dean of Students and the CSUF Student Conduct team. The student will receive an F in the course upon determining that any incident was the result of willful intent or gross negligence.
+
+Submitting deliverables with content that conflicts with or is disconnected from the course materials will be treated as evidence that the submission was generated without knowledge of the course or by the use of AI/LLMs. Respondus and Turnitin or similar software may be used to authenticate student work during online assessments.
+
+---
+
+# Changes to the Course
+
+Adjustments may be required as the semester progresses. This syllabus and assignments are subject to change.
+
+---
+
+# Other Course Policies
+
+There are a number of other policies and resources important for this course. Please review them at [Student Information for Course Syllabi](https://fdc.fullerton.edu/teaching/student-info-syllabi.html).
