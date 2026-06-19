@@ -1,0 +1,14 @@
+---
+title: "Course Announcements"
+date: "2026-06-17"
+draft: false
+class: "115"
+categories: "syllabus"
+
+---
+
+
+
+## Class Announcements
+
+Announcements will be made through Canvas.

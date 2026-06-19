@@ -1,0 +1,68 @@
+---
+title: "Other Course Policies"
+date: "2026-06-17"
+draft: false
+class: "115"
+categories: "syllabus"
+
+---
+# Technical Issues
+
+## Canvas Issues
+
+Issues involving Canvas access, submissions, quizzes, or grades must be reported to me immediately. After notifying me, contact campus IT Services (ITS) and follow their procedures. Documentation from ITS may be required. Canvas problems reported after a deadline, without prior notice or documentation, will not be accommodated.
+
+## Personal Technical Problems
+
+Problems with your own computer, internet connection, software, file corruption, browser issues, time zone settings, or general device failure are **not** grounds for extensions or exceptions. You are expected to maintain reliable access to a functioning computer and internet connection for an online course.
+
+## Timing and Documentation
+
+Technical issues must be reported as soon as they occur. Waiting until or after a deadline substantially limits what can be done. Screenshots, error messages, timestamps, or ITS documentation may be required.
+
+## Bottom Line
+
+This is an asynchronous online course. Managing your technology is part of managing the course. Legitimate system failures will be handled fairly when reported promptly and through the correct channel. Personal technical failures remain your responsibility.
+
+---
+
+# Class AI Policy
+
+You are strictly prohibited from using Generative AI (GenAI) or Large Language Models (LLMs), such as ChatGPT, Gemini, Claude, Copilot, and Grok, for research or writing assignments. Any submitted work that has obviously used such tools will receive a failing grade. You are also prohibited from submitting (or inputting) any course material to a GenAI or LLM service, especially an online one.
+
+The writing assignments in this course ask **you** to think about what **you feel** about a topic. They are designed for you to reflect on your own values. AI cannot perform this task.
+
+- **The written assignments are designed to teach you how to think critically and reflect on your own values.** This includes learning to do your own research, developing your own writing style, and being able to communicate through writing. Research, writing, and communication *are* thinking. You aren't thinking and you aren't learning to think critically if you aren't doing the research, writing, and communicating. 
+
+- **Do not submit any course material to an LLM.** You do not have permission from the authors/creators to do so. LLMs will use submitted material to train their models, effectively taking ownership of that material. 
+
+- **Do not turn in the output of an LLM in this course. Turn in your own work instead.** I cannot express how little I care about an LLM's output to a prompt on the assignments for this course. I am, however, very interested in your writing, your thoughts, and how you answer the assignments.
+
+Remember: in almost all cases, your writing will only ever be read by exactly two people — you and me. Is it worth risking a failing grade when you could simply produce your own work?
+---
+
+# Academic Integrity
+
+Most students hold themselves to high ethical standards. When others engage in academic misconduct, it can reduce morale and diminish the meaning of being a Titan. The following policy is intended to support everyone in the Titan community.
+
+California State University has a strict policy against academic fraud and dishonesty. It is the student's responsibility to adhere to the guidelines regarding academic dishonesty as set forth in the university handbook. Policies can be found at: <http://www.fullerton.edu/deanofstudents/conduct/policies-procedures.php>.
+
+These include, but are not limited to: California Code of Regulations Title 5, Section 41301; Student Rights and Responsibilities (UPS 300.000); Academic Dishonesty Policy (UPS 300.021).
+
+The success of public health intervention relies on the public's trust in the integrity of public health workers. Every act of dishonesty undermines the potential for public health officials and their research to be trusted. Probity should be considered a requisite characteristic of all persons working in the health sciences and is expected of Titans.
+
+Students who inadvertently or negligently engage in academic dishonesty will be ineligible to receive credit for the related work. The student may be reassessed on all course material using a variety of modalities, including oral examination. Evidence of academic dishonesty will be reported to the Dean of Students and the CSUF Student Conduct team. The student will receive an F in the course upon determining that any incident was the result of willful intent or gross negligence.
+
+Submitting deliverables with content that conflicts with or is disconnected from the course materials will be treated as evidence that the submission was generated without knowledge of the course or by the use of AI/LLMs. Respondus and Turnitin or similar software may be used to authenticate student work during online assessments.
+
+---
+
+# Changes to the Course
+
+Adjustments may be required as the semester progresses. This syllabus and assignments are subject to change.
+
+---
+
+# Other Course Policies
+
+There are a number of other policies and resources important for this course. Please review them at [Student Information for Course Syllabi](https://fdc.fullerton.edu/teaching/student-info-syllabi.html).

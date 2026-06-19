@@ -1,0 +1,51 @@
+---
+title: "Course Materials"
+date: "2026-06-17"
+draft: false
+class: "115"
+categories: "syllabus"
+
+---
+# Required Course Materials
+
+## Purchase Required
+
+Hsu, H. L. (2023). *Air conditioning*. Bloomsbury Academic.
+
+## Provided on Leganto (linked from Canvas)
+
+- *Introduction to Environmental Health* lecture video and slides (2024-07-31)
+- *Environmental Justice Overview* video
+- Walker, G. (2012). *Environmental Justice: Concepts, evidence and politics* (1st ed.). Routledge. <https://doi.org/10.4324/9780203610671>
+- WHO. *Overview of Lead Poisoning*. <https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health>
+- *The legacy of the Flint water crisis* \[Video\]. 60 Minutes. <https://www.youtube.com/watch?v=GYiVHh4U4pE>
+- Hanna-Attisha, M., LaChance, J., Sadler, R. C., & Schnepp, A. C. (2016). Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis: A Spatial Analysis of Risk and Public Health Response. *American Journal of Public Health*, *106*(2), 283–290. <https://doi.org/10.2105/AJPH.2015.303003>
+- Harris, E. P. Chapter 7: Water Availability and Use. University of West Florida Pressbooks. <https://pressbooks.uwf.edu/envrioscience/part/chapter-7-water-availability-and-use/>
+- Harris, E. P. Chapter 9: Conventional and Sustainable Agriculture. University of West Florida Pressbooks. <https://pressbooks.uwf.edu/envrioscience/part/chapter-9-conventional-sustainable-agriculture/>
+- Duchenne-Moutien, R. A., & Neetoo, H. (2021). Climate Change and Emerging Food Safety Issues: A Review. *Journal of Food Protection*, *84*(11), 1884–1897. <https://doi.org/10.4315/JFP-21-141>
+- Harris, E. P. Chapter 10: Air Pollution, Climate Change, and Ozone Depletion. <https://pressbooks.uwf.edu/envrioscience/part/chp-10-air-pollution-climate-change-and-ozone-depletion/>
+- MIT Climate Primer. <https://climateprimer.mit.edu/>
+- FNCA Chapter 2: Climate Trends \[PDF\]
+- FNCA Chapter 3: Earth Systems Processes \[PDF\]
+- FNCA Chapter 4: Water \[PDF\]
+- FNCA Chapter 6: Land Cover and Land-use Change \[PDF\]
+- FNCA Chapter 11: Agriculture, Food Systems, and Rural Communities. <https://doi.org/10.7930/NCA5.2023.CH11>
+- FNCA Chapter 14: Air Quality \[PDF\]
+- FNCA Chapter 15: Human Health \[PDF\]
+- *Sustainability Overview* \[Video\]. <https://vimeo.com/1108205548/51a341c0b0?share=copy>
+- United Nations. What is Sustainable Development?
+- United Nations. UN Sustainable Development Goals. <https://www.un.org/sustainabledevelopment/>
+- WHO. *Global Sustainable Development Report 2023: Times of Crisis, Times of Change*.
+- *Anthropocene: The Human Epoch* \[Film\]. Kanopy. <https://www.kanopy.com/en/fullerton/video/6016074>
+- The Geology and Culture of the Anthropocene. Anthropocene Curriculum. <https://www.anthropocene-curriculum.org/contribution/the-geology-and-culture-of-the-anthropocene>
+- Living in the Anthropocene: Toward a New Global Ethos. Yale E360. <https://e360.yale.edu/features/living_in_the_anthropocene_toward_a_new_global_ethos>
+- *Introduction to Planetary Health* \[Video\]. <https://vimeo.com/1107915009/4868e35b07?share=copy>
+- Planetary Health Alliance. *What is Planetary Health?* \[Video\]. <https://youtu.be/lw_I7rhn9eY?feature=shared>
+- Planetary Health Alliance. *Introduction to Planetary Health* \[Video\]. <https://youtu.be/_b2yVNkPgvM?feature=shared>
+- Whitmee, S., et al. (2015). Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health. *The Lancet*, *386*(10007), 1973–2028. <https://doi.org/10.1016/S0140-6736(15)60901-1>
+- FNCA Chapter 18: Sector Interactions, Multiple Stressors, and Complex Systems \[PDF\]
+- Chapter 14: Sustainability and Urban Infrastructure. <https://pressbooks.uwf.edu/envrioscience/part/chapter-14-sustainability-and-urban-infrastructure/>
+- Lopez, R. P. (2012). Chapter 1: Introduction to the Built Environment and Public Health. In *The built environment and public health* (Vol. 16). Wiley. <https://ebookcentral.proquest.com/lib/fullerton/reader.action?docID=7103425&ppg=21>
+- Lopez, R. P. (2012). Chapter 2: History. In *The built environment and public health* (Vol. 16). Wiley. <https://ebookcentral.proquest.com/lib/fullerton/reader.action?docID=7103425&ppg=35>
+- Hsu, H. (2024). Introduction; Chapters 1, 2, 3, 5, 6. In *Air Conditioning* (1st ed.). Bloomsbury. <https://doi.org/10.5040/9781501377853>
+

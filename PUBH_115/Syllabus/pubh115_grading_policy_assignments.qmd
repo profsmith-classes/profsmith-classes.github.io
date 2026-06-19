@@ -1,156 +1,10 @@
 ---
-title: "Syllabus"
-date: "2026-06-17"
+title: "Grading Policy and Assignments"
 draft: false
 class: "115"
 categories: "syllabus"
 
 ---
-
-
-# Instructor Information
-
-**Instructor:** Jason A. Smith
-
-**Email:** [jasosmith\@fullerton.edu](mailto:jasosmith@fullerton.edu)
-
-**Phone:** +1 657-278-5606
-
-**Office Location:** KHS 241
-
-**Office Hours (via Zoom)**
-
-- Tuesday, 9:00–10:30 AM
-- Wednesday, 10:00–11:30 AM
-
-Use the link in Canvas to schedule and for the Zoom link.
-
-## Contacting Me
-
-The best way to contact me is by email. I will respond to emails within 48 hours. Put the course number and section in the subject line of the email.
-
-## Class Announcements
-
-Announcements will be made through Canvas.
-
----
-
-# Course Description
-
-How environmental and safety hazards influence public health and sustainability. Multiple perspectives on water, air, and solid waste pollution, sustainability and public safety issues.
-
-This class is focused on providing you an introduction to the relationship between the environment and health; an introduction to environmental health; and, most importantly, an opportunity for you to reflect on your own values, learning, and goals in the context of your existence and the planet that you live on.
-
----
-
-# General Education
-
-This course meets the requirements of Area E – Lifelong Learning.
-
----
-
-# Prerequisites
-
-None.
-
----
-
-# Course Modality
-
-Asynchronous Online
-
----
-
-# Course Student Learning Outcomes (SLOs)
-
-- Further their own critical self-understanding and acquire the knowledge, skills, and attitudes necessary to engage and reflect in learning and self-development practices.
-- Develop strategies to be integrated physiological, socio-cultural, and psychological beings to promote a holistic awareness of lifelong learning throughout their lives.
-- Develop themselves as responsible citizens, employees and employers, family members, and members of the global society.
-- Actively apply and participate in developing a lifelong commitment to health for both personal well-being (such as physical, financial, emotional, intellectual, spiritual, social/interpersonal, and/or environmental aspects) and societal responsibility.
-- Discuss concepts of sustainability associated with natural resources and human population.
-- Explore people's attitudes and motivations to change consumptive practices to preserve natural resources.
-- Characterize the health outcomes of exposure to environmental pollutants, including air, water, and food.
-- Understand the importance of safety in protecting the public and workers from various hazards at home and workplaces.
-- Review careers available in environmental health and safety.
-
----
-
-# Required Course Materials
-
-## Purchase Required
-
-Hsu, H. L. (2023). *Air conditioning*. Bloomsbury Academic.
-
-## Provided on Leganto (linked from Canvas)
-
-- *Introduction to Environmental Health* lecture video and slides (2024-07-31)
-- *Environmental Justice Overview* video
-- Walker, G. (2012). *Environmental Justice: Concepts, evidence and politics* (1st ed.). Routledge. <https://doi.org/10.4324/9780203610671>
-- WHO. *Overview of Lead Poisoning*. <https://www.who.int/news-room/fact-sheets/detail/lead-poisoning-and-health>
-- *The legacy of the Flint water crisis* \[Video\]. 60 Minutes. <https://www.youtube.com/watch?v=GYiVHh4U4pE>
-- Hanna-Attisha, M., LaChance, J., Sadler, R. C., & Schnepp, A. C. (2016). Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis: A Spatial Analysis of Risk and Public Health Response. *American Journal of Public Health*, *106*(2), 283–290. <https://doi.org/10.2105/AJPH.2015.303003>
-- Harris, E. P. Chapter 7: Water Availability and Use. University of West Florida Pressbooks. <https://pressbooks.uwf.edu/envrioscience/part/chapter-7-water-availability-and-use/>
-- Harris, E. P. Chapter 9: Conventional and Sustainable Agriculture. University of West Florida Pressbooks. <https://pressbooks.uwf.edu/envrioscience/part/chapter-9-conventional-sustainable-agriculture/>
-- Duchenne-Moutien, R. A., & Neetoo, H. (2021). Climate Change and Emerging Food Safety Issues: A Review. *Journal of Food Protection*, *84*(11), 1884–1897. <https://doi.org/10.4315/JFP-21-141>
-- Harris, E. P. Chapter 10: Air Pollution, Climate Change, and Ozone Depletion. <https://pressbooks.uwf.edu/envrioscience/part/chp-10-air-pollution-climate-change-and-ozone-depletion/>
-- MIT Climate Primer. <https://climateprimer.mit.edu/>
-- FNCA Chapter 2: Climate Trends \[PDF\]
-- FNCA Chapter 3: Earth Systems Processes \[PDF\]
-- FNCA Chapter 4: Water \[PDF\]
-- FNCA Chapter 6: Land Cover and Land-use Change \[PDF\]
-- FNCA Chapter 11: Agriculture, Food Systems, and Rural Communities. <https://doi.org/10.7930/NCA5.2023.CH11>
-- FNCA Chapter 14: Air Quality \[PDF\]
-- FNCA Chapter 15: Human Health \[PDF\]
-- *Sustainability Overview* \[Video\]. <https://vimeo.com/1108205548/51a341c0b0?share=copy>
-- United Nations. What is Sustainable Development?
-- United Nations. UN Sustainable Development Goals. <https://www.un.org/sustainabledevelopment/>
-- WHO. *Global Sustainable Development Report 2023: Times of Crisis, Times of Change*.
-- *Anthropocene: The Human Epoch* \[Film\]. Kanopy. <https://www.kanopy.com/en/fullerton/video/6016074>
-- The Geology and Culture of the Anthropocene. Anthropocene Curriculum. <https://www.anthropocene-curriculum.org/contribution/the-geology-and-culture-of-the-anthropocene>
-- Living in the Anthropocene: Toward a New Global Ethos. Yale E360. <https://e360.yale.edu/features/living_in_the_anthropocene_toward_a_new_global_ethos>
-- *Introduction to Planetary Health* \[Video\]. <https://vimeo.com/1107915009/4868e35b07?share=copy>
-- Planetary Health Alliance. *What is Planetary Health?* \[Video\]. <https://youtu.be/lw_I7rhn9eY?feature=shared>
-- Planetary Health Alliance. *Introduction to Planetary Health* \[Video\]. <https://youtu.be/_b2yVNkPgvM?feature=shared>
-- Whitmee, S., et al. (2015). Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health. *The Lancet*, *386*(10007), 1973–2028. <https://doi.org/10.1016/S0140-6736(15)60901-1>
-- FNCA Chapter 18: Sector Interactions, Multiple Stressors, and Complex Systems \[PDF\]
-- Chapter 14: Sustainability and Urban Infrastructure. <https://pressbooks.uwf.edu/envrioscience/part/chapter-14-sustainability-and-urban-infrastructure/>
-- Lopez, R. P. (2012). Chapter 1: Introduction to the Built Environment and Public Health. In *The built environment and public health* (Vol. 16). Wiley. <https://ebookcentral.proquest.com/lib/fullerton/reader.action?docID=7103425&ppg=21>
-- Lopez, R. P. (2012). Chapter 2: History. In *The built environment and public health* (Vol. 16). Wiley. <https://ebookcentral.proquest.com/lib/fullerton/reader.action?docID=7103425&ppg=35>
-- Hsu, H. (2024). Introduction; Chapters 1, 2, 3, 5, 6. In *Air Conditioning* (1st ed.). Bloomsbury. <https://doi.org/10.5040/9781501377853>
-
----
-
-# Course Calendar
-
-This course calendar provides an overview of the topic for each week. Dates indicate the Monday of the week that you should complete the assignment. **Bold dates are specific due dates.** Some topics and modules span multiple weeks. You will be asked to complete reading assignments, watch lectures, and complete other activities for each module.
-
-> **IMPORTANT:** Due dates for modules and readings are available in Canvas. All assigned readings are also available on Leganto linked to in Canvas, except for *Air Conditioning*, which is required for purchase. Please review the dates and materials at the beginning of the class. There may be adjustments to the readings and materials as the class progresses.
-
-| Date | Topic |
-|------|-------|
-| 08/24/26 | Introduction to the class, instructor, and course requirements |
-| 08/31/26 | Introduction to Environmental Health |
-| 09/07/26 | Exploring your Values *(Note: Labor Day 09/07 — campus closed; plan accordingly)* |
-| **09/11/26** | **Values exercise due** |
-| 09/14/26 | Water |
-| 09/21/26 | Land |
-| 09/28/26 | Air |
-| 10/05/26 | Causes of Climate Change |
-| **10/09/26** | **Exam 1** – Introduction to Environmental Health, Water, Land, Air |
-| 10/12/26 | Climate Change, the Environment, and Human Health |
-| 10/19/26 | Sustainability |
-| 10/26/26 | Introduction to the Anthropocene |
-| **10/30/26** | **Exam 2** – Causes of Climate Change through Sustainability |
-| 11/02/26 | The Anthropocene and Health – Planetary Health Framework |
-| 11/09/26 | The Built Environment |
-| 11/16/26 | The Built Environment and Health – Introduction, Chapters 1–3 |
-| **11/13/26** | **Essay 1 due** |
-| 11/23/26 | *Fall Recess – no classes (campus closed Nov. 26–27)* |
-| 11/30/26 | The Built Environment and the Anthropocene – Chapters 5 & 6 |
-| **12/11/26** | **Essay 2 due** *(Last day of classes)* |
-
----
-
 # Grading Policy
 
 ## Grading Scale
@@ -171,12 +25,6 @@ If you do not attempt an assignment or do not take an exam, you will receive a *
 
 See the [CSUF Catalog](https://catalog.fullerton.edu/content.php?catoid=80&navoid=10986) for complete details.
 
----
-
-# Course Assignments and Requirements
-
-All course assignments and exams will be completed on Canvas.
-
 ## Missed and Late Work Policy
 
 - Each student will have one make-up exam opportunity for missed exams without documented justification. The make-up exam will be shorter and carry a 5% score reduction.
@@ -184,6 +32,12 @@ All course assignments and exams will be completed on Canvas.
 - This course has no meeting time and no attendance requirement.
 - No extra credit assignments are available.
 - All assignments are completed individually.
+
+---
+
+# Course Assignments and Requirements
+
+All course assignments and exams will be completed on Canvas.
 
 ## Discover Your Values (20%)
 
