@@ -2,7 +2,7 @@
 title: "Course Modules"
 date: "2026-06-17"
 description: "This pages contains the course modules, links to readings, and assignment information."
-draft: false
+draft: true
 class: "115"
 categories: "intro"
 
@@ -17,7 +17,7 @@ You must be enrolled in the course in order to access these pages.  You can also
 
 # Introduction to Environmental Health
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296780002908)
+[Introduction to Environmental Health](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296780002908)
 
 # Exploring your Values
 
@@ -25,45 +25,45 @@ You must be enrolled in the course in order to access these pages.  You can also
 
 # Water
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296920002908)
+[Water](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296920002908)
 
 # Land
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296940002908)
+[Land](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296940002908)
 
 
 # Air
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296970002908)
+[Air](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296970002908)
 
 # Causes of Climate Change
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296990002908)
+[Causes of Climate Change](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296990002908)
 
 # Climate Change, the Environment, and Human Health
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297050002908)
+[Climate Change, the Environment, and Human Health](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297050002908)
 
 # Sustainability
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297160002908)
+[Sustainability](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297160002908)
 
 # Introduction to the Anthropocene
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297230002908)
+[Introduction to the Anthropocene](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297230002908)
 
 # The Anthropocene and Health - Planetary Health Framework
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297270002908)
+[The Anthropocene and Health - Planetary Health Framework](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297270002908)
 
 # The Built Environment
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297340002908)
+[The Built Environment](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297340002908)
 
 # The Built Environment and Health
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297380002908)
+[The Built Environment and Health, Chapters 1 - 3](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297380002908)
 
 # The Built Environment and the Anthropocene
 
-[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297390002908)
+[The Built Environment and the Anthropocene, Chapters 5 & 6](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297390002908)

@@ -10,28 +10,34 @@ categories: "syllabus"
 
 This course calendar provides an overview of the topic for each week. Dates indicate the Monday of the week that you should complete the assignment. **Bold dates are specific due dates.** Some topics and modules span multiple weeks. You will be asked to complete reading assignments, watch lectures, and complete other activities for each module.
 
-> **IMPORTANT:** Due dates for modules and readings are available in Canvas. All assigned readings are also available on Leganto linked to in Canvas, except for *Air Conditioning*, which is required for purchase. Please review the dates and materials at the beginning of the class. There may be adjustments to the readings and materials as the class progresses.
+:::{.callout-important}
+> Due dates for modules and readings are available in Canvas and below. All assigned readings are available on Leganto linked to in Canvas and below, except for *Air Conditioning*, which is required for purchase. 
+> 
+> Please review the dates and materials at the beginning of the class. There may be adjustments to the readings and materials as the class progresses. 
+> 
+> Use the links below to access the materials for each module.
+:::
 
 | Date | Topic |
 |------|-------|
 | 08/24/26 | Introduction to the class, instructor, and course requirements |
-| 08/31/26 | Introduction to Environmental Health |
+| 08/31/26 | [Introduction to Environmental Health](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296780002908) |
 | 09/07/26 | Exploring your Values *(Note: Labor Day 09/07 — campus closed; plan accordingly)* |
 | **09/11/26** | **Values exercise due** |
-| 09/14/26 | Water |
-| 09/21/26 | Land |
-| 09/28/26 | Air |
-| 10/05/26 | Causes of Climate Change |
+| 09/14/26 | [Water](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296920002908) |
+| 09/21/26 | [Land](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296940002908) |
+| 09/28/26 | [Air](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296970002908) |
+| 10/05/26 |[Causes of Climate Change](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296990002908) |
 | **10/09/26** | **Exam 1** – Introduction to Environmental Health, Water, Land, Air |
-| 10/12/26 | Climate Change, the Environment, and Human Health |
-| 10/19/26 | Sustainability |
-| 10/26/26 | Introduction to the Anthropocene |
+| 10/12/26 | [Climate Change, the Environment, and Human Health](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297050002908) |
+| 10/19/26 | [Sustainability](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297160002908) |
+| 10/26/26 | [Introduction to the Anthropocene](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297230002908) |
 | **10/30/26** | **Exam 2** – Causes of Climate Change through Sustainability |
-| 11/02/26 | The Anthropocene and Health – Planetary Health Framework |
-| 11/09/26 | The Built Environment |
-| 11/16/26 | The Built Environment and Health – Introduction, Chapters 1–3 |
+| 11/02/26 | [The Anthropocene and Health - Planetary Health Framework](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297270002908) |
+| 11/09/26 | [The Built Environment](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297340002908) |
+| 11/16/26 | [The Built Environment and Health, Chapters 1 - 3](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297380002908) |
 | **11/13/26** | **Essay 1 due** |
 | 11/23/26 | *Fall Recess – no classes (campus closed Nov. 26–27)* |
-| 11/30/26 | The Built Environment and the Anthropocene – Chapters 5 & 6 |
+| 11/30/26 | [The Built Environment and the Anthropocene, Chapters 5 & 6](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297390002908) |
 | **12/11/26** | **Essay 2 due** *(Last day of classes)* |
 
