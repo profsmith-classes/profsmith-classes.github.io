@@ -1,0 +1,69 @@
+---
+title: "Course Modules"
+date: "2026-06-17"
+description: "This pages contains the course modules, links to readings, and assignment information."
+draft: false
+class: "115"
+categories: "intro"
+
+---
+The links below will take you to the course page in Leganto where you will find readings, posted lectures, and other materials for each module. Follow the schedule for each module on the syllabus
+
+:::{.callout-note}
+You must be enrolled in the course in order to access these pages.  You can also access Leganto through our course Canvas page. 
+:::
+
+# Course Introduction
+
+# Introduction to Environmental Health
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296780002908)
+
+# Exploring your Values
+
+
+
+# Water
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296920002908)
+
+# Land
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296940002908)
+
+
+# Air
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296970002908)
+
+# Causes of Climate Change
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296990002908)
+
+# Climate Change, the Environment, and Human Health
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297050002908)
+
+# Sustainability
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297160002908)
+
+# Introduction to the Anthropocene
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297230002908)
+
+# The Anthropocene and Health - Planetary Health Framework
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297270002908)
+
+# The Built Environment
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297340002908)
+
+# The Built Environment and Health
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297380002908)
+
+# The Built Environment and the Anthropocene
+
+[Assigned Materials](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297390002908)
