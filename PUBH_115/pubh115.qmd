@@ -5,6 +5,7 @@ description: "This is a class"
 draft: false
 class: "115"
 categories: "intro"
+sidebar: "PUBH 115: Introduction to Environmental Health and Safety"
 
 ---
 

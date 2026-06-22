@@ -8,15 +8,40 @@ website:
     background: primary
     search: true
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - sidebar:pubh115
+      - text: "Instructor Information"
+        href: about.qmd
+      - text: "PUBH 115: Introduction to Environmental Health and Safety"
+        href: PUBH_115/pubh115.qmd
+
   sidebar:
-    style: floating
+    style: "floating"
     search: true
-    contents: auto
+    contents:
+      - text: "Instructor Information"
+        ontents:
+        - text: "About"
+          href: about.qmd
+        - text: "Instructor Information"
+          href: instructor_information.qmd
+      - text: "PUBH 115: Introduction to Environmental Health and Safety"
+        contents:
+          - text: "Welcome to Class"
+            href: PUBH_115/pubh115.qmd
+          - text: "Course Description"
+            href: PUBH_115/pubh115_course_description.qmd
+          - text: "Announcements"
+            href: PUBH_115/pubh115_announcements.qmd
+          - text: "Course Calendar"
+            href: PUBH_115/pubh115_course_calendar.qmd
+          - text: "Course Assignments and Grading Policy"
+            href: PUBH_115/pubh115_grading_policy_assignments.qmd
+          - text: "Other Policies"
+            href: PUBH_115/pubh115_other_policy.qmd
+          - text: "Course Materials"
+            href: PUBH_115/pubh115_course_materials.qmd
+          
+
+
       
 format:
   html:
