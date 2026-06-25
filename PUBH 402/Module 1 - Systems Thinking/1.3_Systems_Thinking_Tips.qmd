@@ -1,0 +1,141 @@
+---
+title: "1.3 Systems Thinking Tips"
+date: "2026-06-25"
+draft: false
+class: "402"
+categories:
+
+---
+
+## Key Systems Thinking Takeaways for Students
+
+This course uses systems thinking to help explain why complex problems persist, recur, or resist well-intended solutions. The points below summarize the core ideas you are expected to understand and use.
+
+---
+
+## What systems thinking is really for
+
+Systems thinking is used to explain **persistence, recurrence, and unintended consequences**, not to make precise predictions.  
+If a problem keeps returning after repeated fixes, the cause is usually **system structure**, not ignorance, incompetence, or bad intent.  
+Systems thinking asks *why this keeps happening*, not just *what happened*.
+
+---
+
+## What a system map is (and is not)
+
+A system map is a **deliberate simplification**, not a comprehensive picture.  
+Trying to include everything makes the map meaningless.  
+Lists of factors are not systems—**relationships create systems**.  
+Diagrams are not the analysis; they are tools that support reasoning.
+
+---
+
+## Elements should usually be stocks
+
+Most elements should represent **conditions that exist at a point in time**, not one-time actions or events.  
+If an element sounds like a verb (“building,” “expanding,” “enforcing”), it usually needs to be renamed as a stock (“capacity,” “rate,” “level”).  
+Stocks give systems **memory**, which explains delay and resistance to change.
+
+---
+
+## Arrows represent causal claims, not associations
+
+Each arrow means: *a change in A causes a change in B, all else equal*.  
+Correlation alone is not sufficient. You should be able to explain the mechanism.  
+If a relationship is uncertain, document that uncertainty rather than guessing.
+
+---
+
+## Polarity is about direction, not value
+
+A `+` does **not** mean good.  
+A `–` does **not** mean bad.  
+Polarity only indicates whether two elements move in the same or opposite directions.  
+Getting polarity right matters more than making the diagram look polished.
+
+---
+
+## Feedback loops are the point
+
+A feedback loop exists when effects **circle back** to influence their own causes.  
+Reinforcing loops amplify change and create growth, escalation, or collapse.  
+Balancing loops resist change and create limits, stability, or oscillation.  
+Most real systems contain **both types of loops operating at the same time**.
+
+---
+
+## Data is often endogenous to systems
+
+Many systems generate the very data used to govern them.  
+Increased measurement or surveillance often produces more recorded problems, even when underlying conditions are unchanged.  
+Data does not always describe reality; sometimes it **helps create it**.
+
+---
+
+## Short-term success can cause long-term failure
+
+If an intervention works briefly and then stops working, that is a **systems signal**, not a contradiction.  
+Systems adapt to interventions.  
+A useful rule of thumb:  
+*If today’s solution changes tomorrow’s problem, systems thinking is required.*
+
+---
+
+## Reductionist and systems approaches are complementary
+
+Analytic methods are excellent for answering: *Does this intervention work under specific conditions?*  
+Systems thinking is necessary to answer: *What happens over time once the system adapts?*  
+The mistake is not using reductionist tools—it is using them **outside the domain where they work**.
+
+---
+
+## Messy diagrams are diagnostic
+
+If a map is unreadable, the causal structure is probably unclear.  
+Layout problems often reflect analytic problems.  
+Clarifying the system usually improves the diagram more than adjusting software settings.
+
+---
+
+## Delays matter more than people expect
+
+Many system responses are slow, even when causes are immediate.  
+Delays explain overshoot, frustration, and policy whiplash.  
+Ignoring delays leads to repeated fixes that make problems worse.
+
+---
+
+## Boundary choices are part of the analysis
+
+No system map is complete.  
+What you leave out determines what the system can explain.  
+Thoughtful exclusion is a sign of rigor, not weakness.
+
+---
+
+## Structure produces outcomes—even without bad actors
+
+Harmful outcomes do not require malicious intent.  
+Systems can behave rationally at the local level and fail at the global level.  
+Systems thinking shifts attention from blame to structure without abandoning responsibility.
+
+---
+
+## Diagrams should serve reasoning, not aesthetics
+
+Visual polish is not the goal.  
+Color, layout, and labels should carry **analytic meaning**, not decoration.  
+If a visual choice does not support reasoning, it should be removed.
+
+---
+
+## The ultimate learning goal
+
+The goal is not mastering terminology or software.
+
+The goal is the shift from asking:  
+*Who failed?* or *What should we fix?*  
+to asking:  
+*What structure makes this outcome likely?*
+
+If you can make that shift, you are doing systems thinking.

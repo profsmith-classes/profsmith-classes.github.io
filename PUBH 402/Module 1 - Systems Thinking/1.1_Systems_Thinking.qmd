@@ -1,0 +1,379 @@
+---
+title: "1.1 Systems Thinking"
+date: "2026-06-25"
+draft: false
+class: "402"
+categories: systems-thinking
+---
+
+# Readings
+
+Read Chapter 1 of Meadow's book on systems thinking.  [This is available on Canvas](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/citation/11231496930002908?auth=SAML).
+
+# Overview Video
+
+You can watch an overview of this material using the example of traffic. [Overview Video](https://vimeo.com/1157392633/3dfba25803?share=copy&fl=sv&fe=ci)
+
+# Systems Thinking: Seeing Structure Through a Simple Example
+
+This course uses _systems thinking_ in the sense articulated by Donella Meadows: as a way of seeing how patterns of behavior arise from structure, rather than from isolated events or individual intentions. Systems thinking is not primarily a technical skill. It is a disciplined shift in attention—from what happens to _why it keeps happening_.
+
+To make this shift concrete, we will begin with a deliberately familiar, non-medical system: urban traffic congestion. The goal is not to master transportation policy, but to practice seeing how system structure produces outcomes that often surprise people.
+
+As you work through this material, refer to [1.2 System Maps](1.2_System_Maps.qmd) to see how to graphically represent each of these concepts.
+
+# What Is a System?
+
+Meadows defines a system as a set of elements that are interconnected in a way that produces its own behavior over time. A system is more than the sum of its parts. To understand a system, three components matter: elements, interconnections, and purpose or function.
+
+:::{.callout-tip}
+# Meadows on Systems
+A system is an interconnected set of elements that is coherently organized in a way that achieves something.
+:::
+
+## Elements
+The things we can usually see. The elements that make up our traffic system include things like: "cars on the road," "travel time," "road capacity." Elements do not have to be things one can see. They can be intangible things. e.g. "Perceived ease of driving," "Perceived cost of driving."  We can't see these things but they exist.  Elements are nouns.
+
+## Interconnections
+The relationships between elements (how congestion affects speed, how travel time affects demand).  Some interconnections are physical flows, e.g. cars moving on the road.  Some are flows of information or signals that change the behavior of a system, e.g. brake lights.
+
+## Purpose or function
+What the system actually does, inferred from its behavior over time. A key move in systems thinking is recognizing that a system’s purpose is revealed by its outcomes, not by its stated goals. If congestion repeatedly returns after expensive interventions, that recurrence tells us something true about how the system is structured.
+
+:::{.callout-important}
+# Meadows on seeing function or purpose
+A system’s function or purpose is not necessarily spoken, written, or expressed explicitly, except through the operation of the system. The best way to deduce the system’s purpose is to watch for a while to see how the system behaves.
+:::
+
+It is important to remember, particularly in public health or health care systems analysis, that the purpose or a function of a system is not necessarily the stated purpose or function.  The purpose of a system is what it does.  If that purpose doesn't match what we expect or believe a system is doing, that is a useful point for more investigation.
+
+# Stocks and Flows
+
+Donella Meadows distinguishes between **stocks** and **flows** as a way of explaining how systems change over time. Thinking in terms of stocks and flows helps distinguish short-term events from long-term conditions, symptoms from structure, rapid interventions from slow system change.
+
+:::{.callout-important}
+Stocks and Flows in this Course
+In this course, most elements in system maps should be understood as **stocks**, even when flows are not drawn explicitly. Causal arrows can often be read as representing flows that alter those stocks.
+:::
+
+## Stock
+A **stock** is an accumulation, something that can be measured at a point in time.  
+Examples include population, infrastructure, trust, capacity, or exposure.
+
+A stock does **not** have to be a physical quantity.
+
+|Stock|Health Care Example|
+|-----|-------------------|
+|Capacities|Number of hospital beds|
+|Levels of access|Percentage of population with access to a hospital|
+|Degrees of coverage|Percentage of persons in an employer-based health plan|
+|Distributions of power|Level of trust in medical institutions|
+|Institutional arrangements|Percentage of fee-for-service reimbursement arrangements|
+|Accumulated risk or exposure|Total number of persons living in a high-risk area|
+
+Most people mistakenly think stocks must be “countable things.” That’s not how Meadows uses the term.
+
+## Flow
+A **flow** is a process that increases or decreases a stock over time.  
+Examples include births and deaths, construction and decay, funding and spending, exposure and recovery. Using our stock examples above, we can name some likely flows in a health care system.
+
+|Stock Example|Flow Example|
+|-------------|------------|
+|Number of hospital beds|Construction and decay of hospital infrastructure|
+|Percentage of population with access to a hospital|Enrollment and disenrollment from health plans|
+|Percentage of persons in an employer-based health plan|Unemployment and employment rates|
+|Level of trust in medical institutions|Trust-building and trust-eroding activities|
+|Percentage of fee-for-service reimbursement arrangements|Changes in reimbursement policies|
+|Total number of persons living in a high-risk area|Availability and affordability of housing|
+
+Stocks change slowly because flows operate over time. This gives systems memory and explains why systems often respond to interventions with delays.  If we think of the example above, the number of hospital beds (a stock) changes slowly because construction and decay (flows) occur over time. Yet, the percentage of population with access to a hospital (another stock) changes more rapidly because enrollment and disenrollment (flows) can happen more frequently. So, the rate of change in a stock depends on the frequency and magnitude of its associated flows.
+
+## Stocks, Flows, and Accumulation
+Systems behave the way they do because of **accumulation**. Some elements of a system build up over time (stocks), while others control the rate at which those stocks change (flows). Infrastructure, workforce capacity, chronic disease burden, trust, and institutional legitimacy are all examples of stocks. Funding rates, enrollment rates, exposure levels, and staffing turnover are flows. Many failed interventions target flows while ignoring the stocks they influence, leading to delayed or disappointing results. Understanding this distinction helps explain why systems often respond slowly to change and why short‑term fixes rarely resolve long‑term problems.
+
+# Feedback Loops: The Engine of System Behavior
+Feedback loops are central to Meadows’ framework. A feedback loop exists when a change in one element eventually feeds back to influence itself.  Systems need feedback loops. When you are creating system maps you should label reinforcing and balancing loops explicitly. A feedback loop is a closed causal loop.
+
+:::{.callout-important}
+# Systems require Feedback Loops
+If you cannot identify at least one dominant feedback loop, you do not yet have a system.  This is an area that students often struggle with.  When you cannot identify a feedback loop, you may not have a complete understanding of the system's behavior or you may not yet have a system. 
+:::
+
+## Balancing Feedback: Congestion Self-Limiting
+A balancing loop is one that resists change and pushes the system toward a temporary equilibrium. It works by counteracting any deviation from a desired state, thereby maintaining stability. A thermostat is a classic example of a balancing loop.  In our traffic example, as the number of cars increases, congestion worsens. Slower speeds increase travel time, which raises the perceived cost of driving. Some people respond by reducing trips, which lowers the number of cars. This loop resists change and pushes the system toward a temporary equilibrium.
+
+{{<video https://vimeo.com/1204616965?share=copy&fl=sv&fe=ci>}}
+
+This loop explains why congestion rarely grows without bound.  This is how you draw a [balancing loop](1.2%20System%20Maps.qmd#balancing-loop).
+
+### Reinforcing Feedback: Induced Demand
+A **reinforcing loop** is a feedback structure in which a change in one element sets off a chain of effects that **amplifies that original change over time**. In a reinforcing loop, growth leads to more growth, or decline leads to further decline. These loops are responsible for escalation, runaway dynamics, and path dependence. They do not require intent or coordination—once the structure is in place, the loop reinforces whatever direction the system is already moving. Examples include compounding wealth, increasing traffic demand after road expansion, or intensified surveillance producing more data that justifies further surveillance.
+
+{{<video https://vimeo.com/1204626232?share=copy&fl=sv&fe=ci>}}
+
+Traffic systems contain a _reinforcing_ loop. Increasing road capacity initially reduces congestion and travel time. Driving feels easier. Over time, this ease increases trip demand and encourages more auto-oriented development—what we can describe as increased **land use intensity**. More development generates more trips, more cars, and eventually more congestion.
+
+This loop explains why congestion reliably returns after road expansions, often worse than before.
+
+![](../../../attachments/traffic_rloop_final.svg)
+
+This is how you draw a [reinforcing loop](1.2%20System%20Maps.qmd#reinforcing-loop)
+# Delays and Structural Change
+A critical insight from Meadows is the importance of **delays**. The reinforcing loop involving land use intensity operates slowly—over years rather than weeks. This delay makes the system especially hard to manage. Short-term improvements create confidence in interventions whose long-term effects undermine them.
+
+Systems with long delays often produce oscillation, overshoot, and policy frustration. Traffic congestion is a classic example. As increased road capacity.
+
+:::{.callout-tip}
+# Quick test to determine if it is a system
+If all of the following are true, you have a system.  If not, you just have a bunch of stuff.
+- [ ] Can you identify parts... and
+- [ ] Do the parts affect each other... and
+- [ ] Do the parts together produce an effect that is different from the effect of each part on its own? ... and perhaps
+- [ ] Does the effect, the behavior over time, persist in a variety of circumstances?
+:::
+
+If we took the elements of the urban traffic system and showed the interconnections, it would make a system map:
+
+# INSERT SYSTEM MAP HERE
+
+Review the page on [1.2 System Maps](1.2_System_Maps.qmd) to get a detailed overview of how to read and create systems  maps.
+
+### Institutions, Incentives, and Power as System Structure
+
+Complex systems do not require bad actors in order to produce harmful or unjust outcomes. Individuals within a system may be acting rationally, legally, and even ethically according to the roles and incentives they face, while the system as a whole generates persistent harm. When we say this, we do _not_ mean that power disappears or that outcomes are accidental. Rules, incentives, resource distributions, and institutional arrangements are not external forces acting on a system; they _are_ core elements of system structure. Markets are designed systems, not natural phenomena. Regulatory gaps are structural features, not mistakes. Persistent underfunding, segregation, and vulnerability to climate harms are often the predictable result of reinforcing feedback loops tied to political and economic incentives. A systems analysis that ignores governance, capital, and power is incomplete—not because it lacks moral judgment, but because it misses the primary drivers of system behavior.
+
+
+> [!important]
+> This is a core part of public health and a population perspective and is one of the hardest things to learn:  **Systems can be unjust without anyone waking up and choosing to be a bad person. An unjust system full of just and good people will produce unjust results.**
+
+### Behavior Over Time and System Dynamics
+
+A defining feature of systems thinking is its focus on **patterns of behavior over time**, rather than isolated events or one‑time outcomes. Systems are best understood by the trajectories they produce: growth, decline, oscillation, delay, and stabilization. Many policy interventions appear successful in the short term but fail—or even backfire—over longer time horizons because they do not account for feedback, delays, or adaptive responses within the system. A systems map is therefore incomplete unless it supports a plausible story about how key variables change over time. If you cannot explain why a problem persists, worsens, or reappears after intervention, you have not yet explained the system.
+# When to Use Analytic vs. Systems Thinking  
+*(Using Traffic as a Case Study)*
+
+This course uses both **analytic (reductionist)** approaches and **systems thinking**. These approaches are not competitors. They answer *different kinds of questions*.  This short video provides a good overview of analytic and systems approaches.  
+
+----->>>>>  LINK TO SYSTEMS VIDEO HERE>
+
+The key skill is not choosing one method, but knowing **when each is appropriate**.
+
+We will use the traffic system example to explore the differences.
+## Analytic (Reductionist) Approaches
+
+Analytic approaches work by isolating variables and estimating effects under controlled or simplified conditions.
+
+They are most useful when the question asks:
+
+- What causes *this specific outcome*?
+- Does X increase or decrease Y?
+- How large is the effect of an intervention?
+- What mechanism operates *in isolation*?
+
+These approaches assume:
+- relatively stable relationships
+- limited feedback
+- clear system boundaries
+- short or well-defined time horizons
+
+### Traffic examples (analytic questions)
+
+- Does adding a lane reduce average travel time in the first year?
+- Does synchronizing traffic lights reduce delay at an intersection?
+- Does a congestion alert change departure times during a heat wave?
+- Does a stalled vehicle increase delay on a specific corridor?
+
+These are legitimate questions. Analytic methods are well suited to answering them.
+
+
+> [!QUESTION]- What are examples of analytic questions in health care?
+> Does a specific medication reduce blood pressure?
+Does expanding clinic hours increase appointment attendance?
+Does a care coordination program reduce 30-day readmissions?
+Does increasing reimbursement for primary care increase visit volume?
+Does a public health warning increase heat-safety behaviors in the short term?
+
+
+## Systems Thinking Approaches
+
+Systems thinking focuses on how interactions, feedback, and accumulation produce patterns of behavior over time.
+
+It is most useful when the question asks:
+
+- Why does a problem *persist*?
+- Why do fixes backfire or lose effectiveness?
+- Why does the system adapt to interventions?
+- Why do outcomes differ across places or groups?
+
+These approaches assume:
+
+- feedback loops
+- adaptation and learning
+- delays between cause and effect
+- endogenous behavior (the system changes itself)
+### Traffic examples (systems questions)
+
+- Why does congestion return a few years after road expansion?
+- Why does adding capacity increase total driving?
+- Why does congestion persist even when accidents are rare?
+- Why do travel times stabilize at a high level rather than improving?
+
+These questions cannot be answered by isolating one variable at a time. They require understanding **system structure**.
+
+
+> [!question]- What are examples of systems questions in health care?
+> Why do health care costs continue to rise despite efficiency reforms?
+Why do emergency departments remain crowded after expanding capacity?
+Why does increasing insurance coverage not eliminate access barriers?
+Why do workforce shortages persist despite higher demand?
+Why do racial and socioeconomic disparities persist after policy changes?
+
+
+> [!tip] A Practical Decision Rule
+> Use this rule of thumb:
+> 
+> **If today’s solution changes tomorrow’s problem, you need systems thinking.**
+
+Let's look at traffic and adding a lane to a road as an example of using both approaches.  We might ask the analytic question, "Does adding lanes to a road reduce congestion temporarily?"  The answer to that question is "yes."  If we stopped there at the analytic point though we would not see the larger system issue, i.e. that traffic will always increase when road capacity is increased.  Can you follow the system map above and see how that is true?
+
+> [!Question]- Why does adding road capacity not stop road congestion?
+> Adding lanes reduces the congestion temporarily.  The reduced congestion increases the perceived ease of driving.  When driving is perceived to be easier, demand and land use intensity increases.  This leads to more cars on the road leading to more congestion. 
+## How the Approaches Work Together
+
+Analytic methods are excellent at answering:
+
+> *Does this intervention work in the short term?*
+
+Systems thinking is necessary to answer:
+
+> *What happens over time once the system adapts?*
+
+In the traffic case:
+- analytic evidence helps evaluate specific interventions
+- systems thinking explains why congestion persists
+- neither approach alone is sufficient
+## Guiding Principle
+
+The question determines the method. If the problem adapts to your solution, a systems approach is required to understand why.
+
+## Systems Change
+
+When we want to create change in a system, it is important to understand how the dynamics of systems might guide our choices.  In our class, we are interested in changing a system because we are asking a question, "How does the health care system affect a particular health problem?" so that we have the necessary information to propose a solution.  When proposing a system change or an intervention to a system, certain general rules apply.
+### Changing the elements usually has the least effect on a system.
+If you change elements in a system, this will usually have little or no effect on a system.  Think of Meadows' example of the football team, "if you change all the players on a football team, it is still recognizably a football team."  We can change the players on our team and that team may play better or play worse but it will still achieve its purpose of playing football.  The underlying system of a football team did not change.
+
+
+> [!quote] Changing elements
+> "A system generally goes on being itself, changing only slowly if at all, even with complete substitutions of its elements—as long as its interconnections and purposes remain intact."(4)
+
+### Changing relationships usually changes system behavior
+
+If you change how the elements relate to each other, this will change the behavior of a system. Using our football example, if we changed the rules of US football and made it against the rules to pick up the ball, the behavior of the football team would change almost immediately but it's purpose would remain the same.
+
+When you see a policy failure, it usually mean that the intervention was made in the wrong loop or only adjusted elements without changing system behavior.
+
+### Changing the purpose of a system will change the system
+
+## Where to Intervene
+
+### A smaller but worthwhile addition: leverage points as moral triage
+
+Students will inevitably ask: “So where do we intervene?”
+
+You do not need the full Meadows leverage point hierarchy yet. But even a preview matters:
+
+Some interventions change outcomes briefly.  
+Some change behavior.  
+A very few change purpose, rules, or information flows.
+
+This frames later assignments and prevents the classic trap:  
+Students proposing education campaigns for structurally produced harm.
+
+Even a single paragraph that distinguishes **symptomatic fixes** from **structural leverage** would quietly upgrade their analytical maturity.
+
+# Endogenous vs. Exogenous Explanations
+
+The goal of systems thinking is to explain outcomes as the result of **internal system structure**, not just external forces. While shocks such as economic downturns, pandemics, or political changes can matter, they do not by themselves explain persistent patterns.[^2] Endogenous[^1] explanations focus on how system elements interact to produce outcomes repeatedly over time. Rather than asking what outside factor caused a problem, systems thinking asks how the system is organized such that this outcome keeps occurring. This shift is essential for moving from blame‑based explanations to structural analysis.
+
+
+> [!important] 
+> What counts as endogenous versus exogenous depends on how you define the system boundary. You are responsible for drawing that boundary. The same factor (for example, a policy decision or economic condition) can be treated as endogenous in one analysis and exogenous in another, depending on what system you are trying to explain. What matters is not the “correct” classification, but whether your boundary choice is clear, consistent, and analytically defensible.
+
+# Leverage Points: How do change a system?
+
+Read “Leverage Points" by Meadows.  This is a highly influential essay that outlines the different points we can try and change systems and ranks them based on their effectiveness in bringing change to a system.
+
+Meadows’ leverage points are not a checklist for policy design. They are a diagnostic framework for understanding why most interventions fail and why effort is often applied in the least effective places. The leverage points are ordered from shallow to deep not by political feasibility, but by their capacity to change system behavior over time.
+
+You do not need to memorize her list but should be familiar with it.  You should internalize three ideas based on this list however:
+
+## 1 - Most interventions target low-leverage points.
+
+It feels easy, doable, and manageable to change things like parameters, funding levels, capacity, etc.---however, these interventions usually leave a system untouched.  They can feel good and they are relatively easy, but they don't accomplish much. Low-leverage public health interventions ask people to adapt to systems that refuse to change.
+
+Some public health interventions at this level are best understood as forms of **performance** rather than structural change. They signal concern, responsibility, or action without substantially altering the system that produces the problem. These interventions are not useless—they may provide reassurance, visibility, or short-term benefit—but they should not be confused with strategies that change system behavior over time.
+
+In every case of public health as performance rather than structural change:
+
+- The intervention **reduces moral or political pressure**
+- That reduction **weakens momentum for structural change**
+- The system becomes _more stable_ and _more fragile_ at the same time
+
+This is why “performance” is not neutral. It’s a **feedback intervention**.
+
+It is important to recognize that some interventions persist not because they work, but because they _feel_ like action. They offer moral reassurance, professional identity reinforcement, or political cover. Systems thinking does not dismiss these effects—but it asks us to be honest about what they do and do not change.
+
+
+> [!tldr] Summary
+> If an intervention makes us feel better faster than it changes outcomes, it’s probably performing rather than transforming.
+
+
+When an intervention does not alter power, incentives, or feedback loops, its primary effect may be to make participants feel responsible rather than to make the system behave differently.
+
+Recognizing this does not mean rejecting these interventions outright—it means placing them accurately within a system analysis. The task of public health is not to avoid symbolic action, but to recognize when symbolism has replaced structural change.
+
+
+> [!example] 
+> - Health education and promotion campaigns encouraging healthy eating. These interventions target individual knowledge but don't address structural issues like food pricing, labor schedules, marketing or built environments.
+> - Heat advisories that tell people to "check on neighbors" or "hydrate" or "stay indoors" during extreme heat.  The underlying determinants of heat-related illness are untouched: housing quality, labor protections, energy affordability.  These messages assume access to air conditioning, safe housing, social networks, and time flexibility.
+> - Expanding cancer screening programs without expanding diagnostic, treatment, and follow-up ability. Screening increases the flow of information (detection) but does not change the system's ability to respond. 
+
+
+## 2- High leverage can look abstract, slow, or political
+
+Information flows, rules, and goals are harder to change, take longer, and feel less "actionable." This feeling can make these interventions less likely to be implemented even though they are the most likely to actually cause a change in the system.  System change requires being in it for the long-term and humans aren't great at that.
+
+## 3 - Leverage without diagnosis is reckless
+
+You cannot choose a leverage point until you understand the dominant feedback loops. 
+
+# Why This Example Matters
+
+The traffic system demonstrates several core lessons we will carry into health systems:
+
+- Problems can be persistent even when everyone is acting rationally.
+    
+- Fixes aimed at symptoms can strengthen deeper drivers.
+    
+- Multiple feedback loops can operate simultaneously, with different time scales.
+    
+- Structural conditions, not individual choices, dominate system behavior.
+    
+
+Most importantly, the traffic example shows why systems often behave in ways that feel counterintuitive or politically frustrating. The system is not broken. It is functioning according to its structure.
+# From Traffic to Health Systems
+
+We begin with traffic because it is familiar and non-moralized. But the analytic move is the same in health systems. Costs, access, inequities, and workforce strain persist not because of isolated failures, but because of interacting structures, feedback loops, and delays.
+
+As Meadows emphasizes, learning to see these structures is a precondition for responsible action. The goal of this course is not to eliminate complexity, but to engage it without illusion.
+
+The task ahead is to learn to see the system we are already inside.
+
+# Next page in this module [1.2 System Maps](1.2%20System%20Maps.qmd)
+
+
+
+
+[^1]: **Endogenous** comes from the Greek roots _endon_ (meaning “within”) and _genēs_ (meaning “produced”). Endogenous factors are causes that arise from _within_ the system itself. An endogenous explanation shows how the system’s own structure—its rules, incentives, feedback loops, and relationships—produces the outcomes we observe over time.
+
+[^2]: These are referred to as *exogenous*.  **Exogenous** comes from the Greek roots _exo_ (meaning “outside”) and _genēs_ (meaning “produced”). Exogenous factors are causes that originate _outside_ the system. These include external shocks or events, such as economic downturns, natural disasters, or sudden policy changes, that affect the system but are not generated by it.
