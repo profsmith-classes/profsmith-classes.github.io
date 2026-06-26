@@ -111,13 +111,8 @@ A **reinforcing loop** is a feedback structure in which a change in one element 
 
 {{<video https://vimeo.com/1204626232?share=copy&fl=sv&fe=ci>}}
 
-Traffic systems contain a _reinforcing_ loop. Increasing road capacity initially reduces congestion and travel time. Driving feels easier. Over time, this ease increases trip demand and encourages more auto-oriented development—what we can describe as increased **land use intensity**. More development generates more trips, more cars, and eventually more congestion.
-
-This loop explains why congestion reliably returns after road expansions, often worse than before.
-
-![](../../../attachments/traffic_rloop_final.svg)
-
 This is how you draw a [reinforcing loop](1.2%20System%20Maps.qmd#reinforcing-loop)
+
 # Delays and Structural Change
 A critical insight from Meadows is the importance of **delays**. The reinforcing loop involving land use intensity operates slowly—over years rather than weeks. This delay makes the system especially hard to manage. Short-term improvements create confidence in interventions whose long-term effects undermine them.
 
@@ -149,6 +144,7 @@ Complex systems do not require bad actors in order to produce harmful or unjust 
 ### Behavior Over Time and System Dynamics
 
 A defining feature of systems thinking is its focus on **patterns of behavior over time**, rather than isolated events or one‑time outcomes. Systems are best understood by the trajectories they produce: growth, decline, oscillation, delay, and stabilization. Many policy interventions appear successful in the short term but fail—or even backfire—over longer time horizons because they do not account for feedback, delays, or adaptive responses within the system. A systems map is therefore incomplete unless it supports a plausible story about how key variables change over time. If you cannot explain why a problem persists, worsens, or reappears after intervention, you have not yet explained the system.
+
 # When to Use Analytic vs. Systems Thinking  
 *(Using Traffic as a Case Study)*
 
@@ -159,6 +155,7 @@ This course uses both **analytic (reductionist)** approaches and **systems think
 The key skill is not choosing one method, but knowing **when each is appropriate**.
 
 We will use the traffic system example to explore the differences.
+
 ## Analytic (Reductionist) Approaches
 
 Analytic approaches work by isolating variables and estimating effects under controlled or simplified conditions.
@@ -211,6 +208,7 @@ These approaches assume:
 - adaptation and learning
 - delays between cause and effect
 - endogenous behavior (the system changes itself)
+
 ### Traffic examples (systems questions)
 
 - Why does congestion return a few years after road expansion?
