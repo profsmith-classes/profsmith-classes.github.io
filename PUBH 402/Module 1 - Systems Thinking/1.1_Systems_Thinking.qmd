@@ -106,25 +106,27 @@ A balancing loop is one that resists change and pushes the system toward a tempo
 
 This loop explains why congestion rarely grows without bound.  This is how you draw a [balancing loop](1.2%20System%20Maps.qmd#balancing-loop).
 
-### Reinforcing Feedback: Induced Demand
+## Reinforcing Feedback: Induced Demand
 A **reinforcing loop** is a feedback structure in which a change in one element sets off a chain of effects that **amplifies that original change over time**. In a reinforcing loop, growth leads to more growth, or decline leads to further decline. These loops are responsible for escalation, runaway dynamics, and path dependence. They do not require intent or coordination—once the structure is in place, the loop reinforces whatever direction the system is already moving. Examples include compounding wealth, increasing traffic demand after road expansion, or intensified surveillance producing more data that justifies further surveillance.
 
 {{<video https://vimeo.com/1204626232?share=copy&fl=sv&fe=ci>}}
 
 This is how you draw a [reinforcing loop](1.2%20System%20Maps.qmd#reinforcing-loop)
 
-# Delays and Structural Change
-A critical insight from Meadows is the importance of **delays**. The reinforcing loop involving land use intensity operates slowly—over years rather than weeks. This delay makes the system especially hard to manage. Short-term improvements create confidence in interventions whose long-term effects undermine them.
+## Delays and Structural Change
+A critical insight from Meadows is the importance of **delays**. Delay makes the system especially hard to manage. Short-term improvements create confidence in interventions whose long-term effects undermine them. Systems with long delays often produce oscillation, overshoot, and policy frustration.
 
-Systems with long delays often produce oscillation, overshoot, and policy frustration. Traffic congestion is a classic example. As increased road capacity.
+{{<video https://vimeo.com/1205114588?share=copy&fl=sv&fe=ci>}}
 
-:::{.callout-tip}
+:::{.callout-important}
 # Quick test to determine if it is a system
 If all of the following are true, you have a system.  If not, you just have a bunch of stuff.
-- [ ] Can you identify parts... and
-- [ ] Do the parts affect each other... and
-- [ ] Do the parts together produce an effect that is different from the effect of each part on its own? ... and perhaps
-- [ ] Does the effect, the behavior over time, persist in a variety of circumstances?
+
+- Can you identify parts... and
+- Do the parts affect each other... and
+- Do the parts together produce an effect that is different from the effect of each part on its own? ... and perhaps
+- Does the effect, the behavior over time, persist in a variety of circumstances?
+
 :::
 
 If we took the elements of the urban traffic system and showed the interconnections, it would make a system map:
@@ -133,10 +135,11 @@ If we took the elements of the urban traffic system and showed the interconnecti
 
 Review the page on [1.2 System Maps](1.2_System_Maps.qmd) to get a detailed overview of how to read and create systems  maps.
 
-### Institutions, Incentives, and Power as System Structure
+# Institutions, Incentives, and Power as System Structure
 
 Complex systems do not require bad actors in order to produce harmful or unjust outcomes. Individuals within a system may be acting rationally, legally, and even ethically according to the roles and incentives they face, while the system as a whole generates persistent harm. When we say this, we do _not_ mean that power disappears or that outcomes are accidental. Rules, incentives, resource distributions, and institutional arrangements are not external forces acting on a system; they _are_ core elements of system structure. Markets are designed systems, not natural phenomena. Regulatory gaps are structural features, not mistakes. Persistent underfunding, segregation, and vulnerability to climate harms are often the predictable result of reinforcing feedback loops tied to political and economic incentives. A systems analysis that ignores governance, capital, and power is incomplete—not because it lacks moral judgment, but because it misses the primary drivers of system behavior.
 
+{{<video https://vimeo.com/1205100696?share=copy&fl=sv&fe=ci>}}
 
 > [!important]
 > This is a core part of public health and a population perspective and is one of the hardest things to learn:  **Systems can be unjust without anyone waking up and choosing to be a bad person. An unjust system full of just and good people will produce unjust results.**
@@ -146,15 +149,12 @@ Complex systems do not require bad actors in order to produce harmful or unjust 
 A defining feature of systems thinking is its focus on **patterns of behavior over time**, rather than isolated events or one‑time outcomes. Systems are best understood by the trajectories they produce: growth, decline, oscillation, delay, and stabilization. Many policy interventions appear successful in the short term but fail—or even backfire—over longer time horizons because they do not account for feedback, delays, or adaptive responses within the system. A systems map is therefore incomplete unless it supports a plausible story about how key variables change over time. If you cannot explain why a problem persists, worsens, or reappears after intervention, you have not yet explained the system.
 
 # When to Use Analytic vs. Systems Thinking  
-*(Using Traffic as a Case Study)*
 
 This course uses both **analytic (reductionist)** approaches and **systems thinking**. These approaches are not competitors. They answer *different kinds of questions*.  This short video provides a good overview of analytic and systems approaches.  
 
------>>>>>  LINK TO SYSTEMS VIDEO HERE>
+{{<video https://vimeo.com/1205121260?share=copy&fl=sv&fe=ci>}}
 
 The key skill is not choosing one method, but knowing **when each is appropriate**.
-
-We will use the traffic system example to explore the differences.
 
 ## Analytic (Reductionist) Approaches
 
@@ -183,13 +183,17 @@ These approaches assume:
 These are legitimate questions. Analytic methods are well suited to answering them.
 
 
-> [!QUESTION]- What are examples of analytic questions in health care?
-> Does a specific medication reduce blood pressure?
-Does expanding clinic hours increase appointment attendance?
-Does a care coordination program reduce 30-day readmissions?
-Does increasing reimbursement for primary care increase visit volume?
-Does a public health warning increase heat-safety behaviors in the short term?
 
+::: {.callout-note}
+# What are examples of analytic questions in health care?
+
+- Does a specific medication reduce blood pressure?
+- Does expanding clinic hours increase appointment attendance?
+- Does a care coordination program reduce 30-day readmissions?
+- Does increasing reimbursement for primary care increase visit volume?
+- Does a public health warning increase heat-safety behaviors in the short term?
+
+:::
 
 ## Systems Thinking Approaches
 
@@ -218,24 +222,18 @@ These approaches assume:
 
 These questions cannot be answered by isolating one variable at a time. They require understanding **system structure**.
 
+:::{.callout-note}
+# What are examples of systems questions in health care?
 
-> [!question]- What are examples of systems questions in health care?
-> Why do health care costs continue to rise despite efficiency reforms?
-Why do emergency departments remain crowded after expanding capacity?
-Why does increasing insurance coverage not eliminate access barriers?
-Why do workforce shortages persist despite higher demand?
-Why do racial and socioeconomic disparities persist after policy changes?
+- Why do health care costs continue to rise despite efficiency reforms?
+- Why do emergency departments remain crowded after expanding capacity?
+- Why does increasing insurance coverage not eliminate access barriers?
+- Why do workforce shortages persist despite higher demand?
+- Why do racial and socioeconomic disparities persist after policy changes?
+:::
 
 
-> [!tip] A Practical Decision Rule
-> Use this rule of thumb:
-> 
-> **If today’s solution changes tomorrow’s problem, you need systems thinking.**
 
-Let's look at traffic and adding a lane to a road as an example of using both approaches.  We might ask the analytic question, "Does adding lanes to a road reduce congestion temporarily?"  The answer to that question is "yes."  If we stopped there at the analytic point though we would not see the larger system issue, i.e. that traffic will always increase when road capacity is increased.  Can you follow the system map above and see how that is true?
-
-> [!Question]- Why does adding road capacity not stop road congestion?
-> Adding lanes reduces the congestion temporarily.  The reduced congestion increases the perceived ease of driving.  When driving is perceived to be easier, demand and land use intensity increases.  This leads to more cars on the road leading to more congestion. 
 ## How the Approaches Work Together
 
 Analytic methods are excellent at answering:
@@ -250,27 +248,34 @@ In the traffic case:
 - analytic evidence helps evaluate specific interventions
 - systems thinking explains why congestion persists
 - neither approach alone is sufficient
+
 ## Guiding Principle
 
 The question determines the method. If the problem adapts to your solution, a systems approach is required to understand why.
 
-## Systems Change
+:::{.callout-tip}
+# A Practical Decision Rule
+Use this simple rule: **If today’s solution changes tomorrow’s problem, you need systems thinking.**
+:::
+
+# Systems Change
 
 When we want to create change in a system, it is important to understand how the dynamics of systems might guide our choices.  In our class, we are interested in changing a system because we are asking a question, "How does the health care system affect a particular health problem?" so that we have the necessary information to propose a solution.  When proposing a system change or an intervention to a system, certain general rules apply.
-### Changing the elements usually has the least effect on a system.
+
+## Changing the elements usually has the least effect on a system.
 If you change elements in a system, this will usually have little or no effect on a system.  Think of Meadows' example of the football team, "if you change all the players on a football team, it is still recognizably a football team."  We can change the players on our team and that team may play better or play worse but it will still achieve its purpose of playing football.  The underlying system of a football team did not change.
 
 
 > [!quote] Changing elements
 > "A system generally goes on being itself, changing only slowly if at all, even with complete substitutions of its elements—as long as its interconnections and purposes remain intact."(4)
 
-### Changing relationships usually changes system behavior
+## Changing relationships usually changes system behavior
 
 If you change how the elements relate to each other, this will change the behavior of a system. Using our football example, if we changed the rules of US football and made it against the rules to pick up the ball, the behavior of the football team would change almost immediately but it's purpose would remain the same.
 
 When you see a policy failure, it usually mean that the intervention was made in the wrong loop or only adjusted elements without changing system behavior.
 
-### Changing the purpose of a system will change the system
+## Changing the purpose of a system will change the system
 
 ## Where to Intervene
 
