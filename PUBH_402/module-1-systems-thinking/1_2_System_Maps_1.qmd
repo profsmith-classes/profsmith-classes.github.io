@@ -1,0 +1,251 @@
+---
+title: "1.2 System Maps"
+date: "2026-06-25"
+draft: false
+class: "402"
+categories: []
+---
+
+## System Map — Basic Definition
+
+A **system map** is a structured representation of how key elements of a system interact to produce patterns of behavior over time.
+
+A system map is not a picture of everything. It is a **deliberate abstraction** that includes only those elements and relationships necessary to explain why a problem persists, changes, or reappears.
+
+::: {.callout-caution title="System maps have boundaries and are not \"complete pictures\""}
+A system map has a boundary, chosen by the analyst, that determines which topics and areas are left out. It is also an abstraction shaped by a particular question. In short: a system map can contain biases and important missing pieces.
+:::
+
+System maps focus on:
+
+- **Elements** — the parts of a system
+- **Interconnections** — how changes in one element influence another
+- **Feedback loops** — closed paths where effects feed back on causes
+- **Dynamics over time** — not just static structure
+
+What distinguishes a system map from a flowchart or concept map is its explicit concern with **behavior over time**. System maps are used to understand:
+
+- why problems recur
+- why interventions produce unintended consequences
+- why systems resist change or amplify it
+
+In the language of Donella Meadows, a system map helps make **system structure** visible—the arrangement of elements and interconnections that gives rise to observed patterns.
+
+::: {.callout-note title="System Map Definition"}
+A system map is a simplified model that shows how interacting elements and feedback loops produce the behavior of a system over time.
+:::
+
+## Elements
+
+Elements are usually shown as squares, circles, or simply text. The elements of a system are its discrete parts. On their own they cannot tell us anything about a system. Here are some elements that might appear in a system map for social media engagement:
+
+```{dot}
+//| label: fig-elements
+//| fig-cap: "Four elements of a social-media engagement system, shown with no connections."
+digraph elements {
+  layout=neato
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Content Visibility"
+  "User Engagement"
+  "User Fatigue"
+  "Attention Duration"
+}
+```
+
+The elements alone do not tell us anything about how the system works or how it behaves. To understand that, we have to make connections.
+
+## Interconnections
+
+Relationships between elements are shown using arrows. Here are two of the same elements, now connected by a causal relationship.
+
+```{dot}
+//| label: fig-connection
+//| fig-cap: "A directed connection: content visibility influences user engagement."
+digraph connection {
+  rankdir=LR
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Content Visibility" -> "User Engagement"
+}
+```
+
+The element at the **start** of the arrow is the cause; the element at the **end** of the arrow is the effect. The highlighted arrow below reads as: content visibility increases user engagement.
+
+```{dot}
+//| label: fig-connection-highlight
+//| fig-cap: "The same connection, highlighted to show the direction of causation (cause → effect)."
+digraph connectionHighlight {
+  rankdir=LR
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Content Visibility" -> "User Engagement" [label="+",color="red", penwidth=2]
+}
+```
+
+Every connection in a system map must be an arrow—it must be *directed*. Without an arrow, the connection cannot be interpreted.
+
+## Polarity and Polarity Notation
+
+In a system map, **polarity** describes the *direction of influence* between two elements. It indicates how a change in one element affects another, **all else equal**.
+
+Polarity does **not** describe whether an effect is good or bad, desirable or undesirable. It describes only the *direction* of change.
+
+### Positive Polarity (`+`)
+
+A relationship has **positive polarity** when:
+
+- an increase in the source element leads to an increase in the target element, **or**
+- a decrease in the source element leads to a decrease in the target element.
+
+In other words, the two elements move in the **same direction**.
+
+```{dot}
+//| label: fig-positive
+//| fig-cap: "Positive polarity: more content visibility leads to more user engagement."
+digraph positive {
+  rankdir=LR
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Content Visibility" -> "User Engagement" [label="+"]
+}
+```
+
+### Negative Polarity (`-`)
+
+A relationship has **negative polarity** when:
+
+- an increase in the source element leads to a decrease in the target element, **or**
+- a decrease in the source element leads to an increase in the target element.
+
+The two elements move in **opposite directions**.
+
+```{dot}
+//| label: fig-negative
+//| fig-cap: "Negative polarity: more user fatigue leads to shorter attention duration."
+digraph negative {
+  rankdir=LR
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "User Fatigue" -> "Attention Duration" [label="-"]
+}
+```
+
+### What Polarity Does *Not* Mean
+
+- Polarity is **not** about moral value
+  (`+` does not mean "good"; `-` does not mean "bad").
+
+- Polarity is **not** about strength or certainty.
+  A `+` or `-` relationship can be weak, delayed, or conditional.
+
+- Polarity is **not** correlation.
+  Polarity represents a *causal claim* that must be justified.
+
+### Polarity and Feedback Loops
+
+Polarity becomes especially important in **feedback loops**.
+
+- A loop with an **even number (or zero) of negative links** is **reinforcing**.
+- A loop with an **odd number of negative links** is **balancing**.
+
+This rule applies regardless of how many positive links are present.
+
+### Notation Conventions
+
+In this course:
+
+- Polarity is indicated using `+` or `-` on edges.
+- Delays are noted explicitly with `||` (for example, `+ ||`).
+- Polarity should be assigned only when the causal direction is defensible.
+
+A delayed relationship is written like this:
+
+```{dot}
+//| label: fig-delay
+//| fig-cap: "A delayed positive relationship, marked with || on the edge label."
+digraph delay {
+  rankdir=LR
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Public Health Funding" -> "Preventive Services" [label="+ ||"]
+}
+```
+
+If the polarity is unclear, document that uncertainty rather than guessing.
+
+### Guiding Principle
+
+Polarity encodes how a system behaves, not how we feel about it. Getting polarity right matters more than getting everything into the map.
+
+## Feedback Loops
+
+A **feedback loop** is a pattern where a change in something leads to effects that eventually circle back and influence that same thing again. Instead of causes and effects moving in a straight line, they form a loop. These loops help explain why problems grow, shrink, or keep repeating over time. Some feedback loops make changes bigger and faster, while others slow things down or keep them in balance. Understanding feedback loops helps explain why systems often behave in ways that are hard to predict or control.
+
+At its simplest, a feedback loop is any closed path you can trace with the arrows and return to where you started:
+
+```{dot}
+//| label: fig-loop-generic
+//| fig-cap: "A feedback loop: effects circle back to influence their own cause."
+digraph feedback {
+  layout=dot
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Element A" -> "Element B" [label="+"]
+  "Element B" -> "Element A" [label="+"]
+}
+```
+
+### Balancing Loop
+
+A **balancing loop** is a feedback structure that **counteracts change and pushes the system toward stability or a limit**. In a balancing loop, an increase in one element triggers responses that reduce that increase, while a decrease triggers forces that restore it. Balancing loops are responsible for regulation, equilibrium, and constraint. They often involve delays, thresholds, or capacity limits, which can cause overshoot or oscillation. Examples include congestion reducing travel speed, user fatigue reducing engagement, or staffing shortages limiting service delivery even as demand rises.
+
+A thermostat is the classic example. Trace the loop: it contains exactly one negative link (an odd number), which makes it **balancing**.
+
+```{dot}
+//| label: fig-balancing
+//| fig-cap: "A thermostat balancing loop. One negative link (odd) makes the loop balancing."
+digraph thermostat {
+  layout=dot
+  labelloc="b"
+  label="B — Balancing loop: temperature self-regulates toward the setpoint"
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Room Temperature" -> "Temperature Gap" [label="-"]
+  "Temperature Gap"  -> "Furnace Heat"    [label="+"]
+  "Furnace Heat"     -> "Room Temperature" [label="+"]
+}
+```
+
+### Reinforcing Loop
+
+A **reinforcing loop** is a feedback structure in which a change in one element sets off a chain of effects that **amplifies that original change over time**. In a reinforcing loop, growth leads to more growth, or decline leads to further decline. These loops are responsible for escalation, runaway dynamics, and path dependence. They do not require intent or coordination—once the structure is in place, the loop reinforces whatever direction the system is already moving. Examples include compounding wealth, increasing traffic demand after road expansion, or intensified police surveillance producing more data that justifies further surveillance.
+
+Here is the surveillance example. Every link is positive (zero negative links, an even number), which makes the loop **reinforcing**.
+
+```{dot}
+//| label: fig-reinforcing
+//| fig-cap: "A surveillance reinforcing loop. Zero negative links (even) makes the loop reinforcing."
+digraph surveillance {
+  layout=dot
+  labelloc="b"
+  label="R — Reinforcing loop: surveillance generates its own justification"
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  "Surveillance Intensity"          -> "Recorded Incidents"              [label="+"]
+  "Recorded Incidents"              -> "Perceived Need for Surveillance" [label="+"]
+  "Perceived Need for Surveillance" -> "Surveillance Intensity"          [label="+"]
+}
+```
+
+>"Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself. - Meadows, p. 15
+
+## Common Failure Modes in Systems Mapping
+
+Not all systems maps are equally useful. Common failure modes include maps that list many variables without clear causal logic, maps that are effectively linear chains with no feedback loops, and maps that mix normative claims about what *should* happen with descriptive claims about what *does* happen. Other weak maps attempt to explain everything at once, resulting in diagrams that are visually complex but analytically shallow. Effective systems maps are selective, causal, and disciplined. Their purpose is not completeness, but explanatory power.
+
+## Class System Map Notations
+
+For our class, we will follow these notation rules for systems maps:
+
+- Elements = squares
+- Connections = arrows
+- Polarity = `+` or `-`
+- Delay = `||`
+- Reinforcing Loop = `R`
+- Balancing Loop = `B`
+
+## Next page of the module
+
+[1.3 Systems Thinking Tips](1.3%20Systems%20Thinking%20Tips.qmd)

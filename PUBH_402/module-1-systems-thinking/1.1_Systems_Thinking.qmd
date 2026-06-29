@@ -262,12 +262,13 @@ Use this simple rule: **If today’s solution changes tomorrow’s problem, you 
 
 When we want to create change in a system, it is important to understand how the dynamics of systems might guide our choices.  In our class, we are interested in changing a system because we are asking a question, "How does the health care system affect a particular health problem?" so that we have the necessary information to propose a solution.  When proposing a system change or an intervention to a system, certain general rules apply.
 
+{{<video https://vimeo.com/1205300722?share=copy&fl=sv&fe=ci>}}
+
 ## Changing the elements usually has the least effect on a system.
 If you change elements in a system, this will usually have little or no effect on a system.  Think of Meadows' example of the football team, "if you change all the players on a football team, it is still recognizably a football team."  We can change the players on our team and that team may play better or play worse but it will still achieve its purpose of playing football.  The underlying system of a football team did not change.
 
 
-> [!quote] Changing elements
-> "A system generally goes on being itself, changing only slowly if at all, even with complete substitutions of its elements—as long as its interconnections and purposes remain intact."(4)
+> "A system generally goes on being itself, changing only slowly if at all, even with complete substitutions of its elements—as long as its interconnections and purposes remain intact." D. Meadows
 
 ## Changing relationships usually changes system behavior
 
@@ -279,30 +280,15 @@ When you see a policy failure, it usually mean that the intervention was made in
 
 ## Where to Intervene
 
-### A smaller but worthwhile addition: leverage points as moral triage
+You must understand the system before you can intervene.  If you do not understand the system, you will likely intervene in the wrong place and make the problem worse.  The goal of systems thinking is to identify leverage points in a system where interventions are most likely to produce meaningful change.  Leverage points are places in a system where a small change can lead to a large shift in behavior. We are looking to change the system and acheive long-term structural change.  We are not looking for short-term fixes that will not change the system.
 
-Students will inevitably ask: “So where do we intervene?”
+## Endogenous vs. Exogenous Explanations
 
-You do not need the full Meadows leverage point hierarchy yet. But even a preview matters:
+The goal of systems thinking is to explain outcomes as the result of **internal system structure**, not just external forces. While shocks such as economic downturns, pandemics, or political changes can matter, they do not by themselves explain persistent patterns. We use two different terms to describe what is internal to a system (endogenous) and what is external (exogenous).
 
-Some interventions change outcomes briefly.  
-Some change behavior.  
-A very few change purpose, rules, or information flows.
+Endogenous explanations focus on how system elements interact to produce outcomes repeatedly over time. Rather than asking what outside factor caused a problem, systems thinking asks how the system is organized such that this outcome keeps occurring. This shift is essential for moving from blame‑based explanations to structural analysis.
 
-This frames later assignments and prevents the classic trap:  
-Students proposing education campaigns for structurally produced harm.
-
-Even a single paragraph that distinguishes **symptomatic fixes** from **structural leverage** would quietly upgrade their analytical maturity.
-
-# Endogenous vs. Exogenous Explanations
-
-The goal of systems thinking is to explain outcomes as the result of **internal system structure**, not just external forces. While shocks such as economic downturns, pandemics, or political changes can matter, they do not by themselves explain persistent patterns.[^2] Endogenous[^1] explanations focus on how system elements interact to produce outcomes repeatedly over time. Rather than asking what outside factor caused a problem, systems thinking asks how the system is organized such that this outcome keeps occurring. This shift is essential for moving from blame‑based explanations to structural analysis.
-
-
-> [!important] 
-> What counts as endogenous versus exogenous depends on how you define the system boundary. You are responsible for drawing that boundary. The same factor (for example, a policy decision or economic condition) can be treated as endogenous in one analysis and exogenous in another, depending on what system you are trying to explain. What matters is not the “correct” classification, but whether your boundary choice is clear, consistent, and analytically defensible.
-
-# Leverage Points: How do change a system?
+## Leverage Points: How do we change a system?
 
 Read “Leverage Points" by Meadows.  This is a highly influential essay that outlines the different points we can try and change systems and ranks them based on their effectiveness in bringing change to a system.
 
@@ -310,7 +296,7 @@ Meadows’ leverage points are not a checklist for policy design. They are a dia
 
 You do not need to memorize her list but should be familiar with it.  You should internalize three ideas based on this list however:
 
-## 1 - Most interventions target low-leverage points.
+### 1 - Most interventions target low-leverage points.
 
 It feels easy, doable, and manageable to change things like parameters, funding levels, capacity, etc.---however, these interventions usually leave a system untouched.  They can feel good and they are relatively easy, but they don't accomplish much. Low-leverage public health interventions ask people to adapt to systems that refuse to change.
 
@@ -326,57 +312,30 @@ This is why “performance” is not neutral. It’s a **feedback intervention**
 
 It is important to recognize that some interventions persist not because they work, but because they _feel_ like action. They offer moral reassurance, professional identity reinforcement, or political cover. Systems thinking does not dismiss these effects—but it asks us to be honest about what they do and do not change.
 
+:::{.callout-tip}
+If an intervention makes us feel better faster than it changes outcomes, it’s probably performing rather than transforming.
 
-> [!tldr] Summary
-> If an intervention makes us feel better faster than it changes outcomes, it’s probably performing rather than transforming.
-
+:::
 
 When an intervention does not alter power, incentives, or feedback loops, its primary effect may be to make participants feel responsible rather than to make the system behave differently.
 
 Recognizing this does not mean rejecting these interventions outright—it means placing them accurately within a system analysis. The task of public health is not to avoid symbolic action, but to recognize when symbolism has replaced structural change.
 
 
-> [!example] 
-> - Health education and promotion campaigns encouraging healthy eating. These interventions target individual knowledge but don't address structural issues like food pricing, labor schedules, marketing or built environments.
-> - Heat advisories that tell people to "check on neighbors" or "hydrate" or "stay indoors" during extreme heat.  The underlying determinants of heat-related illness are untouched: housing quality, labor protections, energy affordability.  These messages assume access to air conditioning, safe housing, social networks, and time flexibility.
-> - Expanding cancer screening programs without expanding diagnostic, treatment, and follow-up ability. Screening increases the flow of information (detection) but does not change the system's ability to respond. 
+#### Examples
+
+- Health education and promotion campaigns encouraging healthy eating. These interventions target individual knowledge but don't address structural issues like food pricing, labor schedules, marketing or built environments.
+- Heat advisories that tell people to "check on neighbors" or "hydrate" or "stay indoors" during extreme heat.  The underlying determinants of heat-related illness are untouched: housing quality, labor protections, energy affordability.  These messages assume access to air conditioning, safe housing, social networks, and time flexibility.
+- Expanding cancer screening programs without expanding diagnostic, treatment, and follow-up ability. Screening increases the flow of information (detection) but does not change the system's ability to respond. 
 
 
-## 2- High leverage can look abstract, slow, or political
+### 2- High leverage can look abstract, slow, or political
 
 Information flows, rules, and goals are harder to change, take longer, and feel less "actionable." This feeling can make these interventions less likely to be implemented even though they are the most likely to actually cause a change in the system.  System change requires being in it for the long-term and humans aren't great at that.
 
-## 3 - Leverage without diagnosis is reckless
+### 3 - Leverage without diagnosis is reckless
 
 You cannot choose a leverage point until you understand the dominant feedback loops. 
 
-# Why This Example Matters
 
-The traffic system demonstrates several core lessons we will carry into health systems:
-
-- Problems can be persistent even when everyone is acting rationally.
-    
-- Fixes aimed at symptoms can strengthen deeper drivers.
-    
-- Multiple feedback loops can operate simultaneously, with different time scales.
-    
-- Structural conditions, not individual choices, dominate system behavior.
-    
-
-Most importantly, the traffic example shows why systems often behave in ways that feel counterintuitive or politically frustrating. The system is not broken. It is functioning according to its structure.
-# From Traffic to Health Systems
-
-We begin with traffic because it is familiar and non-moralized. But the analytic move is the same in health systems. Costs, access, inequities, and workforce strain persist not because of isolated failures, but because of interacting structures, feedback loops, and delays.
-
-As Meadows emphasizes, learning to see these structures is a precondition for responsible action. The goal of this course is not to eliminate complexity, but to engage it without illusion.
-
-The task ahead is to learn to see the system we are already inside.
-
-# Next page in this module [1.2 System Maps](1.2%20System%20Maps.qmd)
-
-
-
-
-[^1]: **Endogenous** comes from the Greek roots _endon_ (meaning “within”) and _genēs_ (meaning “produced”). Endogenous factors are causes that arise from _within_ the system itself. An endogenous explanation shows how the system’s own structure—its rules, incentives, feedback loops, and relationships—produces the outcomes we observe over time.
-
-[^2]: These are referred to as *exogenous*.  **Exogenous** comes from the Greek roots _exo_ (meaning “outside”) and _genēs_ (meaning “produced”). Exogenous factors are causes that originate _outside_ the system. These include external shocks or events, such as economic downturns, natural disasters, or sudden policy changes, that affect the system but are not generated by it.
+Next page in this module [System Maps](1.2_System_Maps.qmd).

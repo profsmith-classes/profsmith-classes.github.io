@@ -20,7 +20,7 @@ A system map is not a picture of everything. It is a **deliberate abstraction** 
 
 System maps focus on:
 - **Elements** — the parts of a system
-- **Causal relationships** — how changes in one element influence another
+- **Interconnections** — how changes in one element influence another
 - **Feedback loops** — closed paths where effects feed back on causes
 - **Dynamics over time** — not just static structure
 
@@ -40,11 +40,18 @@ In the language of Donella Meadows, a system map helps make **system structure**
 
 Elements are usually shown as squares, circles, or simply text.  The elements of a system are the discrete parts.  On their own they cannot show anything about a system.   Here is an example of elements that would be part of a system map for social media engagement and how they might appear:
 
+```{dot}
+graph DG{
+  layout=neato
+  node [shape=box, style=filled, fillcolor=lightblue]
+  "Content Visibility"
+  "User Engagement"
+}
+```
 
-![](../../../attachments/elements_example%201.png)
 The elements alone do not tell us anything about how the system works or its behavior.  To understand that we must make connections.
 
-# Causal Relationships: Connections
+# Interconnections
 
 Relationships between elements are shown using arrows. Here are the same elements but connected by their causal relationships.
 
