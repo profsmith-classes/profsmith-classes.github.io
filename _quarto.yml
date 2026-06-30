@@ -12,9 +12,12 @@ website:
         href: about.qmd
       - text: "PUBH 115: Introduction to Environmental Health and Safety"
         href: PUBH_115/pubh115.qmd
+      - text: "PUBH 402: Introduction to the US Health Care System"
+        href: PUBH_402/Welcome.qmd
 
   sidebar:
     style: "floating"
+    collapse-level: 3
     search: true
     contents:
       - text: "Instructor Information"
@@ -23,7 +26,8 @@ website:
           href: about.qmd
         - text: "Instructor Information"
           href: instructor_information.qmd
-      - text: "PUBH 115: Introduction to Environmental Health and Safety"
+      - title: "PUBH 115: Introduction to Environmental Health and Safety"
+        text: "PUBH 115: Introduction to Environmental Health and Safety"
         contents:
           - text: "Welcome to Class"
             href: PUBH_115/pubh115.qmd
@@ -40,14 +44,20 @@ website:
           - text: "Course Materials"
             href: PUBH_115/pubh115_course_materials.qmd
       - text: "PUBH 402: Introduction to the US Health Care System"
+        title: "PUBH 402: Introduction to the US Health Care System"
         contents:
-          - text: "1.1 Systems Thinking"
-            href: PUBH_402/module-1-systems-thinking/1.1_Systems_Thinking.qmd
-          - text: "1.2 System Maps"
-            href: PUBH_402/module-1-systems-thinking/1.2_System_Maps.qmd
-          - text: "1.3 Systems Thinking Tips"
-            href: PUBH_402/module-1-systems-thinking/1.3_Systems_Thinking_Tips.qmd
-
+          - text: "Welcome to Class"
+            href: PUBH_402/Welcome.qmd
+          - text: "syllabus"
+            href: PUBH_402/Syllabus.qmd
+          - text: "Tips for Success"
+            href: PUBH_402/Tips-for-Working-in-This-Course.qmd
+          - text: "Module 1: Systems Thinking"
+            contents: PUBH_402/module-1-systems-thinking/
+          - title: "Module 2: Team Formation and Picking a Topic"
+            text: "Module 2: Team Formation and Picking a Topic"
+            contents: PUBH_402/module-2-team-formation/
+            
       
 format:
   html:
