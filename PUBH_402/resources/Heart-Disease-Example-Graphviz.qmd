@@ -1,0 +1,154 @@
+---
+title: "Heart Disease Example Graphviz"
+draft: false
+class: "402"
+
+---
+
+Below is an example of a complete `.dot` file that I created on heart disease.  Your final systems maps will looks something like this.   Use this example to follow along as you read through [DOT Explainer](DOT-Explainer.qmd)
+
+There is a downloadable version of this file on Canvas.
+
+```
+
+digraph HeartDiseaseSystem {
+
+  rankdir=TD;
+
+  node [shape=box, style="rounded, filled", fillcolor="white", fontname="Arial"];
+
+  edge [fontname="Arial", fontsize=10];
+
+  
+
+  // Team Number
+
+  // Class Section
+
+  // Team Member Names:
+
+  
+
+  // --- Nodes (12 selected elements + outcome) ---
+
+  segregation     [label="Racialized residential segregation"];
+
+  resources       [label="Inequitable access to health-promoting resources"];
+
+  env_conditions  [label="Environmental conditions"];
+
+  income          [label="Income security"];
+
+  medicaid_rules  [label="Medicaid eligibility rules"];
+
+  uninsured       [label="Uninsured population size"];
+
+  ffs             [label="Fee-for-service payment prevalence"];
+
+  oop             [label="Household out-of-pocket spending"];
+
+  pcp_supply      [label="Primary care clinician supply"];
+
+  prevention      [label="Preventive service availability"];
+
+  ph_funding      [label="Public health grant funding"];
+
+  surv            [label="Public health surveillance capacity"];
+
+  
+
+  // --- Causal links (with polarity) ---
+
+  segregation -> resources      [label="+"];            // Segregation concentrates disinvestment, limiting access to healthy food, safe recreation, and supportive services.
+
+  segregation -> env_conditions [label="+"];            // Segregation increases exposure to hazards (pollution, heat islands, substandard housing) via unequal land use and enforcement.
+
+  surv -> ph_funding            [label="+"];            // Better surveillance makes burden/disparities legible to agencies and funders, strengthening justification and targeting for grants.
+
+  prevention -> surv            [label="- long delay"];  // Effective prevention lowers risk-factor prevalence over time, eventually showing up as improved surveillance indicators (long lag).
+
+  resources -> oop              [label="+"];            // Resource deprivation increases downstream medicalization and crisis care, shifting costs onto households as out-of-pocket spending/medical debt.
+
+  /*Mdicaid rule direction note:
+
+  Here "+" means "more restrictive eligibility rules" -> more uninsured.*/
+
+  medicaid_rules -> uninsured   [label="+"];            // More restrictive eligibility increases coverage gaps, raising the uninsured population (especially among low-income adults).
+
+  income -> uninsured           [label="-"];            // Higher income security reduces uninsurance by improving affordability and stability of coverage (employment-linked or marketplace).
+
+  uninsured -> prevention       [label="-delay"] // Uninsurance reduces access to routine prevention and chronic disease management (primary care, screenings, meds); effects appear with delay.
+
+  ffs -> prevention             [label="-"];            // Fee-for-service rewards volume/procedures over prevention, limiting investment in outreach, counseling, and longitudinal risk management.
+
+  uninsured -> oop              [label="+"];            // More uninsured shifts payment from pooled insurance to point-of-care household liability, increasing out-of-pocket spending and unpaid bills.
+
+  pcp_supply -> prevention      [label="+"];            // Greater primary care supply expands capacity for prevention, early detection, and risk-factor control at the population level.
+
+  ph_funding -> prevention      [label="+ delay"];      // Grant funding enables programs and services, but requires administrative ramp-up (staffing, contracts), so prevention expands with delay.
+
+  oop -> income                 [label="-"];            // Higher out-of-pocket costs and medical debt erode income security via financial strain, reduced savings, and work disruption.
+
+  
+
+  // --- Loop callouts (subgraph clusters) ---
+
+  subgraph cluster_R1 {
+
+    `label="R1 Reinforcing: poverty–uninsurance–low prevention–disease–cost spiral";`
+
+    `style="rounded,dashed";`
+
+    `color="gray40";`
+
+    `fontname="Arial";`
+
+    `fontsize=12;`
+
+  
+
+    `income;`
+
+    `uninsured;`
+
+    `oop;`
+
+  
+
+    `/*This reinforcing loop shows the relationship between income security, insurance coverage, preventive care, disease burden, and out-of-pocket costs. Low income security leads to higher uninsurance rates, which reduces access to preventive services. This results in increased disease burden, leading to higher out-of-pocket costs for medical care. These costs further erode income security, perpetuating the cycle.*/`
+
+  }
+
+  
+
+  subgraph cluster_B1 {
+
+    `label="B1 Balancing: disease burden triggers public health funding response";`
+
+    `style="rounded,dashed";`
+
+    `color="gray40";`
+
+    `fontname="Arial";`
+
+    `fontsize=12;`
+
+  
+
+    `//heart_disease;`
+
+    `ph_funding;`
+
+    `prevention;`
+
+    `surv`
+
+  
+
+  }
+
+  
+
+}
+```
+

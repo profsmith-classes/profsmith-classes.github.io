@@ -1,0 +1,199 @@
+---
+title: "Tips for Working in This Course"
+class: "402"
+draft: false
+---
+This page collects practical advice for navigating PUBH 402. None of this replaces assignment instructions. Think of it as **field notes** from people who have already walked this terrain.
+
+You do not need to follow every tip perfectly. Use them to orient yourself when things feel unclear or harder than expected.
+
+# How to Make This Course Easier (Not Harder)
+
+The single most useful tip in this course is this:
+
+**Focus on understanding the health problem, not on "getting the assignment right."**
+
+Students often struggle when they:
+
+- try to reverse-engineer what the instructor wants,
+- treat the system map as a technical task,
+- aim for polish or certainty too early.
+
+The course becomes more manageable when you:
+
+- stay curious about why the problem persists,
+- explore causes even when you're unsure,
+- follow questions that genuinely interest you,
+- treat the system map as a tool for thinking, not a final answer.
+
+If you are engaged with the health problem itself, the assignments usually take care of themselves.
+
+# Why You Can't Save This for the End
+
+This is the most important practical warning on the page.
+
+A systems map is built through **iteration**, not assembly. Iteration means to repeat the process over and over, generating a new and better version each times. You identify elements, connect them, notice the connections don't quite work, research, and revise — over weeks. There is no version of this course where you skip the weekly work and reconstruct a good map in the final days. The reasoning literally cannot be compressed into a single sitting.
+
+The arithmetic makes this concrete. This is a 3-unit course, which assumes about **9 hours of work per week**. If you do nothing for three weeks and then face a deadline, that's 30+ hours of work in one week — work that depends on thinking you haven't done yet. That isn't a motivation problem. **It's a physical impossibility on top of your other courses and commitments.**
+
+What actually works:
+
+- Start each module early, even if you only have a vague idea.
+- Expect your first version to be incomplete and wrong. That's normal and part of the process.
+- Treat each week's work as raw material for the next, not as a separate task to finish.
+
+::: {.callout-warning}
+If you find yourself planning to "catch up this weekend" on several weeks of mapping work, that plan will not survive contact with reality. Reach out *before* the deadline, not after.
+:::
+
+# How to Know If You're Doing Okay
+
+Early in the course, many students worry that they are behind. Use these signals instead:
+
+- **Confused but working?** That's normal.
+- **Asking "why does this behave this way?"** You're on track.
+- **Revising your thinking over time?** That's success in this course.
+- **Avoiding the work because it feels unclear?** That's a sign to pause and reach out.
+
+There are two different states that can both feel like "I'm struggling," and they call for opposite responses:
+
+- **Confusion + engagement is productive.** If you're actively wrestling with the problem, keep going — this is the work.
+- **Silence + avoidance is a warning sign.** If you've stopped opening the file because it feels unclear, that's the moment to act, not wait. Reassurance that "confusion is normal" is *not* permission to keep waiting.
+
+If you recognize yourself in that second state, the single best move is to reach out, even with nothing more than "I've stalled and I'm not sure why."
+
+:::{ .callout-warning}
+The students who get into trouble are rarely the confused ones — they're the ones who went quiet and did not reach out for help.
+:::
+
+# Common Traps to Avoid
+
+These patterns make the course harder than it needs to be:
+
+- Waiting for full clarity before starting
+- Over-polishing early work
+- Treating early drafts as if they must be "right"
+- Dividing team work before thinking together (see [A Note on Teams](#a-note-on-teams))
+- Optimizing for format instead of explanation
+- Being vague when the assignment rewards specificity (see below)
+
+These are understandable habits from other courses — but they don't work well here.
+
+# Be Specific (This Is Where Most Points Are Won or Lost)
+
+The most common problem in submitted work is **vagueness**: writing that could apply to almost any health problem in the U.S. A check-in or memo that talks generally about "social determinants" or "policy and financing" doesn't show how *your team's system* actually works.
+
+The fix is to name concrete elements and relationships from your own map.
+
+Compare:
+
+- **Too abstract:** "Policy and financing influence outcomes."
+- **Specific:** "Our inclusion of Medicaid reimbursement rates connects to primary care capacity, which then affects emergency department utilization.Access to primary care reduces emergency department visits, which in turn reduces wait times and improves patient outcomes."
+
+The second version shows reasoning. The first could have been written without doing any of the work. Whenever you're asked what you think, point at specific elements, relationships, feedback loops, or boundary choices in your map. Uncertainty is expected; vagueness is not.
+
+# A note on questions, confusion, and communication
+
+This course is designed to challenge how you think about public health problems. As a result, there will be times when you feel uncertain, confused, or unsure how to proceed — especially early in the term.
+
+That experience is expected.
+
+In this course, confusion is not a failure and it is not something to wait out. It is often the first signal that you are engaging with systems thinking rather than memorization or procedure.
+
+You do not need to have a fully formed question in order to reach out.
+"I'm not sure what I'm missing," "I don't know how to improve this," or "I feel stuck" are all sufficient reasons to contact me or come to office hours.
+
+Waiting until the end of the term to raise questions makes it much harder to resolve them. Early, partial, and even inarticulate questions are strongly encouraged and will be treated as a normal part of learning in this course.
+
+# What to Do When You're Stuck
+
+Being stuck is part of systems thinking. Try this sequence:
+
+1. **Name what you don't understand.** Write it down, even if it's vague.
+2. **Return to the health problem.** Ask: *What am I trying to explain? Why does this problem persist?*
+3. **Check whether your map is doing work.** Does it help you ask better questions, or is it just sitting there?
+4. **Reach out early.** You do not need a fully formed question. Confusion is enough.
+
+# Where to Ask Questions
+
+This course uses different tools for different purposes. Knowing where to go makes things much easier.
+
+- **Canvas** is for rules: deadlines, submissions, grades.
+- **This website** is for meaning: course content, explanations, and guidance.
+
+So:
+- If you're confused about *what something means*, start with this website.
+- If you're confused about *what is due or how to submit*, check Canvas.
+- If you're stuck, unsure how to proceed, or don't have a fully formed question, reach out to me directly.
+
+::: {.callout-tip title="High value tip"}
+Misrouting a question is always better than staying silent. Confusion is enough reason to ask.
+:::
+
+# A Note on Teams
+
+Teams work best when:
+
+- thinking happens together before tasks are divided,
+- communication is explicit and regular,
+- concerns are raised early.
+
+**The trap to avoid: divide and assemble.** The most common team failure is splitting the map into pieces — one person takes financing, another takes workforce, another takes structural factors — and stitching the parts together at the end. Systems analysis does not work this way.
+
+This assignment is not like baking a cake where each person prepares one ingredient. It is closer to studying an ecosystem. You cannot assign one person the forest, another the river, and another the animals, then combine them later. The forest changes the river. The river changes the animals. The animals change the forest. The *value* of a systems map comes from understanding those relationships — which means the team has to think about the system together, not just merge separate sections.
+
+A shared Graphviz file makes division of labor easy, which is exactly why it's dangerous: the file can look complete while no one actually understands how the whole thing fits together. Build shared understanding first; divide specific tasks only after.
+
+If something isn't working:
+
+- that information matters,
+- escalation is responsible, not a failure,
+- waiting usually makes things harder.
+
+Team friction is not a sign of a bad team — it's often a sign that the system is doing real work. 
+
+::: {.callout-tip}
+And don't pause the whole project waiting on an unresponsive teammate; make reasonable attempts to reach them, document your efforts, and keep moving.
+:::
+
+# How Grading Works Here (Briefly)
+
+Grades in this course are based on:
+
+- quality of reasoning appropriate to the stage of the project,
+- clarity of explanation,
+- evidence of learning and revision over time.
+
+Grades are **not** based on:
+
+- early certainty,
+- confidence,
+- polish in early drafts,
+- having the "right" answer.
+
+Late learning still counts.
+
+# How to Interpret Your Grades
+
+In this course, grades are signals, not verdicts.
+
+- An early lower score usually means: *your reasoning isn't fully developed yet.*
+- A later higher score usually means: *your thinking deepened or became clearer.*
+- Consistent engagement and revision matter more than getting everything right the first time.
+
+If you receive feedback, the most useful question to ask is not "Why did I lose points?" but:
+
+> *What part of my reasoning needs to be clearer or better supported at this stage?*
+
+# A Final Tip
+
+If this course feels hard, ask yourself:
+
+> *Am I trying to manage the assignment, or am I trying to understand the health problem?*
+
+Shifting your focus back to the problem usually makes the next step clearer.
+
+You are not expected to have everything figured out.
+You are expected to stay curious, engaged, and willing to revise your thinking.
+
+That is enough to succeed here.

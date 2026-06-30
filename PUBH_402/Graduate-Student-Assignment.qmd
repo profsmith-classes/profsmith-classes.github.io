@@ -1,0 +1,121 @@
+---
+title: "Graduate Student Assignment"
+draft: false
+class: "402"
+
+---
+
+If you are taking this course for graduate credit, you must also complete this assignment.
+
+# Second-Order Systems Analysis: Model Limits, Power, and Governance
+
+Applies only to students taking PUBH 402 for graduate credit.
+## Purpose
+
+This assignment asks you to step back from your system map and analyze it as an _object of inquiry itself_.
+
+Rather than asking whether your system is “correct,” you will examine how your model constructs reality:   what it assumes, what it emphasizes, what it obscures, and how power and governance shape both the system _and_ your representation of it.
+
+This is a **second-order systems analysis**—analyzing the system _and_ the analytical tool used to explain it.
+
+## What You Should Be Able to Do After This Assignment
+
+By completing this assignment, you should be able to:
+
+- Critically evaluate the limits of systems models in public health
+- Identify how power, governance, and political economy shape system behavior
+- Explain how modeling choices enable or constrain interpretation and action
+- Reflect on your own position and assumptions as a systems analyst
+
+## The Assignment
+
+You will write an individual analytical paper that uses your team’s system map as the central object of analysis.
+
+This is **not**:
+
+- a policy proposal
+- a literature review
+- an extension of your synthesis narrative
+
+It is a critical examination of how systems models work, what they do well, and where they fall short.
+
+## Required Sections
+
+Your paper **must include all four sections below**, in the order listed. Use clear headings.
+
+### 1. Model Boundaries and Ontological Assumptions
+
+Explain how your system map defines what “exists” in the system.
+
+Address questions such as:
+
+- What counts as an element in your model, and why?
+- Which actors, institutions, or forces are treated as structural versus background?
+- What assumptions about causality, agency, rationality, or stability are embedded in the model?
+
+Be explicit about what your model _must assume_ in order to function.
+
+### 2. Power, Governance, and Political Economy
+
+Analyze how power operates within the system you modeled.
+
+Consider:
+
+- Where decision-making authority resides
+- How resources, incentives, and constraints are distributed
+- Which actors benefit from system stability and which bear its costs
+- How governance structures reinforce or resist change over time
+
+You may draw on governance theory, political economy, or critical public health perspectives, but your analysis must remain grounded in your system map.
+
+### 3. What the Model Makes Visible—and Invisible
+
+Critically assess the consequences of your modeling choices.
+
+Discuss:
+
+- Which dynamics your system structure emphasizes
+- Which dynamics are flattened, minimized, or excluded
+- How alternative modeling choices might lead to different interpretations or leverage points
+
+This section should make clear that systems models are **interpretive tools**, not neutral representations of reality.
+### 4. Implications for Action and Knowledge
+
+Reflect on what your analysis implies for intervention and knowledge production.
+
+Address:
+
+- What kinds of interventions your model tends to privilege
+- What kinds of change your model makes difficult to imagine
+- Where uncertainty, indeterminacy, or contestation remain irreducible
+
+Do **not** propose a specific policy. Focus on the _limits_ of action and explanation.
+
+## Format and Submission
+
+- **Length:** 2,500–3,000 words
+- **Format:** Word or PDF
+- **Font:** Times New Roman, 10pt
+- **Spacing:** 1.5
+- **Margins:** 1" on all sides
+- **Citations:** Required where relevant; quality over quantity
+- **Submission type:** Individual (not team-based)
+## Due Date
+
+This assignment is due **at the same time as the Module 7 final submission**.
+
+## How This Will Be Evaluated
+
+The guiding evaluation question is:
+
+> **Does this work demonstrate graduate-level systems thinking by critically interrogating both the system and the model used to explain it?**
+
+Strong submissions will:
+
+- Make assumptions explicit rather than implicit
+- Demonstrate structural and political awareness
+- Engage uncertainty honestly and precisely
+- Show reflexivity about modeling choices
+- Avoid premature closure or performative certainty
+
+Clarity of reasoning matters more than polish. Partial but well-reasoned analyses are preferred to confident but shallow claims.

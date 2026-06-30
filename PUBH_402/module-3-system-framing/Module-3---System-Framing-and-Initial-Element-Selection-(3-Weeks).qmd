@@ -1,0 +1,137 @@
+---
+status: draft
+title: "Module 3 - System Framing and Initial Element Selection (3 Weeks)"
+draft: false
+class: "402"
+
+---
+> [!reminder] A quick reminder before you start:**  
+> This is often the point in the course where uncertainty increases. That’s expected.
+> 
+> If you feel stuck or unsure:
+> - revisit the Welcome from Week 0. [Module 0 - Welcome](../Module-0---Welcome.qmd)
+> - check the Class Tips page, [Tips for Working in This Course](../Tips-for-Working-in-This-Course.qmd)
+> - and remember that confusion + engagement is normal here.
+> 
+> You do not need a fully formed question to reach out.
+
+# Module Orientation
+
+In this module, you will move from [forming your team](Module-2---Team-Formation-and-Project-Onboarding.qmd) and a preliminary exploration of your problem to the beginning of the systems analysis and of an understanding of the US health care system.
+
+The goal of this module is not to finalize your work, but to begin your analysis.
+
+This module is the first module where the direction of learning shifts from my guidance to you and your team. As you begin this work, check-in with how you are feeling.  Feeling unsure, a little confused, and maybe a bit of anxiety is *normal* at this stage! 
+
+---
+
+# What You Should Be Able to Do After This Module
+
+By the end of this module, you should be able to:
+
+1. Describe an initial system framing, i.e. what outcomes or markers will you rely on as you create you begin your analysis.
+2. Select key elements from a list provided to you and explain your reasoning by the your choice of elements.
+3. Create a first draft of your system map by creating a `.dot` file.
+
+These describe *ways of thinking*, not tasks to complete.
+# Core Concepts and Materials
+
+Your team's goal here is to create the first draft of your systems analysis. If you need to, review [1.1 Systems Thinking](../Module%201%20-%20Systems%20Thinking/1.1%20Systems%20Thinking.qmd) in Module 1 - Systems Thinking as this module will rely on those concepts.
+## System Framing
+
+Think about your problem and as a team outline some boundaries for your work.  What topics might you include and what topics would be outside your system?  What measures will you look at to explore the problem?   What is the outcome you would like to see if this problem were solved
+## Element Selection
+
+You are provided with a [structured list](../Resources/System-Elements.qmd) of system elements representing major domains of the U.S. health care and public health system, including:
+
+- structural determinants  
+- structural inequities  
+- policy, governance, and information systems  
+- financing, funding, and payment  
+- workforce and infrastructure  
+- public health capacity  
+
+This list is a **shared analytical starting point**, not a complete description of the system. 
+
+Your first task is to explore these elements as a team through discussion, research, and sharing.  Your goal is to begin to understand which elements are important for understanding your health problem and which elements are less important. Check the [Research Resources](../Resources/Research-Resources.qmd) for some tips and guidance on research if you need a refresher.
+
+> [!important]+ Be Specific!
+> Your discussion of elements must be specific and related to the health problem that your team is working on.
+
+You should start with your assigned text book and then being to explore additional sources for more information.  Your sources must be *reliable* and *relevant*.[^1] 
+
+Your team's goal is to develop a general sense or understanding of how these elements work together to affect your health problem. 
+
+Select **12 system elements** from the provided [list of elements](../Resources/System-Elements.qmd) that your team believes are most important for explaining how the system produces outcomes related to your health problem.
+
+Your selection **must include at least**:
+- one **Structural Determinant**
+- one **Structural Inequity**
+- one **Financing or Insurance** element
+- one **Payment** element
+- one **Federal and State Policy** or **Enforcement and Accountability** element
+- one **Workforce or Infrastructure** element
+
+
+> [!warning]+ Keep track of research activities
+> You will be asked in [Module 5 - Research and System Refinement (3 Weeks)](Module-5---Research-and-System-Refinement-(3-Weeks).qmd) to reflect on your work and efforts in creating your system map.  You will also be asked to share the sources you used in developing your map and materials.
+> 
+> Make a decision now as a team how you will keep track of your conversations and efforts as well as how you will save and maintain a record of sources that you used in your efforts!
+
+## Draft System Map
+
+With your element list, you will write your first `.dot` file for use with [Graphviz](https://graphviz.org/#what-is-graphviz). This file will layout the relationships between all your elements.  
+
+Go through the [DOT Explainer](../Resources/DOT-Explainer.qmd) to learn how to create a .dot file for use with Graphviz.
+
+As you connect the elements, include polarity and delays (if any). As you build your structure, if an element has no connection to another element. You will simply list the element. 
+
+Once you are ready, use an [online Graphiz tool](../Resources/DOT-Explainer.qmd#online-renderers)to see your map.
+# How This Module Connects to Your System Map
+
+This module is focused on creating your first systems map and is the basis for your analysis moving forward.
+
+# Module Deliverables
+
+## 1. Element List
+### What to submit  
+Following the guidance above, identify your 12 elements.  Make sure that you include:
+- one **Structural Determinant**
+- one **Structural Inequity**
+- one **Financing or Insurance** element
+- one **Payment** element
+- one **Federal and State Policy** or **Enforcement and Accountability** element
+- one **Workforce or Infrastructure** element
+
+For each selected element, provide:
+- the **element name**
+- the **category** it belongs to
+- **one sentence** explaining why this element matters for your system, i.e. how does it affect another of your chosen elements?[^2]
+
+For the elements in an area that you did not select, provide:
+- the **element name** 
+- The **category** it belongs to
+- and **one sentence** explaining why your team did not choose this element.
+### Format:  
+Word document or PDF with 1" margins all around, Times New Roman, 10pt, 1.5 spacing.  Use the template provided on Canvas attached to the assignment. 
+### Submission location  
+- Canvas - Module 3 Element List
+## 2. Graphviz `.dot` file
+
+Use the template on Canvas as the basis for your team's .dot file. Your file must:
+- Include the name of your health problem.
+- Twelve selected element from your element list
+- Relationships between elements written as edges, labeled with polarity, and delays (if applicable)
+- Feedback loops are indentified
+- Comments on elements and relationships included in the file.
+- Must be a valid `.dot` file that will render as a graph. (Use an online tool to check this); upload a copy of your diagram that you produced.
+
+# How This Will Be Evaluated
+
+You are defining the boundaries of your system and making your initial structural choices explicit.
+
+
+
+[^1]: [Research Resources](../Resources/Research-Resources.qmd) for more.
+
+[^2]: This is important! Focus on how the elements relate to each other.

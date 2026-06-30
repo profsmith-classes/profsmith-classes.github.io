@@ -1,9 +1,7 @@
 ---
 title: "1.2 System Maps"
-date: "2026-06-25"
 draft: false
 class: "402"
-categories: []
 ---
 
 ## System Map — Basic Definition

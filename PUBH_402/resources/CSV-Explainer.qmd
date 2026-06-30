@@ -1,0 +1,151 @@
+---
+title: "CSV Explainer"
+draft: false
+class: "402"
+
+---
+
+# CSV Files: A Practical Explainer
+
+A **CSV** file is a simple way to store a table of data in a plain-text file. CSV stands for **Comma-Separated Values**. It’s one of the most common formats for sharing data because it works across tools (Excel, Google Sheets, R, Python, etc.) and doesn’t depend on special spreadsheet formatting.
+
+In this course, CSVs are the default way you’ll receive and share datasets.
+## What a CSV is (and is not)
+
+A CSV is:
+
+- A table where **each row is a record** (an observation)
+- **Each column is a variable** (a field)
+- Values in a row are typically separated by commas
+-
+A CSV is **not**:
+
+- A formatted spreadsheet (no colors, merged cells, multiple tabs, formulas, charts, etc.)
+- A “smart” file that knows your data types
+- A safe place to rely on formatting (because it doesn’t store formatting)
+
+A CSV is essentially a text file that looks like this:
+
+```
+city,date,temp_c
+Oakland,2025-06-01,22.3
+Oakland,2025-06-02,19.8
+```
+
+The first line is often the **header row** (column names).
+
+## Why CSV is used so much
+
+CSV is popular because:
+
+- It’s easy to share and open in almost any tool
+- It’s transparent (you can open it in a text editor and see what’s inside)
+- It plays well with data analysis workflows
+- It avoids some of the hidden behaviors of spreadsheet formats
+
+The downside is that CSV is also **unforgiving**: small issues can break it or change what it means.
+
+## What commonly goes wrong with CSV files
+
+### Auto-formatting (especially in Excel)
+
+Excel may silently change your data:
+
+- Turning IDs like `001234` into `1234` (leading zeros vanish)
+- Converting strings into dates (e.g., `3-4` becomes `Mar-04`)
+- Changing long numbers (loss of precision)
+
+**Rule of thumb:** If a column contains IDs, zip codes, or codes, treat it as text—not numbers.
+
+### Commas and quotes inside values
+
+Because commas separate values, text fields that contain commas can cause problems unless they’re quoted.
+
+Example:
+
+```
+name,notes
+Smith,"works in Oakland, CA"
+```
+
+If quotes are missing, the comma in “Oakland, CA” can be misread as a separator.
+
+### Missing values
+
+A missing value in a CSV often appears as:
+
+- An empty cell: `Oakland,,22.3`
+    
+- A placeholder like `NA`, `N/A`, `null`, `-`, or `999`
+    
+
+Missingness matters. It is often a real feature of the system, not just an annoyance.
+
+### Inconsistent labels
+
+These values might be meant to represent the same thing:
+
+- `CA`, `California`, `Calif.`, `ca`
+    
+
+Cleaning often means making categories consistent, but that requires judgment.
+
+### Multiple header rows, merged cells, footnotes
+
+These are common in “human-facing spreadsheets,” but they make data hard to analyze.
+
+A clean dataset usually has:
+
+- One header row
+    
+- No merged cells
+    
+- No totals rows inside the dataset
+    
+- No embedded notes inside the data grid
+    
+
+If you need notes, keep them outside the dataset or in a separate documentation file.
+
+## How to work with CSVs safely
+
+### Keep raw data raw
+
+- Save an untouched copy of the original CSV.
+- Do cleaning on a copy.
+- Avoid overwriting your only source.
+### Check structure every time you open or export
+
+After opening and saving a CSV, quickly verify:
+
+- Column count stayed the same
+- Column names didn’t shift
+- No surprise conversions (dates, IDs, leading zeros)
+
+### Prefer “Import” over “Open” in Excel (when possible)
+
+Using Excel’s import tools can let you specify data types and prevent unwanted conversions.
+
+## Self-Check (Not Submitted)
+
+Try this on any CSV you have:
+
+1. Open the CSV in your tool of choice.
+
+2. Answer these questions in plain language:
+
+- What does each row represent?
+- What does each column represent?
+- Which columns are numeric? Which are categories? Which are identifiers?
+- Do you see missing values? If so, how are they represented?
+- Do any values look inconsistent (spelling, capitalization, categories)?
+
+1. Save a cleaned copy (new filename) and confirm the structure didn’t change unexpectedly.
+
+
+If you can do this, you are in good stead for the data work in this course.
+
+
+## The Main Idea
+
+A CSV is a plain-text table. That simplicity is its power—and also why it needs to be handled carefully. The goal is not to make the file look nice, but to preserve meaning while making the data usable and trustworthy.

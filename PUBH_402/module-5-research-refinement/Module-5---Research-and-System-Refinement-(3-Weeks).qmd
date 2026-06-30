@@ -1,0 +1,238 @@
+---
+title: "Module 5 - Research and System Refinement (3 Weeks)"
+draft: false
+class: "402"
+
+---
+
+# Module Orientation
+
+You have built your map, you have started your research, you have updated your systems map based on your questions.  Now, you will repeat what you did in Module 4 except that you now will be creating your final list of elements and your final systems map that will be the basis of your analysis of your health problem.
+# Core Concepts and Materials
+
+You should be using your map now to ask the same questions from Module 4:
+
+- Where am I asserting causality without evidence?
+- Which relationships feel directionally right but poorly specified?
+- What feedback loops seem implied but not fully articulated?
+- What elements did I exclude earlier that now appear structurally important?
+- What assumptions would need to be true for this system to behave as I’ve drawn it?
+- Are there elements missing from this map and from the provided list of elements?  Do we need new elements? 
+- Do we need to adjust the structure of the system map based on our further research?
+
+This module is your final opportunity to edit and adjust your system map and to add or exclude elements.
+
+## Research
+
+Your team should continue to research  your health problem and the US health care system using your system map as a research partner.  The module 4 flowchart is a useful reminder of the process: 
+
+![](../../../attachments/reserach_process.svg)
+(Download or open this image in another tab so you can see it in more detail. You can also download this chart from Canvas)
+
+At this point your team should have a good list of sources and their citations. 
+
+## Summary of Your Research Activity
+
+Once you have your system map finalized and ready, write a summary of your research activities as a team and outline how the evidence you found shaped your system. Your summary should be annotated and include citations to materials that were useful to your team. 
+
+This document provides the overview of how you conducted your research, how it shaped your approach to your system map, and citations to the most important sources for your work.
+
+# Module Deliverables
+
+## What to submit
+
+### Revised system map
+
+Create your final system map.  Make sure all the labels are in place, relationships are clear, and that reinforcing and balancing loops are identified and labeled.
+
+Use comments in you `.dot` file to discuss changes and additions you have made and the evolution of your amp.  I should be able to understand your system map and it's relationships by reading your file.
+
+Turn in your final `.dot` file and a copy of your system map.
+
+### Brief Memo (Summary of Your Research Activity)
+
+This document explains **how your team used research to test, refine, and revise your system map**. It is not a literature review and not an argument about policy solutions. Its job is to make your _reasoning process_ legible.
+
+Your summary should be **annotated** and include **citations** to the most important sources you relied on.
+
+**Your summary must address the following:**
+
+**1. Research focus and strategy**  
+Briefly describe how your system map guided your research.  
+Explain:
+
+- Which parts of the map generated the most questions
+    
+- Which relationships, loops, or elements you prioritized for investigation
+    
+- Why those areas mattered structurally to the system
+    
+This is about _direction_, not exhaustiveness.
+
+**2. Evidence that shaped the system**  
+Describe how specific sources influenced your map.  
+For each major change or confirmation, explain:
+
+- What you thought was happening before
+    
+- What evidence you found
+    
+- How that evidence changed, clarified, or reinforced the structure of the system
+    
+You do not need to summarize every source—only the ones that actually did work.
+
+**3. Revisions to elements and relationships**  
+Explain:
+
+- Which elements were added, removed, or retained after reconsideration
+    
+- Which causal relationships became more precise
+    
+- Where you revised direction, polarity, or feedback structure
+    
+Focus on _why_ the system now looks the way it does.
+
+**4. Remaining uncertainty and limits of evidence**  
+Identify:
+
+- Relationships that remain where the evidence is weak
+    
+- Assumptions you could not fully test
+    
+- Areas where evidence was contradictory, thin, or contested
+    
+Uncertainty is expected. Naming it accurately is part of the work.
+
+**5. Key sources**  
+Provide citations for the most important [relevant and reliable](../Resources/Research-Resources.qmd)sources that shaped your thinking.  
+
+You are being evaluated on _use_, not quantity.
+## Format expectations
+
+## Format:  
+
+**Revised System Map**: Turn in your `.dot` file and a copy of your system map.
+
+**Brief Memo**
+
+- Length: concise and focused (aim for clarity, not coverage)
+- Tone: analytical, not polished prose
+- Citations: consistent and traceable
+- Annotations may be inline or footnote
+
+Make sure your team number, section, and names are on your memo. 
+## Submission location:  
+Canvas
+# How This Will Be Evaluated
+
+## Final System Map — 10 points
+
+### Meets Requirements (10)
+
+The submission presents a **coherent causal system**.
+
+- Elements are clearly defined and appropriate to the system
+
+- Causal relationships have clear direction
+   
+- Reinforcing and balancing feedback loops are identified and labeled and are feedback loops
+
+- The system structure is interpretable to a reader
+
+- `.dot` file comments explain modeling decisions or revisions. Elements and relationships are clearly described.
+
+- The map reflects refinement based on research indicated in the comments.
+
+
+---
+
+### Partially Meets Requirements (7)
+
+The map shows **evidence of systems thinking but remains incomplete or rough**.
+
+Common issues may include:
+
+- some relationships unclear or underspecified
+
+- missing or incorrectly labeled feedback loops
+
+- causal direction or polarity inconsistently specified
+
+- limited explanation of modeling choices in `.dot` comments
+ 
+- revisions visible but not well explained
+
+
+The system structure is present but **not fully disciplined**.
+
+---
+
+### Does Not Meet Requirements (5)
+
+The submission does **not yet function as a system model**.
+
+Typical signs include:
+
+- map reads as a list of factors rather than a causal system
+
+- relationships unclear or unsupported
+
+- no identifiable feedback structure
+
+- little or no reasoning visible in `.dot` file comments 
+
+## Research Summary Memo — 10 points
+
+### Meets Requirements (10)
+
+The memo clearly explains **how research shaped the system model**.
+
+- Describes how the system map guided the team’s research
+    
+- Identifies relationships or elements that required investigation
+    
+- Explains how specific sources confirmed, challenged, or refined the model
+    
+- Describes revisions to elements or causal relationships
+    
+- Identifies areas of uncertainty or weak evidence
+    
+- Includes clear citations to key sources
+    
+
+The memo makes the team’s **reasoning process visible**.
+
+---
+
+### Partially Meets Requirements (7)
+
+Research is present but **not strongly connected to the system model**.
+
+Common issues may include:
+
+- sources summarized rather than used to test the system
+    
+- revisions mentioned but not clearly explained
+    
+- weak connection between evidence and system changes
+    
+- uncertainty acknowledged only briefly
+    
+
+The memo shows effort but **limited analytical use of research**.
+
+---
+
+### Does Not Meet Requirements (3)
+
+The memo does **not demonstrate how research informed the system model**.
+
+Typical signs include:
+
+- reads like a literature summary
+    
+- little discussion of causal relationships or system structure
+    
+- revisions to the system map not explained
+    
+- minimal or unclear citations

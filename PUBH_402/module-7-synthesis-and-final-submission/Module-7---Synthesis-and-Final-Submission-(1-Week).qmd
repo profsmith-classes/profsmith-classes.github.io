@@ -1,0 +1,107 @@
+---
+title: "Module 7 - Synthesis and Final Submission (1 Week)"
+draft: false
+class: "402"
+
+---
+
+Systems Analysis of a US Health Care Problem: Module 7 - Synthesis and Final Submission (04/26 - 05/01)
+# Module Orientation
+
+This is the point where everything you’ve been building comes together.
+
+Up to now, you’ve been mapping parts of a system, testing assumptions, revising relationships, and sitting with uncertainty. Module 7 asks you to step back and do the systems thinking move in full: integrate, explain, and reflect.
+
+This is not about adding more complexity. It's about summarizing your journey and your work this term.
+
+You will submit a final package that shows:
+
+- What the system looks like now  
+- How the system works, in your own words  
+- How your understanding of the system changed over time  
+
+Think of this as telling the story of the system and your reasoning.
+
+
+> [!tip]+ A Final Note
+> This module is about synthesis, not stress-testing yourself at the last minute. You are not expected to discover something new here. You are expected to *make sense of what you already built*.
+> 
+> Systems thinking is not about certainty. It’s about disciplined explanation in a messy world. This final submission is your best current explanation—clear, grounded, and honest about its limits. 
+> 
+> Take a breath. Then tell the system’s story.
+
+# Module Deliverables
+## What to submit:
+
+### 1. Final System Map
+
+Submit your final version of the system map you have been developing.
+
+Your map should:
+- Include the elements you ultimately decided were essential
+- Show clear causal relationships
+- Make feedback loops and major dynamics visible
+- Reflect revisions made based on research and reasoning
+
+This is your *best current model* of the system, not a claim that the system is fully knowable.
+
+#### Format
+
+Submit your team's final `.dot` file and a copy of your rendered system map.
+
+#### Submission Location
+
+Canvas
+
+### 2. Synthesis Narrative
+
+Write a short narrative that explains how your system works.
+
+You should:
+- Describe the major dynamics driving the health problem
+- Explain key feedback loops or structural constraints
+- Connect your elements into a coherent account of cause and effect
+- Focus on structure and system behavior, not individual blame
+
+This is where you demonstrate systems thinking in words.
+
+#### Format
+
+This should be no more than 1000 words.  Times New Roman, 1.5" spacing, 10pt, 1" margins. Make sure that your team name, section, and team members' names are on the submission.
+
+#### Submission Location
+
+Canvas
+
+### 3. Reflection on System Evolution
+
+Briefly reflect on how your system model changed over the course of the project.
+
+Address questions like:
+- What assumptions did you revise or abandon?
+- What relationships became clearer over time?
+- What surprised you as you worked through the system?
+- Where does uncertainty still remain?
+
+This a reflection on your *reasoning process* as a team.
+#### Format
+
+This should be no more than 1000 words.  Times New Roman, 1.5" spacing, 10pt, 1" margins. Make sure that your team name, section, and team members' names are on the submission.
+
+#### Submission Location
+
+Canvas
+# How This Will Be Evaluated
+
+You are integrating the full analysis into a coherent systems account. The core question guiding evaluation is:
+
+**Does this submission demonstrate a coherent, well-reasoned systems understanding of the health problem, appropriate for the end of the project?**
+
+Strong submissions show:
+- Integration rather than accumulation
+- Clear causal logic
+- Thoughtful revision and learning over time
+- A system that “hangs together” conceptually
+
+Minor technical or stylistic issues will not outweigh strong reasoning.
+

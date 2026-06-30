@@ -1,9 +1,7 @@
 ---
 title: "1.1 Systems Thinking"
-date: "2026-06-25"
 draft: false
 class: "402"
-categories: systems-thinking
 ---
 
 # Readings

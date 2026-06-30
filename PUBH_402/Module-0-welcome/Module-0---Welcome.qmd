@@ -1,0 +1,152 @@
+---
+title: "Module 0 - Welcome"
+draft: false
+class: "402"
+
+---
+# How this course works
+
+## Problem-Based Learning
+
+This course is designed around an approach to learning called **problem-based learning (PBL)**. PBL is a way of learning that emphasizes _learning by doing_. Instead of relying primarily on lectures, exams, and isolated exercises, PBL asks you to learn by working through a real problem and using that work to build understanding over time.
+
+In this course, I will not be teaching you the U.S. health care system as a list of facts to memorize. Instead, I will help you **learn how the system works by using it**, analytically, to examine a concrete health problem. As you work through that problem, you will encounter how the U.S. health care system is organized and financed, how care is delivered across different levels, how decisions affect access, cost, and quality, and how ethical tradeoffs arise when resources and risks are distributed unevenly.
+
+Different parts of the course assess different kinds of learning. The **systems analysis project**, which makes up most of the course, is where you will apply systems thinking to real-world health problems. Through this project, you will identify and explain major challenges related to access, cost, and quality; apply concepts to organizational and clinical settings; engage with ethical questions about resource distribution and risk–benefit tradeoffs; and research, synthesize, and evaluate evidence-based recommendations.
+
+The **final exam** serves a different purpose. It focuses on your ability to clearly describe and explain the organization and financing of the U.S. health care system, as well as approaches to health services organization and financing across different levels of care. By the time you reach the final exam, you will have spent most of the term working inside a specific system. The exam asks you to step back and demonstrate that you can connect that experience to a broader understanding of how the U.S. health care system functions overall.
+
+This structure is intentional. Complex systems like health care cannot be understood well through memorization alone. They require learning how to frame problems, test assumptions, evaluate evidence, and explain why some interventions are likely to succeed while others may fail or produce unintended consequences. You should expect your thinking to change over time. Early versions of your analysis may be incomplete or wrong, and revision is expected.
+
+You should expect this course to feel different from classes that rely mainly on lectures and exams. At times, you may feel uncertain, incomplete, or like you don’t yet “have the answer.” That is not a sign that you are doing poorly. It is a sign that you are doing the work the course is designed to support. Early versions of your thinking are expected to be partial or wrong; improvement over time matters more than early certainty.
+
+In broad terms, the course follows three steps:
+
+1. **Learn how to see the problem**  
+    You will learn how to frame questions, define system boundaries, and recognize patterns such as feedback, delay, tradeoffs, and ethical tension.
+    
+2. **Build and refine a tool to explore those questions**  
+    You will construct and revise a systems map that makes structure explicit and helps you organize evidence and ethical considerations.
+    
+3. **Use that tool to reason about the health problem and the U.S. health care system**  
+    You will synthesize research, evaluate alternative approaches, and explain the advantages and limitations of different recommendations, while also developing a broader understanding of how the health care system is organized and financed.
+    
+
+By the end of the course, the goal is not that you can simply recite how the U.S. health care system works, but that you can **analyze complex health problems, explain how system structure shapes outcomes, and critically evaluate proposed solutions—while also being able to clearly describe the broader organization and financing of the U.S. health care system**. That combination of skills is what this course is designed to develop
+
+See the [Syllabus](Syllabus.qmd) for information on specific requirements and due dates.
+
+## Time Expectations
+
+This is a 3 unit course. According the CSUF Catalog, "Each semester unit represents three hours of university work per week for one semester." (CSUF Catalog, University Regulations).  This class as a 3 unit course represents 9 hours of work per week.
+
+The goal of the credit hour/unit system is to help to translate course work into time.  This system allows you to better balance time and expectations.  For example, a 15 unit course load represents an expectation of approximately 45 hours per week of work.  A 12 unit course load (the minimum for full-time) represents an expectation of 36 hours per week.  These course load are the equivalent of a full-time work week.[^1]
+
+*I have designed this class based on an assumption of approximately 9 hours of work per week.*  The course is not designed to make last minute work possible or desirable.  For example, assume you do not do any work in this course for three weeks and have an assignment due in week four.  Realistically that would be 36 hours of work in my class in one week on top  of other courses and commitments.  There is not enough time in the week for this to work. It is a physical impossibility.
+
+# This Course May Feel Different
+
+This course is designed around a specific learning arc. Understanding that arc matters.
+
+In PUBH 402, **clarity is delayed by design**. You will not be given a complete framework upfront and asked to fill in answers. Instead, you will build partial explanations, test them, revise them, and only later see how the pieces fit together.
+
+As a result, this course will likely feel different from others you’ve taken.
+
+Early in the term, many students experience:
+- uncertainty about whether they are “doing it right”
+- discomfort with incomplete explanations
+- frustration that answers are not immediately obvious
+
+This is **expected**. It is not a sign that you are behind, unprepared, or failing.
+
+Systems thinking often works this way: understanding emerges *after* sustained engagement, not before. If you wait to begin work until everything feels clear, the course will feel harder, not easier.
+
+Your responsibility in this course is not to eliminate uncertainty. It is to **work productively inside it**:
+- make your assumptions explicit,
+- explain your reasoning even when it feels tentative,
+- revise your thinking as the system pushes back.
+
+My responsibility is to evaluate the quality of your reasoning **at the stage of the project you are in**, not to reward early certainty or polish.
+
+If you are feeling confused but engaged, you are likely exactly where you should be.
+If you are disengaged or stuck and unsure how to proceed, that is a signal to reach out early.
+
+This is a demanding course, but it is not a trick. The difficulty is structural, not punitive. The goal is disciplined explanation in a complex world—not premature closure.
+
+# What Grades Mean in This Course
+
+Grades in PUBH 402 are meant to measure one thing:  
+**the quality of your reasoning at the stage of the project you are in.**
+
+They are **not** measures of:
+- early certainty,
+- confidence,
+- polish in early drafts,
+- speed,
+- or having the “right” answer.
+
+Because this course is structured around iteration, revision, and delayed clarity, your work is expected to change over time. Early work may feel incomplete or tentative. That is appropriate for early stages of systems analysis.
+
+Improvement matters. Learning over time matters. Late clarity is valued.
+
+A lower score early in the project does not mean you are “bad at systems thinking.” It means your reasoning has room to develop. Later assessments are designed to reward that development.
+
+If you focus on explaining your thinking clearly, revising when your model no longer fits, and staying engaged with the health problem, your grades will take care of themselves.
+
+# Team and Individual Work
+
+This course relies both on individual work and team work.  You will be evaluated as an individual on exam 1 and the final exam.  You will be evaluated as a team for the systems analysis project.  Grades and their relative weights are on the [Syllabus](Syllabus.qmd). 
+
+While this work is focused on team effort, there will be individual assignments that will give me an opporutnity to evaluate individual effort in a team.
+
+## Team Assignments
+
+You will be assigned to teams based on health topics that you are interested in.
+
+## Teams on Canvas
+Canvas uses the term *group* for a team.  If you have not used groups on Canvas before, these two short videos from Canvas will help you find your team and get started.
+
+[How do I see my group on Canvas?](https://community.instructure.com/en/kb/articles/661331-how-do-i-view-my-canvas-groups-as-a-student)
+[How do I use groups on Canvas?](https://community.instructure.com/en/kb/articles/661332-how-do-i-use-groups-as-a-student)
+
+# How to Make This Course Easier (Not Harder)
+
+There is an important and slightly counterintuitive fact about PUBH 402:
+
+**This course is easier when you focus on the health problem rather than the assignment.**
+
+Students often make this course harder than it needs to be by:
+- trying to “figure out what the instructor wants,”
+- treating the system map as a technical task to complete,
+- optimizing for format, polish, or perceived correctness.
+
+Those strategies increase stress and usually lead to shallow work.
+
+The students who tend to do best take a different approach:
+- they stay curious about the health problem itself,
+- they explore why the problem persists,
+- they follow questions that genuinely interest them,
+- they treat the system map as a way to *play with explanations*, not lock them down.
+
+When you focus on understanding the problem—how it behaves, why it resists change, what forces shape it—the assignments largely take care of themselves.
+
+You are not being graded on how quickly you “get it right.”  
+You are being graded on whether your reasoning deepens over time.
+
+If you are engaged, curious, and willing to revise your thinking, you are already doing the hardest part of the work.
+
+# How the Course Modules Fit Together
+
+[This short video walks through the structure of this class.](https://vimeo.com/1156962925/c4819c5249?share=copy&fl=sv&fe=ci)
+
+
+# Next
+
+Review the [Syllabus](Syllabus.qmd)
+Complete the health topics survey on Canvas in Module 0
+Move to Module 1 --> [1.1 Systems Thinking](Module%201%20-%20Systems%20Thinking/1.1%20Systems%20Thinking.qmd)
+
+
+
+
+[^1]: This system originated about 100 years ago and is called the Carnegie Unit.  You can learn more about it here if you are interested.

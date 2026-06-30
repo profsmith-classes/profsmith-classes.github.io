@@ -1,0 +1,237 @@
+---
+title: "Module 6 - Interpretation and Leverage (2 Weeks)"
+draft: false
+class: "402"
+
+---
+
+
+# Module Orientation
+
+By this point, you have built a system map that represents how a complex public health problem fits together. In this module, the focus shifts from _building_ the system to _making sense of it_.
+
+The goal here is interpretation: using your map to explain what the system is doing, why it behaves the way it does, and where meaningful change might actually come from.
+# What You Should Be Able to Do After This Module
+
+By the end of this module, you should be able to:
+
+- Explain how the system behaves over time, based on the structure you’ve mapped
+- Identify leverage points—places where change could meaningfully shift outcomes
+- Distinguish between **structural change** (changes to how the system is organized) and **performative responses** (actions that look active but don’t alter system behavior in lasting ways)
+
+This is less about proposing “solutions” and more about showing that you understand _why some interventions tend to work, fail, or backfire.
+
+# Core Concepts and Materials
+
+Your system map is now an explanatory tool. You should use it to support claims like:
+
+- Why certain interventions are likely to have limited impact
+- Why some problems persist even when there is a lot of effort or spending
+- Where delays, feedback loops, or constraints make change difficult
+
+Strong work in this module makes clear connections between the structure of the system and the outcomes it produces.  Can you begin to identify how the health care system produces the problem you are focused on.
+## Guidance: How to think about leverage points
+
+A **leverage point** is a place in a system where a small or focused change could lead to a meaningful shift in how the system behaves over time. Leverage points are not necessarily the biggest or most visible parts of the system. In fact, they are often easy to overlook.
+
+A useful way to think about leverage is to ask:  
+
+_If this part of the system changed, what else would have to change as a result?_
+
+Leverage points tend to show up in places where:
+
+- Many causal pathways pass through a single element or relationship
+- A feedback loop could be weakened, strengthened, or redirected
+- A constraint limits what the system can do, even when there is effort or money
+- A delay causes well-intended actions to appear ineffective in the short term
+
+Importantly, leverage points are **structural**, not performative. Adding more effort to an existing activity is usually not leverage. Changing the rules, incentives, information flows, or relationships that shape behavior often is.
+
+> [!tip] This should be familiar!
+> Review the materials from Module 1 on Systems Thinking, particularly the material on [leverage points](../Module%201%20-%20Systems%20Thinking/1.1%20Systems%20Thinking.qmd#leverage-points-how-do-change-a-system).
+
+For example, expanding access to a service may matter less than changing who qualifies for it. Increasing funding may matter less than changing how funds are allocated. Education campaigns may matter less than the conditions that make certain choices rational or unavoidable in the first place.
+
+You are not expected to find _the_ leverage point. Systems often have multiple, competing leverage points, each with tradeoffs and limits. What matters is that you can explain, using your system map, **why** a particular point has leverage and **what kind of change it could realistically produce**
+# Module Deliverable
+
+## What to submit:  
+
+You will submit a short written document that interprets your system and identifies leverage points. This is an analytical write-up, not a proposal or policy brief.
+
+### What you will submit
+
+You will submit a short written document that interprets your system and identifies leverage points. This is an analytical write-up, not a proposal or policy brief.
+#### Required sections and structure
+
+Your submission should include the following sections, in order. Use clear headings.
+
+##### 1. System behavior and dynamics
+
+Describe how your system behaves based on its structure.
+
+Focus on questions like:
+- What patterns does the system produce over time?
+- Which outcomes seem persistent or difficult to change?
+- What feedback loops, delays, or constraints help explain this behavior?
+
+This section should rely on **structural explanation**, not storytelling or individual blame. Claims should be grounded in specific features of your map.
+
+##### 2. Interpretation: why the system behaves this way
+
+Explain *why* the system produces the outcomes you described.
+
+Here, you should connect:
+- Elements → relationships → feedback loops → outcomes
+
+Strong interpretations make explicit causal arguments (for example, “Because X reinforces Y, the system tends to…”). Avoid listing problems or restating the map without explanation.
+
+##### 3. Identification of leverage points
+
+Identify **one to three leverage points** in your system.
+
+For each leverage point:
+- Describe where it sits in the system  
+- Explain why this point has leverage, using your system map as evidence  
+
+Leverage points should be **structural**. You are not required to propose a full intervention, but you should make clear *what would be different* if this part of the system changed.
+
+##### 4. Constraints and limits
+
+Briefly discuss what limits change in this system.
+
+This might include:
+- Political or institutional constraints  
+- Resource limitations  
+- Delays that weaken short-term impact  
+- Feedback loops that resist change  
+
+## Format:  
+
+PDF or Word document. Use Times New Roman, 10pt, 1.5 spacing.  Make sure your team number, section, and team member names are on the submission.
+## Length:  
+
+750 - 1000 words
+## Submission location:  
+- Canvas
+# How This Will Be Evaluated
+
+You are interpreting system behavior and identifying where meaningful change is possible. Your work will be evaluated based on whether it demonstrates the kind of systems thinking expected at this stage of the project:
+- Clear interpretation of system behavior  
+- Coherent use of the system map as evidence  
+- Thoughtful identification of leverage points  
+- Attention to constraints and limits  
+
+Clarity matters more than certainty. Partial, well-reasoned interpretations are preferable to confident but shallow claims.
+
+# Module 6 Grading Criteria
+
+## System Interpretation and Leverage Analysis — 20 points
+
+Each of the four required sections is worth **5 points**, evaluated using the same three-level threshold.
+
+|Evaluation Level|Points per Section|
+|---|---|
+|Meets Requirements|5|
+|Partially Meets Requirements|3.5|
+|Does Not Meet Requirements|2|
+
+This system evaluates **quality of reasoning and engagement with the system**, not writing polish or general systems knowledge.
+
+---
+
+# 1. System Behavior and Dynamics (5 points)
+
+This section evaluates whether the team can describe **what their system does** using structural features of their own map.
+
+### Meets Requirements — 5 points
+
+- Describes patterns the system produces over time (persistence, recurrence, resistance to change)
+- Explanation is grounded in specific structural features of the team's map: named feedback loops, delays, or constraints
+- Does not rely on general health system knowledge in place of map-based reasoning
+- Avoids storytelling or individual blame
+
+### Partially Meets Requirements — 3.5 points
+
+- System behavior is described but explanation leans on general knowledge rather than the team's specific map
+- Feedback loops or structural features are mentioned but not clearly connected to the patterns described
+- Some specificity is present but not consistently applied
+
+### Does Not Meet Requirements — 2 points
+
+- Description could apply to any health problem — no specific elements, loops, or structural features from the team's map are referenced
+- Reads as a problem narrative rather than a structural account of system behavior
+
+---
+
+# 2. Interpretation: Why the System Behaves This Way (5 points)
+
+This section evaluates whether the team can **explain** system behavior — not just describe it — by connecting map structure to outcomes.
+
+### Meets Requirements — 5 points
+
+- Makes explicit causal arguments connecting elements → relationships → feedback loops → outcomes
+- Explains _why_ the system produces the patterns described in Section 1, not just _that_ it does
+- Uses map structure as evidence; claims are traceable to specific relationships or loops
+- Avoids restating the map or simply listing problems
+
+### Partially Meets Requirements — 3.5 points
+
+- Causal reasoning is present but incomplete or partially supported
+- Some connections between map structure and outcomes are made, but the logic has gaps or relies on assertion
+- May restate Section 1 without adding interpretive depth
+
+### Does Not Meet Requirements — 2 points
+
+- No causal argument is made — the section describes rather than explains
+- Map structure is not used as evidence
+- Reads as a list of problems or a restatement of the system map
+
+---
+
+# 3. Identification of Leverage Points (5 points)
+
+This section evaluates whether the team can identify **structurally grounded** places where change could meaningfully shift system behavior.
+
+### Meets Requirements — 5 points
+
+- Identifies one to three leverage points with structural justification for each
+- For each point, explains _why_ it has leverage by reference to the map (e.g., a loop that could be disrupted, a node through which many pathways pass, a constraint that limits the whole system)
+- Makes clear what would be different if this part of the system changed
+- Leverage points are structural — not calls for more effort, funding, or awareness without explaining the mechanism
+
+### Partially Meets Requirements — 3.5 points
+
+- Leverage points are identified but justification is thin or asserted rather than map-based
+- The structural logic is implied but not clearly explained
+- May slide toward performative responses (education campaigns, increased spending) without explaining the structural mechanism
+
+### Does Not Meet Requirements — 2 points
+
+- Leverage points are proposed without structural justification
+- Suggestions are performative rather than structural (e.g., "more funding," "better outreach") with no connection to system structure
+- No reference to the team's specific map
+
+---
+
+# 4. Constraints and Limits (5 points)
+
+This section evaluates whether the team can identify **what makes change difficult** in the system, using structural rather than generic reasoning.
+
+### Meets Requirements — 5 points
+
+- Identifies constraints that limit change in the system with structural reasoning
+- Addresses at least two types of constraint (e.g., a feedback loop that resists change, a delay that undermines short-term interventions, a political or institutional constraint that stabilizes current structure)
+- Constraints are connected to the system's structure, not just listed as external obstacles
+
+### Partially Meets Requirements — 3.5 points
+
+- Constraints are identified but treated as a list rather than explained structurally
+- Some connection to system structure is present but inconsistent
+- May focus only on one type of constraint (e.g., only political) without addressing structural dynamics
+
+### Does Not Meet Requirements — 2 points
+
+- Constraints are listed without explanation or structural grounding
+- Could apply to any health system problem — no specificity to the team's system
+- Section is perfunctory or missing

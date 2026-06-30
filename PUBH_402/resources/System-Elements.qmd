@@ -1,0 +1,82 @@
+---
+title: "System Elements"
+draft: false
+class: "402"
+
+---
+
+# Care Providers
+- Primary care visit capacity
+- Primary care care coordination capacity
+- Specialty care visit capacity
+- Specialty care referral availability
+
+# Federal and State Policy / Enforcement and Accountability
+Choose at least one element from **Federal and State Policy** or **Enforcement and Accountability.***
+## Federal and State Policy
+- Medicaid eligibility rules
+- Medicare coverage rules
+- State scope-of-practice laws
+- Federal regulatory requirements
+
+## Enforcement and Accountability
+- Capacity for administrative processing
+- Sanctions
+- Reimbursement requirements
+- Administrative Staffing
+# Financing / Insurance
+*Choose at least one from this list.*
+- Medicare enrollment
+- Medicaid enrollment
+- Employer-based insurance enrollment
+- Uninsured population size
+# Funding
+- State general fund health allocations
+- Federal discretionary health funding
+- Public health grant funding
+- Safety-net provider subsidies
+-  Household out-of-pocket spending
+# Payment Models
+*Choose at least one from this list.*
+- Fee-for-service payment prevalence
+- Value-based payment adoption
+- Capitated payment prevalence
+- Bundled payment use
+
+# Pharmaceuticals and Devices
+- Prescription drug pricing levels
+- Drug formulary restrictions
+- Medical device availability
+- Pharmaceutical market concentration
+# Public Health
+- Public health surveillance capacity
+- Preventive service availability
+- Community-based health program capacity
+- Health communication effectiveness
+# Structural Determinants
+*Choose at least one from this list.*
+- Housing stability
+- Income security
+- Transportation access
+- Environmental conditions
+# Structural Inequities
+*Choose at least one from this list.*
+- Racialized residential segregation
+- Occupational stratification by race and gender
+- Differential exposure to environmental hazards
+- Inequitable access to health-promoting resources
+
+# Workforce / Infrastructure
+*Choose at least one element either from **Workforce** or from **Infrastructure.***
+## Workforce
+- Primary care clinician supply
+- Specialist clinician supply
+- Nursing workforce availability
+- Public health workforce capacity
+## Infrastructure
+- Hospital bed capacity
+- Primary care facility availability
+- Health information technology interoperability
+- Emergency care access
+
+		

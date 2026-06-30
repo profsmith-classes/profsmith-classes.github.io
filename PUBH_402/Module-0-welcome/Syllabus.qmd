@@ -1,0 +1,370 @@
+---
+title: "Syllabus"
+draft: false
+class: "402"
+
+---
+
+# Course Information
+
+Title: PUBH 402 - Introduction to the US Healthcare System
+
+Instruction: Online asynchronous
+
+Meeting Location and Times:  Online.  All work is completed online.  There are no meetings or lectures.
+
+## Course Description
+
+Addresses concepts related to U.S. health services organization, delivery, financing, and quality assessment and improvement. Historical influences and trends, contemporary challenges, and strategies to address these challenges are examined.
+## Prerequisites
+
+PUBH 320 or graduate standing
+## Course Learning Objectives
+
+The following are the approved learning objectives for the course. 
+1. Describe the organization and financing of the U.S. healthcare system.
+2. Define and articulate significant challenges related to access, costs, and quality.
+3. Describe approaches to health services organization and financing at different care levels.
+4. Discuss ethical considerations in healthcare resource distribution and risk-benefit balance.
+5. Apply concepts to real-world healthcare organizational and clinical settings.
+6. Research and synthesize literature to develop recommendations for U.S. healthcare problems.
+7. Synthesize and present research summaries and recommendations.
+8. Critically evaluate the advantages and disadvantages of healthcare recommendations
+## Assessment Guide
+
+This table indicates which assignment primarily assesses each objective.
+
+| Objectives                                                                                   | Primary Assignment  |
+| -------------------------------------------------------------------------------------------- | ------------------- |
+| Describe the organization and financing of the U.S. healthcare system.                       | Final Exam          |
+| Define and articulate significant challenges related to access, costs, and quality.          | System Map Analysis |
+| Describe approaches to health services organization and financing at different care levels.  | Final Exam          |
+| Discuss ethical considerations in healthcare resource distribution and risk-benefit balance. | System Map Analysis |
+| Apply concepts to real-world healthcare organizational and clinical settings.                | System Map Analysis |
+| Research and synthesize literature to develop recommendations for U.S. healthcare problems.  | System Map Analysis |
+| Synthesize and present research summaries and recommendations.                               | System Map Analysis |
+| Critically evaluate the advantages and disadvantages of healthcare recommendations           | System Map Analysis |
+
+# Course Faculty Information
+## Instructor
+
+Jason A. Smith, MTS, JD
+### Instructor Bio
+
+My name is Jason Smith.  I have taught in the CSU for over a decade. Before joining the CSU, I taught at the University of Connecticut School of Medicine and Northeastern University School of Law. 
+
+I earned my degree in theology from Harvard University and my law degree from Northeastern University School of Law. My scholarly interests are in the areas of public health law and bioethics. Currently, I am focusing on the relationship between climate change, public health, and law.  I am exploring these relationships in the context of extreme heat.
+
+I am Professor in the Department of Public Health and before that served as the Dean of the College of Health and Human Development (HHD).
+
+## Office Location
+
+KHS 241
+
+## Phone
+
+1 657 278 5606
+
+## Office Hours
+
+Office hours are:
+
+- Tuesdays - 09:00 to 10:30
+- Wednesdays - 10:00 to 11:30
+
+Use the Office Hours link to Calendly on Canvas to schedule office hours. Please email directly if you would like to schedule a meeting outside of regular office hours.
+
+## Email
+
+jasosmith@fullerton.edu  
+
+Please email me directly here rather than through Canvas.  Include your course number and section when you reach out to facilitate our communications.
+
+## Expected Response Times
+
+Email - Replies can take up to 48 hours.
+Responses on Discord:  XXXXXX
+
+# Required Course Materials
+
+Knickman, James, and Brian Elbel, eds. 2024. Jonas & Kovner’s Health Care Delivery in the United States . 13th edition. New York, NY: Springer Publishing Company, LLC.
+
+## Additional readings and materials
+
+These materials are available on Canvas.
+
+Meadows, Donella H. 2008. Thinking in Systems : A Primer . ed. Diana Wright. White River Junction, Vermont: Chelsea Green Publishing. Read Chapter 1.
+
+# Course Schedule
+
+Specific due dates and exam dates are on Canvas and below.  You can view the short video of how the course is structured if you need a refresh, [How This Course Fits Together](Module-0---Welcome.qmd#how-the-course-modules-fit-together)
+
+| Module                                                                        | Weeks       | Focus                                                                                                           | Key Dates / Notes                                       |
+| ----------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **Module 1: Systems Thinking Foundations**                                    | Weeks 0–1   | Introduction to systems thinking; course structure; diagnostic framing                                          | **Jan 17** – First day of classes                       |
+| **Module 2: Team Formation & Problem Selection**                              | Week 2      | Team formation; selecting a U.S. health problem                                                                 |                                                         |
+| **Module 3: System Framing & Initial Elements**                               | Weeks 3–4   | Defining system boundaries; identifying core elements and relationships                                         | **Jan 19** – Martin Luther King Jr. Day (Campus Closed) |
+| **Exam 1: Systems Thinking Gatekeeper**                                       | Week 4      | Individual assessment of systems reasoning                                                                      | **Jan 30**                                              |
+| **Last drop class without a W on transcript**                                 |             |                                                                                                                 | **Feb 03**                                              |
+| **Module 4: System Expansion & Early Evidence**                               | Weeks 5–6   | Expanding the system map; identifying gaps; early evidence testing                                              | **Feb 13** – Presidents’ Day Observed (Campus Closed)   |
+| **Module 5: Research & Refinement**                                           | Weeks 7–8   | Targeted research; refining causal claims; strengthening feedback logic                                         |                                                         |
+| **Spring Recess**                                                             | —           | No classes                                                                                                      | **Mar 30 – Apr 5**                                      |
+| **Module 6: Interpretation & Leverage**                                       | Weeks 9–10  | Interpreting system behavior; identifying leverage points; distinguishing structural vs. performative responses | **Mar 31** – Cesar Chavez Day (Campus Closed)           |
+| **Last day to submit withdrawal for non-medical reason with W on transcript** |             |                                                                                                                 | **Apr. 17**                                             |
+| **Module 7: Synthesis & Final Submission**                                    | Weeks 11–12 | Full system synthesis; final system map; reflection on model evolution                                          |                                                         |
+| **Final Exam**                                                                |             |                                                                                                                 | **TBD**                                                 |
+| **Semester Ends**                                                             | —           |                                                                                                                 | **May 22** – Semester ends; grades due                  |
+
+# Attendance Policy
+None
+# Make Up Work 
+
+Make up work is not accepted.  
+# Late Submissions
+
+Late submissions will receive a one-time 5% reduction of the assignment grade.
+# Grading Policy
+
+## Grading Scale
+
+The course uses the standard A - F grading scale outlined in the CSUF catalog.  The course uses +/- grading.
+## F and WU
+
+An F will be assigned if you attempt the assignments in class but do not pass them.  A WU will be assigned if you do not contribute meaningfully to the assignments.  Students who fail to take an exam entirely may receive a WU. Students who do not respond to individual check-in assignments may be assigned a WU. WU is calculated as an F for your GPA, but unlike an F, it indicates that you did not submit work that could be evaluated.  It is critical that you attempt each assignment and that you contribute to your team’s efforts.
+
+Please see the CSUF Catalog for complete details regarding WU.
+
+## Grading Philosophy
+
+Grades in this course evaluate the quality of reasoning appropriate to each stage of the systems analysis. They reward engagement, clarity of explanation, and learning over time rather than early certainty or polish. Because systems understanding develops iteratively, later work is weighted more heavily than early work.
+
+## Academic Dishonesty
+
+This course policy follows the CSUF approved policy on academic dishonesty which can be found at [UPS 300.021](https://www.fullerton.edu/senate/publications-policies-resolutions/ups/UPS%20300/UPS%20300.021.pdf)
+
+
+## Assignments and Weights 
+
+### Undergraduates
+
+Exam 1 - 22 %
+Healthcare System Project - 40%
+Exam 2 (Final Exam) - 38%
+
+### Graduate Students 
+
+Exam 1 - 22 %
+Healthcare System Project - 40%
+Exam 2 (Final Exam) - 23%
+Secondary System Analysis - 15%
+## Extra Credit
+
+There is not extra credit in this course
+# Required Assignments
+
+## Individual Assignments
+
+### Exam 1 - January 30, 2026
+
+Exam 1 covers Module 1 and is on Canvas.  It consists of multiple choice and  multiple answer questions. This exam assesses your ability to **reason about systems**, not to memorize terms or definitions.
+
+You will be asked to analyze short system descriptions and, in some cases, simple diagrams. All necessary information is provided in each question. Focus on how elements interact over time, including feedback loops, delays, and system boundaries.
+
+The exam is fully auto-graded and consists of multiple-choice and multiple-select questions. You may move freely between questions and change your answers before submitting. You have 75 minutes to complete the exam.
+
+The time limit is designed so that students who understand the material can complete the exam comfortably without external resources. Careful reading and clear reasoning are more important than speed.
+
+#### Academic Integrity and Late / Missed Exam Policy
+
+This exam must be completed independently.
+
+The structure and timing of the exam are intentionally designed so that external tools, shared answers, or AI-generated responses are unlikely to be helpful. Using such tools undermines the purpose of the assessment and may result in answers that are internally inconsistent or incorrect.
+
+You are expected to rely on your own reasoning and understanding. The goal is not to catch mistakes, but to establish a clear baseline for your work in the rest of the course.
+
+If you miss your exam, you may take the exam late.  The exam time will be reduced and there will be 5% reduction of the final score.  To take an exam late, after missing your exam, you must contact me within two days.  If I do not hear from you after two days and you have missed an exam, you may not take a late exam. 
+
+### Final Exam - Date and Time Pending
+
+The final exam is an individual assessment of your understanding of the organization and financing of the U.S. health care system. The exam is primarily multiple choice and focuses on explanation and reasoning rather than memorization. Questions will ask you to interpret short scenarios and identify which explanations or outcomes are most consistent with how the U.S. health care system is structured, including financing, payment, governance, access, and equity. You are not expected to recall exhaustive factual detail or definitions; instead, you are expected to demonstrate the ability to connect system components, recognize constraints and tradeoffs, and explain why certain patterns or outcomes persist. The exam is designed to reward clear reasoning and synthesis developed over the course of the term rather than rote recall.
+
+## Group Assignment
+### Systems Analysis of the US Health Care System
+
+Assignments in the Systems Analysis Project are evaluated using a single diagnostic question rather than a rubric: 
+
+> Does this work demonstrate the kind of systems thinking I expect at this stage of the project?
+
+Work is graded with one of three levels: **Yes** (Full Credit), **Partially** (Partial Credit), **Not Yet** (Minimal Credit). Grammar, formatting, and technical polish are not graded directly, but work must be intelligible. If technical problems prevent evaluation of reasoning or system structure, the assignment may receive partial or minimal credit.
+#### Due Dates
+
+| Module                                                   | Assignment Name                                     | Due Date              |
+| -------------------------------------------------------- | --------------------------------------------------- | --------------------- |
+| **Module 2: Team Formation & Project Onboarding**        | **Team Agreement**                                  | **February 6, 2026**  |
+| **Module 3: System Framing & Initial Element Selection** | **Element List Submission**                         | **February 27, 2026** |
+|                                                          | **Initial System Map (`.dot` file + rendered map)** | **February 27, 2026** |
+|                                                          | **Team Checkpoint 1**                               | **February 27, 2026** |
+| **Module 4: System Expansion & Early Evidence**          | **Revised System Map**                              | **March 13, 2026**    |
+|                                                          | **Element Reconsideration**                         | **March 13, 2026**    |
+|                                                          | **Brief Memo: Reflection on System Behavior**       | **March 13, 2026**    |
+| **Module 5: Research & System Refinement**               | **Final System Map**                                | **April 7, 2026**     |
+|                                                          | **Brief Memo: Summary of Research Activity**        | **April 7, 2026**     |
+|                                                          | **Team Checkpoint 2**                               | **April 7, 2026**     |
+| **Module 6: Interpretation & Leverage**                  | **System Interpretation & Leverage Analysis**       | **April 24, 2026**    |
+| **Module 7: Synthesis & Final Submission**               | **Final System Map**                                | **May 1, 2026**       |
+|                                                          | **Synthesis Narrative**                             | **May 1, 2026**       |
+|                                                          | **Reflection on System Evolution**                  | **May 1, 2026**       |
+### Team Check-Ins
+
+This course includes substantial team-based work. Team work is used to support learning, not to measure effort, personality, or time spent on tasks. In this course, **contribution is understood as demonstrated understanding** of the system being analyzed.
+
+Individual contribution is evaluated based on a student’s ability to explain and engage with the system at the appropriate stage of the project. The course does not use peer grading, contribution logs, or time tracking. Students will not be asked to evaluate or report on their teammates.
+
+At several points during the term, students will complete brief individual check-ins. These short reflections are graded for completion and are used to monitor understanding and identify areas where additional support may be helpful. They are private and not shared with teammates.
+
+If a student appears to be struggling to understand or engage with the system, the default response is a learning-focused intervention, such as an individual systems memo. This memo is designed to help the student clarify their thinking and re-engage with the material.
+
+Escalation beyond this step is rare and always focused on supporting learning. Group grades are not reduced because of individual difficulties. Confusion and revision are expected parts of systems thinking, especially early in the project.
+
+This approach is intended to promote fairness, reduce conflict, and keep the focus on learning how complex public health systems function rather than on managing interpersonal dynamics.
+# Course Communications
+
+## A note on questions, confusion, and communication
+
+This course is designed to challenge how you think about public health problems. As a result, there will be times when you feel uncertain, confused, or unsure how to proceed — especially early in the term.
+
+That experience is expected.
+
+In this course, confusion is not a failure and it is not something to wait out. It is often the first signal that you are engaging with systems thinking rather than memorization or procedure.
+
+You do not need to have a fully formed question in order to reach out.  
+“I’m not sure what I’m missing,” “I don’t know how to improve this,” or “I feel stuck” are all sufficient reasons to contact me or come to office hours.
+
+Waiting until the end of the term to raise questions makes it much harder to resolve them. Early, partial, and even inarticulate questions are strongly encouraged and will be treated as a normal part of learning in this course.
+
+
+> [!tip]+ Important
+>  If you feel confused and don’t know what to ask yet — that _is_ the moment to reach out. You don’t need a polished question. Uncertainty is a valid reason to communicate in this course.
+
+# Technical Issues and Competencies
+## Technical Problems and Documentation Policy
+
+This course uses multiple platforms with distinct roles. It is your responsibility to use them appropriately and to report technical problems promptly and through the correct channel.
+### Canvas Technical Failures
+Issues involving Canvas access, submissions, quizzes, or grades must be reported to me **immediately**. After notifying me, you are expected to contact campus IT Services (ITS) and follow their procedures. Documentation from ITS may be required. Canvas problems reported after a deadline, without prior notice or documentation, will not be accommodated.
+### Discord and Obsidian Issues
+Problems accessing or using the course Discord or Obsidian materials should be reported directly to me. These platforms are part of the course infrastructure, but they are not centrally supported by the university. Timely communication is required.
+### Personal Technical Problems
+Problems with your own computer, internet connection, software, file corruption, browser issues, time zone settings, or general device failure are **not** grounds for extensions or exceptions. You are expected to maintain reliable access to a functioning computer and internet connection for an online course. 
+### Timing and Documentation
+Technical issues must be reported as soon as they occur. Waiting until or after a deadline to report a problem substantially limits what, if anything, can be done. Screenshots, error messages, timestamps, or ITS documentation may be required.
+### Bottom Line
+This is an asynchronous online course. Managing your technology is part of managing the course. Legitimate system failures will be handled fairly when reported promptly and through the correct channel. Personal technical failures remain your responsibility.
+## Required Technical Competencies
+
+Most students can develop or refresh these skills on their own with a bit of practice. If you already feel comfortable with them, great. If not, this list is here to help you get oriented early.
+
+The goal is **functional comfort**, not mastery.
+### Working with CSV Files (Tabular Data)
+
+In this course, data are often provided as CSV (comma-separated values) files. CSV files are simple text-based tables used widely in research and policy work.
+
+You should aim to be comfortable with:
+- Opening CSV files in Excel, Google Sheets, or similar software
+- Understanding that each row represents an observation and each column represents a variable
+- Noticing missing, inconsistent, or unexpected values
+- Saving or exporting CSV files without accidentally changing their structure
+
+Helpful resources:
+- [CSV Explainer](Resources/CSV-Explainer.qmd)
+- [Data Organization in Social Sciences](https://datacarpentry.github.io/spreadsheets-socialsci/index.html)
+
+These resources will also help you in your other public health courses and public health careers.  They will also provide tips that will help you work together as a team.
+
+### Spreadsheet Basics (Excel or Equivalent)
+
+You do not need advanced spreadsheet skills for this course. You *do* need to be able to work carefully with structured data.
+
+You should aim to be comfortable with:
+- Sorting and filtering data
+- Understanding the difference between values and formulas
+- Using a small set of common functions, such as:
+  - `SUM`, `AVERAGE`, `COUNT`
+  - `IF`
+  - `COUNTIF`, `SUMIF`
+  - `VLOOKUP` or `XLOOKUP`
+  - Basic text functions like `TRIM`, `LEFT`, `RIGHT`, `UPPER`, `LOWER`
+- Recognizing when data are missing or oddly formatted
+
+
+> [!INFO]+ Getting Microsoft Office for Free
+> CSUF students are provided a subscription to Microsoft Office 365 for free. This includes Excel and also includes 50GB of storage on OneDrive.[ Installation Instructions.
+](https://www.fullerton.edu/it/services/software/office.html)
+
+---
+
+### DOT / Graphviz (Systems Representation)
+
+You may see references to `.dot` files in this course. These are plain-text files used to represent systems diagrams in a structured way.
+
+You are **not expected to understand or work with dot files yet**. They will be introduced later in the [systems thinking module](Module%201%20-%20Systems%20Thinking/1.1%20Systems%20Thinking.qmd) For now, it is enough to recognize the format and know that it is something we will return to.
+
+### Research in Health Care and Public Health
+
+Students are expected to be proficient in researching topics and issues and policies in public health and health sciences.  Please refer to the [Research Resources](Resources/Research-Resources.qmd) module for a refresher.
+
+### Week 0 Self-Check (Not Submitted)
+
+You do **not** need to turn this in. This is just a way to check your own readiness.
+
+See how many of these you can do comfortably:
+
+- I can open a CSV file and explain what the rows and columns represent.
+- I can spot at least one potential issue in a dataset (missing values, inconsistent labels, strange entries).
+- I can sort and filter data in a spreadsheet without breaking anything.
+- I can explain what a simple Excel formula is doing.
+- I can read a DOT file and describe, in plain language, what each arrow is claiming.
+- I understand that these tools are being used to help me think clearly about systems, not to test my technical ability.
+
+If several of these feel unfamiliar, that’s okay. It’s a signal to spend a bit of time with the resources above early in the term.
+### Final Note on Technical Competencies
+
+These skills are easiest to learn by **doing small things**, not by watching long videos. Expect to make mistakes. When something behaves unexpectedly, pause and ask: *What assumption did I just make?*
+
+# Student Resources
+
+CSUF hosts a website for students with important policies and information for students.  Please take a moment to review this site: [Important Information for Students](http://fdc.fullerton.edu/teaching/student-info-syllabi.html)
+
+# Policy on Student Use of AI
+
+This course permits the use of artificial intelligence and foundation models (e.g., ChatGPT, GPT, DALL-E, Stable Diffusion, Midjourney, GitHub Copilot, Gemini, and similar tools) without restriction as part of your **process**. You are encouraged to use these tools for brainstorming, drafting, organizing ideas, checking clarity, exploring alternatives, and supporting learning.
+
+However, all submitted work must ultimately represent **your own reasoning, judgment, and understanding**. You are responsible for the accuracy, integrity, and ethical quality of anything you submit, regardless of whether AI tools were used in its creation. AI systems are known to generate incorrect information, fabricated citations, biased outputs, and other errors. Reliance on AI outputs does not excuse mistakes or misrepresentation.
+
+If you use AI tools, their role must be **clearly acknowledged**. Any AI-generated material should be disclosed in the same spirit as other sources, with appropriate caution regarding its reliability. Failure to acknowledge AI use constitutes misrepresentation.
+
+You may not submit work that is primarily or substantially generated by an AI system in place of your own thinking. Work is considered unacceptable if you cannot explain, defend, revise, or extend its reasoning independently of the AI tool. AI may support your work, but it may not substitute for your analysis, synthesis, or conclusions.
+
+The university’s plagiarism policy continues to apply to uncited or improperly cited use of work created by other human beings. Misrepresenting AI-generated content as your own reasoning is a separate violation of academic integrity and will be treated accordingly.
+
+AI tools may not be used during examinations. Exams are designed to assess individual understanding and reasoning under constraint.
+
+Used well, AI can improve the quality of your work and make your learning more efficient. Used poorly, it can flatten thinking and obscure understanding. In this course, AI is treated as a collaborator—not an author, and not a substitute for intellectual responsibility.
+
+## AI Use Disclosure (Required When Applicable)
+
+If you used AI tools at any point in completing an assignment, include a brief disclosure statement at the end of your submission. Use the template below.
+
+**AI Use Disclosure Statement (Template):**
+
+> I used an AI tool (name of tool, e.g., ChatGPT) to support my work on this assignment. Specifically, I used it for:  
+> – [e.g., brainstorming ideas, outlining, checking clarity, generating alternative phrasings]  
+>  
+> All analysis, interpretation, and final conclusions are my own, and I reviewed and verified any AI-assisted content for accuracy and appropriateness.
+
+If you did not use AI tools, no disclosure is required.
+# Instructor Use of AI
+
+In designing this course, its materials, and its assessments, I use AI tools as part of my drafting, synthesis, and analytic workflow. This may include supporting course design, developing rubrics, testing assessment logic, and assisting with large-scale evaluation under criteria that I define and control. I remain fully responsible for all instructional, evaluative, and grading decisions, and no automated system operates independently of my judgment. This disclosure is provided to model transparency about AI as an intellectual and administrative tool, not to imply equivalence between instructor and student responsibilities.
+
+Standards governing student use of AI for submitted work are described separately in the Class AI Policy and reflect the distinct purposes and responsibilities of student learning versus instructional and evaluative design. Student AI use policies govern authorship and learning; instructor AI use governs course design and evaluation. These are intentionally distinct.
