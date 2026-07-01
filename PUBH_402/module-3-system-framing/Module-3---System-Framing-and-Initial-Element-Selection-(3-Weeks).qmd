@@ -1,6 +1,6 @@
 ---
 status: draft
-title: "Module 3 - System Framing and Initial Element Selection (3 Weeks)"
+title: "Module 3 - System Framing and Initial Map (3 Weeks)"
 draft: false
 class: "402"
 

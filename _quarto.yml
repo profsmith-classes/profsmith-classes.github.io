@@ -53,7 +53,7 @@ website:
           - text: "Tips for Success"
             href: PUBH_402/Tips-for-Working-in-This-Course.qmd
           - text: "Module 1: Systems Thinking"
-            contents: PUBH_402/module-1-systems-thinking/
+            contents: PUBH_402/module-2-systems-thinking/
           - title: "Module 2: Team Formation and Picking a Topic"
             text: "Module 2: Team Formation and Picking a Topic"
             contents: PUBH_402/module-2-team-formation/

@@ -6,77 +6,90 @@ class: "402"
 ---
 
 # Care Providers
-- Primary care visit capacity
-- Primary care care coordination capacity
-- Specialty care visit capacity
-- Specialty care referral availability
+- **Primary care visit capacity**: The number of primary care appointments a community or system can supply within a given time period.
+- **Primary care care coordination capacity**: The capacity of primary care settings to coordinate referrals, follow-up, and communication across providers for a patient.
+- **Specialty care visit capacity**: The number of specialist appointments a community or system can supply within a given time period.
+- **Specialty care referral availability**: The ease or speed with which patients can obtain and complete a referral to specialty care.
+- **Language access service availability**: The availability of interpreter services, translated materials, and bilingual staff within a health care setting.
 
 # Federal and State Policy / Enforcement and Accountability
-Choose at least one element from **Federal and State Policy** or **Enforcement and Accountability.***
+Choose at least one element from **Federal and State Policy** or **Enforcement and Accountability.**
+
 ## Federal and State Policy
-- Medicaid eligibility rules
-- Medicare coverage rules
-- State scope-of-practice laws
-- Federal regulatory requirements
+- **Medicaid eligibility rules**: The income, categorical, and documentation requirements that determine who qualifies for Medicaid coverage in a given state.
+- **Medicare coverage rules**: The federal rules that determine which services, providers, and populations are covered under Medicare.
+- **State scope-of-practice laws**: State laws defining which clinical tasks a given type of health professional (e.g., nurse practitioner, pharmacist) is legally permitted to perform.
+- **Federal regulatory requirements**: Federal rules that providers, payers, or manufacturers must follow to operate or participate in federal health programs.
 
 ## Enforcement and Accountability
-- Capacity for administrative processing
-- Sanctions
-- Reimbursement requirements
-- Administrative Staffing
+- **Capacity for administrative processing**: The volume of applications, claims, or eligibility determinations an agency or payer can process within a given time period.
+- **Sanctions**: Penalties (financial, licensing, or program-exclusion) imposed on providers, payers, or institutions for noncompliance with health regulations.
+- **Reimbursement requirements**: The documentation, coding, or procedural conditions a provider must meet before receiving payment for a service.
+- **Administrative Staffing**: The number of personnel employed to carry out administrative, eligibility, or compliance functions within an agency or institution.
+
 # Financing / Insurance
 *Choose at least one from this list.*
-- Medicare enrollment
-- Medicaid enrollment
-- Employer-based insurance enrollment
-- Uninsured population size
+- **Medicare enrollment**: The number or proportion of an eligible population enrolled in Medicare.
+- **Medicaid enrollment**: The number or proportion of an eligible population enrolled in Medicaid.
+- **Employer-based insurance enrollment**: The number or proportion of a population covered through employer-sponsored health insurance.
+- **Uninsured population size**: The number or proportion of a population without health insurance coverage.
+
 # Funding
-- State general fund health allocations
-- Federal discretionary health funding
-- Public health grant funding
-- Safety-net provider subsidies
--  Household out-of-pocket spending
+- **State general fund health allocations**: The portion of a state's general fund budget appropriated to health-related programs and agencies.
+- **Federal discretionary health funding**: Federal health funding appropriated annually that is not mandated by existing law.
+- **Public health grant funding**: Funding awarded competitively or formulaically to public health agencies or organizations for specific programs.
+- **Safety-net provider subsidies**: Government funding provided to hospitals or clinics that serve a disproportionate share of low-income or uninsured patients.
+- **Household out-of-pocket spending**: The amount households pay directly for health care services, premiums, or medications that is not covered by insurance.
+
 # Payment Models
 *Choose at least one from this list.*
-- Fee-for-service payment prevalence
-- Value-based payment adoption
-- Capitated payment prevalence
-- Bundled payment use
+- **Fee-for-service payment prevalence**: The proportion of health care payments made per individual service rendered, rather than per patient or outcome.
+- **Value-based payment adoption**: The proportion of health care payments tied to patient outcomes, quality measures, or cost performance rather than volume of services.
+- **Capitated payment prevalence**: The proportion of health care payments made as a fixed amount per patient over a period of time, regardless of services used.
+- **Bundled payment use**: The proportion of health care payments made as a single payment covering all services for a defined episode of care.
 
 # Pharmaceuticals and Devices
-- Prescription drug pricing levels
-- Drug formulary restrictions
-- Medical device availability
-- Pharmaceutical market concentration
+- **Prescription drug pricing levels**: The prices charged for prescription medications, before or after insurance discounts and rebates.
+- **Drug formulary restrictions**: The limitations an insurer or pharmacy benefit manager places on which medications are covered and under what conditions.
+- **Medical device availability**: The supply of medical devices (e.g., diagnostic or treatment equipment) accessible to providers and patients.
+- **Pharmaceutical market concentration**: The degree to which a small number of manufacturers control the production or pricing of a given drug or drug class.
+
 # Public Health
-- Public health surveillance capacity
-- Preventive service availability
-- Community-based health program capacity
-- Health communication effectiveness
+- **Public health surveillance capacity**: The ability of public health agencies to collect, analyze, and report data on disease and health trends.
+- **Preventive service availability**: The supply of services designed to prevent disease or detect it early (e.g., screenings, immunizations, counseling).
+- **Community-based health program capacity**: The scale and reach of locally delivered health programs operating outside clinical settings.
+- **Health communication effectiveness**: The degree to which public health messaging reaches and is understood by its intended audience.
+- **Substance use treatment capacity**: The number of treatment slots (e.g., medication-assisted treatment, counseling, residential) available for substance use disorders relative to need.
+- **Trust in health institutions**: The degree to which a population believes health care providers, public health agencies, or government health programs act in their interest.
+
 # Structural Determinants
 *Choose at least one from this list.*
-- Housing stability
-- Income security
-- Transportation access
-- Environmental conditions
+- **Housing stability**: The degree to which individuals or households maintain consistent, adequate housing over time.
+- **Income security**: The degree to which individuals or households have reliable, sufficient income to meet basic needs.
+- **Transportation access**: The availability of reliable means to travel to needed destinations, including health care services.
+- **Environmental conditions**: The physical conditions of a person's surroundings, including air quality, climate exposure, and the built environment.
+- **Energy/utility affordability**: The degree to which households can afford electricity, heating, or cooling costs.
+- **Health literacy**: An individual's or population's capacity to obtain, process, and understand basic health information needed to make health decisions.
+
 # Structural Inequities
 *Choose at least one from this list.*
-- Racialized residential segregation
-- Occupational stratification by race and gender
-- Differential exposure to environmental hazards
-- Inequitable access to health-promoting resources
+- **Racialized residential segregation**: The degree to which racial or ethnic groups are concentrated in separate geographic areas, often due to historical and ongoing policy.
+- **Occupational stratification by race and gender**: The uneven distribution of race and gender groups across job types, industries, and pay levels.
+- **Differential exposure to environmental hazards**: The unequal distribution of exposure to pollution, hazardous sites, or climate risks across populations.
+- **Inequitable access to health-promoting resources**: The unequal distribution of resources (e.g., healthy food, safe recreation space, green space) that support health.
 
 # Workforce / Infrastructure
 *Choose at least one element either from **Workforce** or from **Infrastructure.***
-## Workforce
-- Primary care clinician supply
-- Specialist clinician supply
-- Nursing workforce availability
-- Public health workforce capacity
-## Infrastructure
-- Hospital bed capacity
-- Primary care facility availability
-- Health information technology interoperability
-- Emergency care access
 
-		
+## Workforce
+- **Primary care clinician supply**: The number of primary care physicians, nurse practitioners, and physician assistants available relative to population need.
+- **Specialist clinician supply**: The number of specialist physicians available relative to population need.
+- **Nursing workforce availability**: The number of registered nurses and related nursing personnel available relative to need.
+- **Public health workforce capacity**: The number of trained public health personnel available to staff public health functions.
+
+## Infrastructure
+- **Hospital bed capacity**: The number of staffed hospital beds available within a given system or region.
+- **Primary care facility availability**: The number and geographic distribution of primary care clinics or practices.
+- **Health information technology interoperability**: The degree to which health information systems can exchange and use patient data across providers and institutions.
+- **Emergency care access**: The availability and proximity of emergency department or urgent care services to a population.
+- **Obstetric/maternity care availability**: The availability of labor and delivery units, obstetric clinicians, or perinatal services within a given system or region.
