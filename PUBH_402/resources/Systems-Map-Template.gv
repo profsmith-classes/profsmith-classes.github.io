@@ -1,0 +1,138 @@
+// ============================================================
+// PUBH 402 — Blank Systems Map Template (.gv)
+// ============================================================
+//
+// Welcome! This file is yours to build on. It starts out looking like a
+// lot of instructions and not much else — that's normal. By the time
+// you submit, every line below should be about your team's system, and
+// none of this instruction block should still be here. Read it once,
+// then get started; you don't need to have it memorized.
+//
+// INSTRUCTIONS — read this whole block before you start editing.
+//
+// 1. Fill in the team info fields directly below this instruction block
+//    (team number, section, author names, health topic).
+//
+// 2. Rename "digraph YourSystemName" on the line below the team info to
+//    something specific to your health problem. No spaces — use
+//    underscores (e.g. digraph OpioidTreatmentAccess).
+//
+// 3. Add one node for each of your selected elements, in the
+//    "--- Nodes ---" section. Format:
+//
+//      element_id [label="Human-readable element name"];  // Category: ...
+//
+//    - element_id: short, lowercase, underscores only, no spaces.
+//    - label: the human-readable element name (what shows on the map).
+//    - Comment: note which System Elements category the element comes
+//      from (or that your team added it) so a reader knows where it fits.
+//
+//    Worked example (from the class Coffee Shop Example, not your topic —
+//    see the DOT/GV Explainer resource page for the full walkthrough):
+//
+//      customers [label="Daily customer count"];  // Category: (example)
+//
+// 4. Add one directed edge for every causal relationship between two
+//    elements, in the "--- Causal links ---" section. Format:
+//
+//      cause_id -> effect_id [label="+"];  // one-sentence explanation
+//
+//    - Polarity: "+" means the effect moves in the SAME direction as the
+//      cause; "-" means it moves in the OPPOSITE direction.
+//    - Delay: if there's a meaningful lag before the effect shows up, add
+//      it to the label, e.g. [label="+ delay"].
+//    - Always explain the edge in a same-line comment — a reader should
+//      be able to tell why that arrow exists without asking your team.
+//
+//    Worked example, continuing the same one node above:
+//
+//      customers -> buzz [label="+"];  // More customers visiting generates more word-of-mouth and online reviews.
+//
+// 5. If your team identifies a feedback loop (a closed path where an
+//    effect eventually feeds back on its own cause), box the looped
+//    elements in a subgraph cluster, in the "--- Loop callouts ---"
+//    section. Label it R# for a reinforcing loop or B# for a balancing
+//    loop.
+//
+//    Worked example — the loop this closes once "buzz" also causes
+//    "customers" (a second edge, not shown above, completing the
+//    circle):
+//
+//      subgraph cluster_R1 {
+//        label="R1 Reinforcing: word-of-mouth growth";
+//        style="rounded,dashed";
+//        color="gray40";
+//        fontname="Arial";
+//        fontsize=12;
+//        customers;
+//        buzz;
+//        /* More customers generate more buzz; more buzz attracts more
+//           customers. Both links are positive, so the effect compounds -
+//           the simplest possible reinforcing structure. */
+//      }
+//
+//    A commented-out, ready-to-copy version of this same block is in the
+//    "--- Loop callouts ---" section below — copy its structure, rename
+//    the ids and label to match your own loop, and delete the comment
+//    marks.
+//
+// 6. Delete every placeholder/example line once you've replaced it with
+//    your own content, including the three worked examples above. By the
+//    time you submit, this file should contain only your team's system —
+//    no leftover instructions or examples. (Don't worry — this is a
+//    normal, expected step, not something you're likely to forget once
+//    you're actually building your map.)
+//
+// 7. Check your file in an online Graphviz renderer (see the DOT/GV
+//    Explainer resource page for recommended tools) before submitting.
+//    A file that doesn't render is not a valid submission — rendering
+//    early and often is the easiest way to avoid a last-minute surprise.
+//
+// ============================================================
+
+// Team Number:
+// Class Section:
+// Team Member Names:
+// Health Topic:
+
+digraph YourSystemName {
+
+  rankdir=TD;
+
+  node [shape=box, style="rounded, filled", fillcolor="white", fontname="Arial"];
+
+  edge [fontname="Arial", fontsize=10];
+
+  // --- Nodes (your selected elements) ---
+
+  // Worked example from the instructions above — delete once you add your own:
+  // customers [label="Daily customer count"];  // Category: (example)
+  // buzz      [label="Word-of-mouth / online buzz"];  // Category: (example)
+
+  // --- Causal links (with polarity) ---
+
+  // Worked example, continuing the two nodes above — delete once you add your own:
+  // customers -> buzz [label="+"];  // More customers visiting generates more word-of-mouth and online reviews.
+
+  // --- Loop callouts (subgraph clusters) ---
+
+  // Worked example — copy, rename, and uncomment if your team finds a loop.
+  // (This one only closes into a real loop once "buzz -> customers" is
+  // also added above — see the instructions block for the full picture.)
+  //
+  // subgraph cluster_R1 {
+  //
+  //   label="R1 Reinforcing: <short description>";
+  //   style="rounded,dashed";
+  //   color="gray40";
+  //   fontname="Arial";
+  //   fontsize=12;
+  //
+  //   customers;
+  //   buzz;
+  //
+  //   /* One-sentence explanation of why this loop reinforces or balances. */
+  //
+  // }
+
+}

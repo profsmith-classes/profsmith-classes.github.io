@@ -1,0 +1,50 @@
+---
+title: "Class AI Policy"
+draft: false
+class: "402"
+
+---
+
+# Class AI Policy
+
+This page is the single canonical statement of how AI fits into PUBH 402 — how you may use it in your own work, how it's built into specific assignments, and how I use it myself. Sections of the [Syllabus](../Syllabus.qmd) cover student use and instructor use in similar terms; this page is the fuller, consolidated version, including the assignment-embedded mechanism in Modules 5–6 that the Syllabus doesn't cover.
+
+---
+
+## 1. Student use of AI (general policy)
+
+AI and foundation models (ChatGPT, Claude, Gemini, Copilot, and similar tools) are permitted **without restriction** as part of your process — brainstorming, drafting, organizing ideas, checking clarity, exploring alternatives, and supporting learning.
+
+However, all submitted work must ultimately represent **your own reasoning, judgment, and understanding**. You are responsible for the accuracy, integrity, and ethical quality of anything you submit, regardless of whether AI tools were used in its creation. AI systems are known to generate incorrect information, fabricated citations, biased outputs, and other errors — reliance on AI output does not excuse mistakes or misrepresentation.
+
+**Disclosure.** If you used AI tools at any point in completing an assignment, include a brief disclosure statement at the end of your submission:
+
+> I used an AI tool (name of tool, e.g., ChatGPT) to support my work on this assignment. Specifically, I used it for: [e.g., brainstorming ideas, outlining, checking clarity, generating alternative phrasings]. All analysis, interpretation, and final conclusions are my own, and I reviewed and verified any AI-assisted content for accuracy and appropriateness.
+
+If you did not use AI tools, no disclosure is required. Failure to disclose meaningful AI use is a misrepresentation, treated as a distinct academic-integrity violation from plagiarism of human-authored work.
+
+**Limits.** You may not submit work that is primarily or substantially AI-generated in place of your own thinking. Work is unacceptable if you cannot explain, defend, revise, or extend its reasoning independently of the AI tool. **AI tools may not be used during examinations** (Exam 1, Final Exam) — these are designed to assess individual understanding and reasoning under constraint, in conditions where external tools are unlikely to help anyway.
+
+Used well, AI can improve the quality of your work and make learning more efficient. Used poorly, it can flatten thinking and obscure understanding. In this course, AI is treated as a collaborator — not an author, and not a substitute for intellectual responsibility.
+
+## 2. AI as adversarial critic — a graded mechanism in Modules 5 and 6
+
+This is different from Section 1: it is not "you may use AI" but **AI built directly into two assignments**, appearing in increasing weight as the term progresses. It applies only to [Module 5](../module-5-research-refinement/Module-5---Research-and-System-Refinement-(3-Weeks).qmd) and [Module 6](../module-6-interpretation-leverage/Module-6---Interpretation-and-Leverage-(2-Weeks).qmd) — not to the team system maps in Modules 3, 4, 5, or 7.
+
+**Module 5 (light version, ungraded practice).** Each student stress-tests one causal claim in **their own individually-owned loop** — not the team's whole map. As part of this, you draft a **critique skill**: written instructions telling the AI what to check for (e.g., unsupported causal claims, missing polarity justification, weak mechanism). This skill draft is **not graded** — it's a low-stakes first attempt before the same kind of artifact is scored in Module 6. You then run your skill, get a critique back, and write a short response. The whole exercise — skill draft, critique, response — is submitted as part of the Module 5 check-in (Team Checkpoint 2), not as a separate deliverable.
+
+**Module 6 (full version, graded).** A complete cycle: write an individual leverage memo, draft a critique skill (this time **graded on its own rigor** — a skill written to go easy on the memo scores poorly on its own terms, regardless of the critique it produces), run the memo through the skill, and write a response to the critique. Three components, 25 points total: memo (7), drafted skill (8), response to critique (10).
+
+**The constant grading principle:** your **response** to the AI's critique is the gradeable reasoning artifact — never the AI exchange itself, and never proof that you used AI. A student who writes a soft, superficial critique skill to avoid real scrutiny is graded down on the skill itself, which is the built-in defense against gaming this mechanism.
+
+**For practical guidance** on drafting a rigorous skill, telling a real critique from a superficial one, and common AI failure modes (hallucination, fabricated statistics, sycophancy) — see the [AI Explainer](AI-Explainer.qmd).
+
+## 3. Instructor use of AI
+
+**Course design.** I use AI tools as part of my drafting, synthesis, and analytic workflow — supporting course design, developing rubrics, testing assessment logic, and assisting with large-scale evaluation under criteria I define and control. I remain fully responsible for all instructional, evaluative, and grading decisions; no automated system operates independently of my judgment. This disclosure models transparency about AI as an intellectual and administrative tool — it does not imply equivalence between instructor and student responsibility.
+
+**Grading support.** I use AI for a first-pass review of student submissions to support my own grading. This is scoped to **triage and surfacing only — never scoring**: it can flag patterns, surface items for review, or help organize submissions for evaluation, but it does not assign scores or make final grading determinations.
+
+**Final exam grading** is scoped the same way — triage/surfacing only, not scoring — driven by legal defensibility concerns specific to a summative, individually-weighted assessment.
+
+Student AI-use policy (Sections 1–2) governs authorship and learning; instructor AI use governs course design and evaluation. These are intentionally distinct and should not be read as parallel or equivalent.

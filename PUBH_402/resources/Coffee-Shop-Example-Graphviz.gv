@@ -1,0 +1,73 @@
+digraph CoffeeShopSystem {
+
+  rankdir=TD;
+
+  node [shape=box, style="rounded, filled", fillcolor="white", fontname="Arial"];
+
+  edge [fontname="Arial", fontsize=10];
+
+  // Team Number
+
+  // Class Section
+
+  // Team Member Names:
+
+  // --- Nodes (5 elements) ---
+
+  customers  [label="Daily customer count"];
+
+  buzz       [label="Word-of-mouth / online buzz"];
+
+  quality    [label="Coffee and service quality"];
+
+  wait_time  [label="Average wait time in line"];
+
+  staff      [label="Baristas scheduled per shift"];
+
+  // --- Causal links (with polarity) ---
+
+  customers -> buzz     [label="+"];         // More customers visiting generates more word-of-mouth and online reviews.
+
+  buzz -> customers     [label="+ delay"];    // Positive buzz attracts new customers, though it takes time to spread and for people to act on it.
+
+  quality -> buzz       [label="+"];         // Consistently good coffee and service generates positive buzz on its own, independent of how many people are currently visiting.
+
+  customers -> wait_time [label="+"];        // More customers in the shop at once means longer lines.
+
+  staff -> wait_time    [label="-"];         // More baristas working a shift serve customers faster, shortening the line.
+
+  wait_time -> staff    [label="+ delay"];    // When wait times run long, the manager schedules more baristas for future shifts to compensate.
+
+  // --- Loop callouts (subgraph clusters) ---
+
+  subgraph cluster_R1 {
+
+    label="R1 Reinforcing: word-of-mouth growth";
+    style="rounded,dashed";
+    color="gray40";
+    fontname="Arial";
+    fontsize=12;
+
+    customers;
+    buzz;
+
+    /* More customers generate more buzz; more buzz attracts more customers. Both links are positive, so the effect compounds - the simplest possible reinforcing structure. */
+
+  }
+
+  subgraph cluster_B1 {
+
+    label="B1 Balancing: staffing responds to wait times";
+    style="rounded,dashed";
+    color="gray40";
+    fontname="Arial";
+    fontsize=12;
+
+    wait_time;
+    staff;
+
+    /* Long wait times prompt the manager to schedule more staff; more staff shortens the wait. One link positive, one negative - the loop corrects itself instead of compounding. */
+
+  }
+
+}

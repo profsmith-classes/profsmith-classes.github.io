@@ -1,5 +1,5 @@
 ---
-title: "1.2 System Maps"
+title: "2.2 System Maps"
 draft: false
 class: "402"
 ---
@@ -246,4 +246,4 @@ For our class, we will follow these notation rules for systems maps:
 
 ## Next page of the module
 
-[1.3 Systems Thinking Tips](1.3%20Systems%20Thinking%20Tips.qmd)
+[2.3 Systems Thinking Tips](2.3_Systems_Thinking_Tips.qmd)

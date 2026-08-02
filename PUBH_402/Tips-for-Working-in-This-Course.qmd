@@ -3,6 +3,7 @@ title: "Tips for Working in This Course"
 class: "402"
 draft: false
 ---
+
 This page collects practical advice for navigating PUBH 402. None of this replaces assignment instructions. Think of it as **field notes** from people who have already walked this terrain.
 
 You do not need to follow every tip perfectly. Use them to orient yourself when things feel unclear or harder than expected.
@@ -79,18 +80,37 @@ These patterns make the course harder than it needs to be:
 
 These are understandable habits from other courses — but they don't work well here.
 
+# Render Your File Before You Submit It (The Format Check)
+
+Starting in Module 4, every `.gv` file you submit — the Revised System Map (Module 4), the Final System Map (Module 5), and the Final System Map (Module 7) — goes through a **Format Check** before anything else. Two requirements: the file has to actually render as a valid graph, and you have to submit a copy of the rendered image along with it.
+
+**If either check fails — the file doesn't render, or there's no rendered image — that component is zero points. There is no partial credit, and strong reasoning inside a file that doesn't render can't be evaluated, let alone rescue the score.** In Module 7 specifically, since the final map is the module's only deliverable, failing the Format Check zeroes the entire module.
+
+This is the most avoidable kind of point loss in the whole course, because it's mechanical, not a judgment call:
+
+- Render your file in an online Graphviz tool before you submit — see the [DOT/GV Explainer](resources/DOT-Explainer.qmd) for recommended tools.
+- Do this every time you edit the file, not just once at the start — a file that rendered last week can break with one bad edit.
+- If you're starting a new `.gv` file, build from the [Systems Map Template](resources/Systems-Map-Template.qmd) rather than from scratch — its structure and styling are already known to render, so you're only responsible for what you add.
+- Submit the rendered image alongside the file every time. A file that renders but arrives with no image still fails the check.
+
 # Be Specific (This Is Where Most Points Are Won or Lost)
 
-The most common problem in submitted work is **vagueness**: writing that could apply to almost any health problem in the U.S. A check-in or memo that talks generally about "social determinants" or "policy and financing" doesn't show how *your team's system* actually works.
+The most common problem in submitted work is **vagueness**: writing that could apply to almost any health problem in the U.S. A check-in or memo that talks generally about "social determinants" or "policy and financing" doesn't show how *your team's system* actually works. This is the exact standard your [Team Check-In](Syllabus.qmd#team-check-ins) grades against — generic language is treated as indistinguishable from not understanding the system, regardless of how confident it sounds.
 
 The fix is to name concrete elements and relationships from your own map.
 
 Compare:
 
 - **Too abstract:** "Policy and financing influence outcomes."
-- **Specific:** "Our inclusion of Medicaid reimbursement rates connects to primary care capacity, which then affects emergency department utilization.Access to primary care reduces emergency department visits, which in turn reduces wait times and improves patient outcomes."
+- **Specific:** "Our inclusion of Medicaid reimbursement rates connects to primary care capacity, which then affects emergency department utilization. Access to primary care reduces emergency department visits, which in turn reduces wait times and improves patient outcomes."
 
 The second version shows reasoning. The first could have been written without doing any of the work. Whenever you're asked what you think, point at specific elements, relationships, feedback loops, or boundary choices in your map. Uncertainty is expected; vagueness is not.
+
+# Using AI as an Adversarial Critic (Modules 5–6)
+
+Starting in Module 5, part of the assignment design asks you to use AI differently than you might be used to: not to help you write, but to challenge your own reasoning. You'll draft a **critique skill** — written instructions telling AI exactly what to check for — and use it to pressure-test a specific causal claim in your own loop. In Module 6 this becomes a full memo → AI critique → response cycle, and the critique skill itself is graded on its rigor.
+
+This is a different skill than brainstorming or drafting with AI, and it's easy to get wrong in either direction: too trusting (accepting whatever AI says as correct) or too dismissive (waving off a real problem because the AI's tone was blunt). Read the [AI Explainer](resources/AI-Explainer.qmd) before you get to Module 5 — it covers what AI is and isn't good for, how to prompt it to actually disagree with you instead of defaulting to agreement, and how to draft and test a critique skill that's rigorous rather than soft.
 
 # A note on questions, confusion, and communication
 
@@ -122,6 +142,7 @@ This course uses different tools for different purposes. Knowing where to go mak
 - **This website** is for meaning: course content, explanations, and guidance.
 
 So:
+
 - If you're confused about *what something means*, start with this website.
 - If you're confused about *what is due or how to submit*, check Canvas.
 - If you're stuck, unsure how to proceed, or don't have a fully formed question, reach out to me directly.
@@ -144,13 +165,15 @@ This assignment is not like baking a cake where each person prepares one ingredi
 
 A shared Graphviz file makes division of labor easy, which is exactly why it's dangerous: the file can look complete while no one actually understands how the whole thing fits together. Build shared understanding first; divide specific tasks only after.
 
+[Module 3](module-3-system-framing/Module-3---System-Framing-and-Initial-Element-Selection-(3-Weeks).qmd) requires your team to build at least one provisional feedback loop *together* before Module 4 splits loop ownership among individuals — so "divide and assemble" isn't just bad practice, it works against the module's own structure. A team that assigns loops before finding them together will have nothing to assign.
+
 If something isn't working:
 
 - that information matters,
 - escalation is responsible, not a failure,
 - waiting usually makes things harder.
 
-Team friction is not a sign of a bad team — it's often a sign that the system is doing real work. 
+Team friction is not a sign of a bad team — it's often a sign that the system is doing real work.
 
 ::: {.callout-tip}
 And don't pause the whole project waiting on an unresponsive teammate; make reasonable attempts to reach them, document your efforts, and keep moving.

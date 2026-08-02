@@ -5,103 +5,67 @@ class: "402"
 
 ---
 
-Systems Analysis of a US Health Care Problem: Module 7 - Synthesis and Final Submission (04/26 - 05/01)
 # Module Orientation
 
-This is the point where everything you’ve been building comes together.
+This is the point where everything you've been building comes together.
 
-Up to now, you’ve been mapping parts of a system, testing assumptions, revising relationships, and sitting with uncertainty. Module 7 asks you to step back and do the systems thinking move in full: integrate, explain, and reflect.
+Up to now, you've been mapping parts of a system, testing assumptions, revising relationships, and sitting with uncertainty. Module 7 asks you to step back and finalize your team's system map — your best current explanation of how the system works, clear, grounded, and honest about its limits.
 
-This is not about adding more complexity. It's about summarizing your journey and your work this term.
+::: {.callout-tip title="A Final Note"}
+This module is about synthesis, not stress-testing yourself at the last minute. You are not expected to discover something new here. You are expected to *make sense of what you already built*.
 
-You will submit a final package that shows:
+Systems thinking is not about certainty. It's about disciplined explanation in a messy world. This final submission is your best current explanation — clear, grounded, and honest about its limits.
 
-- What the system looks like now  
-- How the system works, in your own words  
-- How your understanding of the system changed over time  
-
-Think of this as telling the story of the system and your reasoning.
-
-
-> [!tip]+ A Final Note
-> This module is about synthesis, not stress-testing yourself at the last minute. You are not expected to discover something new here. You are expected to *make sense of what you already built*.
-> 
-> Systems thinking is not about certainty. It’s about disciplined explanation in a messy world. This final submission is your best current explanation—clear, grounded, and honest about its limits. 
-> 
-> Take a breath. Then tell the system’s story.
+Take a breath. Then finalize the system's story.
+:::
 
 # Module Deliverables
-## What to submit:
 
-### 1. Final System Map
+## What to submit
 
-Submit your final version of the system map you have been developing.
+### Final System Map
+
+Submit your team's final version of the system map you have been developing.
 
 Your map should:
+
 - Include the elements you ultimately decided were essential
 - Show clear causal relationships
 - Make feedback loops and major dynamics visible
-- Reflect revisions made based on research and reasoning
+- Reflect revisions made based on research and reasoning over the term
 
 This is your *best current model* of the system, not a claim that the system is fully knowable.
 
 #### Format
 
-Submit your team's final `.dot` file and a copy of your rendered system map.
+Submit your team's final `.gv` file and a copy of your rendered system map.
 
 #### Submission Location
 
 Canvas
 
-### 2. Synthesis Narrative
-
-Write a short narrative that explains how your system works.
-
-You should:
-- Describe the major dynamics driving the health problem
-- Explain key feedback loops or structural constraints
-- Connect your elements into a coherent account of cause and effect
-- Focus on structure and system behavior, not individual blame
-
-This is where you demonstrate systems thinking in words.
-
-#### Format
-
-This should be no more than 1000 words.  Times New Roman, 1.5" spacing, 10pt, 1" margins. Make sure that your team name, section, and team members' names are on the submission.
-
-#### Submission Location
-
-Canvas
-
-### 3. Reflection on System Evolution
-
-Briefly reflect on how your system model changed over the course of the project.
-
-Address questions like:
-- What assumptions did you revise or abandon?
-- What relationships became clearer over time?
-- What surprised you as you worked through the system?
-- Where does uncertainty still remain?
-
-This a reflection on your *reasoning process* as a team.
-#### Format
-
-This should be no more than 1000 words.  Times New Roman, 1.5" spacing, 10pt, 1" margins. Make sure that your team name, section, and team members' names are on the submission.
-
-#### Submission Location
-
-Canvas
 # How This Will Be Evaluated
 
-You are integrating the full analysis into a coherent systems account. The core question guiding evaluation is:
+**This component starts with a Format Check; it's evaluated on quality only if it passes.**
+
+First, your submission goes through the Format Check:
+
+- Your `.gv` file must be valid and must render successfully as a graph.
+- You must submit a copy of the rendered image along with the file.
+
+**If either check fails — the file doesn't render, or no rendered image is included — this module is 0 points. There is no partial credit for a file that doesn't render.** Because the final map is the only deliverable in Module 7, failing the Format Check means the module as a whole earns no credit — there is no separate memo or narrative component to fall back on.
+
+If your submission passes the Format Check, it is then evaluated using the same diagnostic question used throughout the Systems Analysis Project:
 
 **Does this submission demonstrate a coherent, well-reasoned systems understanding of the health problem, appropriate for the end of the project?**
 
 Strong submissions show:
+
 - Integration rather than accumulation
 - Clear causal logic
 - Thoughtful revision and learning over time
-- A system that “hangs together” conceptually
+- A system that "hangs together" conceptually
 
-Minor technical or stylistic issues will not outweigh strong reasoning.
+Minor technical or stylistic issues will not outweigh strong reasoning — that standard applies once the map has already passed the Format Check above, not as a substitute for it.
 
+Remember: your team's final map may also be used to write part of your individualized final exam questions — a map that clearly shows your reasoning makes that process easier and fairer for your team.

@@ -1,27 +1,28 @@
 ---
-status: draft
 title: "Module 3 - System Framing and Initial Map (3 Weeks)"
 draft: false
 class: "402"
 
 ---
-> [!reminder] A quick reminder before you start:**  
-> This is often the point in the course where uncertainty increases. That’s expected.
-> 
-> If you feel stuck or unsure:
-> - revisit the Welcome from Week 0. [Module 0 - Welcome](../Module-0---Welcome.qmd)
-> - check the Class Tips page, [Tips for Working in This Course](../Tips-for-Working-in-This-Course.qmd)
-> - and remember that confusion + engagement is normal here.
-> 
-> You do not need a fully formed question to reach out.
+::: {.callout-note title="A quick reminder before you start"}
+This is often the point in the course where uncertainty increases. That’s expected.
+
+If you feel stuck or unsure:
+
+- revisit the [Welcome](../Welcome.qmd) page.
+- check the Class Tips page, [Tips for Working in This Course](../Tips-for-Working-in-This-Course.qmd)
+- and remember that confusion + engagement is normal here.
+
+You do not need a fully formed question to reach out.
+:::
 
 # Module Orientation
 
-In this module, you will move from [forming your team](Module-2---Team-Formation-and-Project-Onboarding.qmd) and a preliminary exploration of your problem to the beginning of the systems analysis and of an understanding of the US health care system.
+In this module, you will move from [forming your team](../module-1-team-formation-and-Project-Framing/Module-1---Team-Formation-and-Project-Onboarding.qmd) and a preliminary exploration of your problem to the beginning of the systems analysis and of an understanding of the US health care system.
 
 The goal of this module is not to finalize your work, but to begin your analysis.
 
-This module is the first module where the direction of learning shifts from my guidance to you and your team. As you begin this work, check-in with how you are feeling.  Feeling unsure, a little confused, and maybe a bit of anxiety is *normal* at this stage! 
+This module is the first module where the direction of learning shifts from my guidance to you and your team. As you begin this work, check-in with how you are feeling.  Feeling unsure, a little confused, and maybe a bit of anxiety is *normal* at this stage!
 
 ---
 
@@ -31,40 +32,48 @@ By the end of this module, you should be able to:
 
 1. Describe an initial system framing, i.e. what outcomes or markers will you rely on as you create you begin your analysis.
 2. Select key elements from a list provided to you and explain your reasoning by the your choice of elements.
-3. Create a first draft of your system map by creating a `.dot` file.
+3. Create a first draft of your system map by creating a `.gv` file.
 
 These describe *ways of thinking*, not tasks to complete.
 # Core Concepts and Materials
 
-Your team's goal here is to create the first draft of your systems analysis. If you need to, review [1.1 Systems Thinking](../Module%201%20-%20Systems%20Thinking/1.1%20Systems%20Thinking.qmd) in Module 1 - Systems Thinking as this module will rely on those concepts.
+Your team's goal here is to create the first draft of your systems analysis. If you need to, review [2.1 Systems Thinking](../module-2-systems-thinking/2.1_Systems_Thinking.qmd) in Module 2 - Systems Thinking Foundations as this module will rely on those concepts.
 ## System Framing
 
 Think about your problem and as a team outline some boundaries for your work.  What topics might you include and what topics would be outside your system?  What measures will you look at to explore the problem?   What is the outcome you would like to see if this problem were solved
 ## Element Selection
 
-You are provided with a [structured list](../Resources/System-Elements.qmd) of system elements representing major domains of the U.S. health care and public health system, including:
+You are provided with a [structured list](../resources/System-Elements.qmd) of system elements representing major domains of the U.S. health care and public health system, including:
 
-- structural determinants  
-- structural inequities  
-- policy, governance, and information systems  
-- financing, funding, and payment  
-- workforce and infrastructure  
-- public health capacity  
+- care providers
+- federal and state policy / enforcement and accountability
+- financing / insurance
+- funding
+- payment models
+- pharmaceuticals and devices
+- public health
+- structural determinants
+- structural inequities
+- workforce / infrastructure
 
-This list is a **shared analytical starting point**, not a complete description of the system. 
+This list is a **shared analytical starting point**, not a complete description of the system.
 
-Your first task is to explore these elements as a team through discussion, research, and sharing.  Your goal is to begin to understand which elements are important for understanding your health problem and which elements are less important. Check the [Research Resources](../Resources/Research-Resources.qmd) for some tips and guidance on research if you need a refresher.
+If it helps to see every element already formatted as Graphviz syntax before you start building your own file, download the [System Elements Template](../resources/System-Elements-Template.qmd) — it lists every element as a plain node with its full definition as a comment. It has no edges or loops; it's a reference, not a systems map.
 
-> [!important]+ Be Specific!
-> Your discussion of elements must be specific and related to the health problem that your team is working on.
+Your first task is to explore these elements as a team through discussion, research, and sharing.  Your goal is to begin to understand which elements are important for understanding your health problem and which elements are less important. Check the [Research Resources](../resources/Research-Resources.qmd) for some tips and guidance on research if you need a refresher.
 
-You should start with your assigned text book and then being to explore additional sources for more information.  Your sources must be *reliable* and *relevant*.[^1] 
+::: {.callout-important title="Be Specific!"}
+Your discussion of elements must be specific and related to the health problem that your team is working on.
+:::
 
-Your team's goal is to develop a general sense or understanding of how these elements work together to affect your health problem. 
+You should start with your assigned text book and then being to explore additional sources for more information.  Your sources must be *reliable* and *relevant*.[^1]
 
-Select **12 system elements** from the provided [list of elements](../Resources/System-Elements.qmd) that your team believes are most important for explaining how the system produces outcomes related to your health problem.
+Your team's goal is to develop a general sense or understanding of how these elements work together to affect your health problem.
+
+Select **12 system elements** from the provided [list of elements](../resources/System-Elements.qmd) that your team believes are most important for explaining how the system produces outcomes related to your health problem.
 
 Your selection **must include at least**:
+
 - one **Structural Determinant**
 - one **Structural Inequity**
 - one **Financing or Insurance** element
@@ -72,21 +81,28 @@ Your selection **must include at least**:
 - one **Federal and State Policy** or **Enforcement and Accountability** element
 - one **Workforce or Infrastructure** element
 
+You are not limited to the provided list. If your team's research surfaces an element that isn't on the list but is clearly important for your health problem, you may add it — but **additional elements do not count toward the category minimums above.** An added element needs its own good structural reason for being in your map; it cannot substitute for, say, the required Structural Determinant.
 
-> [!warning]+ Keep track of research activities
-> You will be asked in [Module 5 - Research and System Refinement (3 Weeks)](Module-5---Research-and-System-Refinement-(3-Weeks).qmd) to reflect on your work and efforts in creating your system map.  You will also be asked to share the sources you used in developing your map and materials.
-> 
-> Make a decision now as a team how you will keep track of your conversations and efforts as well as how you will save and maintain a record of sources that you used in your efforts!
+::: {.callout-warning title="Keep track of research activities"}
+You will be asked in [Module 5 - Research and System Refinement (3 Weeks)](../module-5-research-refinement/Module-5---Research-and-System-Refinement-(3-Weeks).qmd) to reflect on your work and efforts in creating your system map.  You will also be asked to share the sources you used in developing your map and materials.
+
+Make a decision now as a team how you will keep track of your conversations and efforts as well as how you will save and maintain a record of sources that you used in your efforts!
+:::
 
 ## Draft System Map
 
-With your element list, you will write your first `.dot` file for use with [Graphviz](https://graphviz.org/#what-is-graphviz). This file will layout the relationships between all your elements.  
+With your element list, you will write your first `.gv` file for use with [Graphviz](https://graphviz.org/#what-is-graphviz). This file will layout the relationships between all your elements.
 
-Go through the [DOT Explainer](../Resources/DOT-Explainer.qmd) to learn how to create a .dot file for use with Graphviz.
+Go through the [DOT Explainer](../resources/DOT-Explainer.qmd) to learn how to create a .gv file for use with Graphviz.
 
-As you connect the elements, include polarity and delays (if any). As you build your structure, if an element has no connection to another element. You will simply list the element. 
+As you connect the elements, include polarity and delays (if any). As you build your structure, if an element has no connection to another element. You will simply list the element.
 
-Once you are ready, use an [online Graphiz tool](../Resources/DOT-Explainer.qmd#online-renderers)to see your map.
+Once you are ready, use an [online Graphviz tool](../resources/DOT-Explainer.qmd#online-renderers) to see your map.
+
+## Before you move to Module 4
+
+Module 3 is not finished when you have 12 elements and a `.gv` file that lists them. It's finished when your team has worked through, *together*, at least one provisional feedback loop — a closed causal path where an effect eventually feeds back on its own cause. You do not need this to be correct or final. You do need it to exist, because in Module 4 each team member will take individual ownership of a loop, and loop ownership can only be assigned to loops that already exist. If your team reaches the end of Module 3 with a list of connected elements but no identifiable loop, treat that as important information about your system — not as a formatting problem to fix later.
+
 # How This Module Connects to Your System Map
 
 This module is focused on creating your first systems map and is the basis for your analysis moving forward.
@@ -94,8 +110,9 @@ This module is focused on creating your first systems map and is the basis for y
 # Module Deliverables
 
 ## 1. Element List
-### What to submit  
+### What to submit
 Following the guidance above, identify your 12 elements.  Make sure that you include:
+
 - one **Structural Determinant**
 - one **Structural Inequity**
 - one **Financing or Insurance** element
@@ -104,34 +121,113 @@ Following the guidance above, identify your 12 elements.  Make sure that you inc
 - one **Workforce or Infrastructure** element
 
 For each selected element, provide:
+
 - the **element name**
 - the **category** it belongs to
 - **one sentence** explaining why this element matters for your system, i.e. how does it affect another of your chosen elements?[^2]
 
 For the elements in an area that you did not select, provide:
-- the **element name** 
+
+- the **element name**
 - The **category** it belongs to
 - and **one sentence** explaining why your team did not choose this element.
-### Format:  
-Word document or PDF with 1" margins all around, Times New Roman, 10pt, 1.5 spacing.  Use the template provided on Canvas attached to the assignment. 
-### Submission location  
+### Format:
+Word document or PDF with 1" margins all around, Times New Roman, 10pt, 1.5 spacing.  Use the template provided on Canvas attached to the assignment.
+### Submission location
 - Canvas - Module 3 Element List
-## 2. Graphviz `.dot` file
+## 2. Graphviz `.gv` file
 
-Use the template on Canvas as the basis for your team's .dot file. Your file must:
+Use the [Systems Map Template](../resources/Systems-Map-Template.qmd) as the basis for your team's .gv file. Your file must:
+
 - Include the name of your health problem.
 - Twelve selected element from your element list
 - Relationships between elements written as edges, labeled with polarity, and delays (if applicable)
 - Feedback loops are indentified
 - Comments on elements and relationships included in the file.
-- Must be a valid `.dot` file that will render as a graph. (Use an online tool to check this); upload a copy of your diagram that you produced.
+- Must be a valid `.gv` file that will render as a graph. (Use an online tool to check this); upload a copy of your diagram that you produced.
+
+## 3. Team Checkpoint 1 (Individual Check-In)
+
+This is an **individual**, private submission — not a team deliverable. It is graded for completion/understanding and is not shared with your teammates. It tests whether you were personally present for your team's work in this module, not just whether your team's file looks complete.
+
+> 1. Name three elements from your team's `.gv` file and, in your own words (not the definition from the System Elements list), explain what each one represents in your specific health problem.
+> 2. Your team should have identified at least one provisional feedback loop. Trace it step by step: which elements are in it, in what order, and where does the effect loop back to its starting cause? If your team has *not* identified a loop yet, say so directly and describe what you've tried so far — that answer is not penalized as a wrong answer, it's the honest state of your work.
+> 3. Pick one connection (edge) in your loop and explain why it's labeled the polarity it is (same-direction vs. opposite-direction) — what would have to be true about the real world for that polarity to hold?
+> 4. What is one thing about your system that you personally find uncertain, surprising, or that you and a teammate see differently? You don't need to have resolved it.
+
+### Format and submission
+
+Canvas file submission (Word or PDF), one file per student. Half a page to one page, single-spaced — this is a cap, not a target; specificity matters more than length. Label your file with your name and team.
+
+### How this is scored
+
+| Tier | Score (% of team score) |
+|---|---|
+| Clear understanding | 100% |
+| Partial understanding | 90% |
+| Minimal understanding | 85% |
+| Cannot explain the system | 75% |
+| Non-submission | 0% |
+
+Not submitting is scored separately from, and more harshly than, submitting a weak answer.
 
 # How This Will Be Evaluated
 
 You are defining the boundaries of your system and making your initial structural choices explicit.
 
+Each component below is graded separately: the Element List is worth 12 points and the Initial System Map is worth 8 points, for **20 points total**. This evaluates the quality of your reasoning and the boundary-setting choices you made — not polish, formatting, or grammar. Work must be intelligible, but technical polish is not the target at this stage.
+
+---
+
+## 1. Element List (12 points)
+
+Does this element list demonstrate defensible, problem-specific boundary-setting — not just a mechanically complete list?
+
+| Evaluation Level | Points |
+|------------------|--------|
+| Meets Requirements | 12 |
+| Partially Meets Requirements | 8 |
+| Does Not Meet Requirements | 6 |
+
+### Meets Requirements — 12 points
+- All 12 elements are selected and category minimums are satisfied.
+- Each selected element's rationale does **both**: (a) describes an actual relationship to another chosen element — not a restatement of the element's definition — and (b) explains why the element matters specifically for *your* health problem, not health care in general.
+- **Test:** if a rationale could be dropped into another team's element list, for a different health problem, with only the element name changed, it does not meet this standard.
+- Excluded-category rationales hold to the same test — a generic "not relevant to our topic" does not meet it either.
+
+### Partially Meets Requirements — 8 points
+- Mechanically complete, but rationales satisfy only one side of the test above — e.g., ties the element to another element structurally but never connects it to your team's specific problem, or asserts problem-relevance without any structural relationship.
+- Or several rationales are thin, generic, or interchangeable across elements.
+
+### Does Not Meet Requirements — 6 points
+- Mechanically incomplete (fewer than 12 elements, missing a required category).
+- Or rationales are largely absent, copy-pasted, or generic enough to apply to any health problem.
+
+## 2. Initial System Map (8 points)
+
+Does this map render correctly, contain everything required, and show a genuine first encounter with feedback in the system?
+
+| Evaluation Level | Points |
+|------------------|--------|
+| Meets Requirements | 8 |
+| Partially Meets Requirements | 6 |
+| Does Not Meet Requirements | 4 |
+
+### Meets Requirements — 8 points
+- The `.gv` file renders correctly and includes your health problem's name, all twelve elements, edges labeled with polarity (and delays where used), and comments that make your reasoning legible to an outside reader.
+- Your team has traced at least one complete, closed provisional feedback loop together: every element in the loop, every connecting edge, and the point where the effect returns to its starting cause are identifiable in the file or its comments.
+
+### Partially Meets Requirements — 6 points
+- The map renders and includes most required content, but polarity or delay labeling is inconsistent or asserted without a supporting comment.
+- Or a loop is claimed but doesn't actually close, or your account of a loop attempt is too vague to verify.
+- Or your team genuinely attempted the loop-finding process and documented that attempt honestly, but no loop actually emerged — see [Before you move to Module 4](#before-you-move-to-module-4).
+
+### Does Not Meet Requirements — 4 points
+- The file does not render, or is missing required content entirely.
+- Or no loop is identified and there's no evidence of a genuine attempt.
 
 
-[^1]: [Research Resources](../Resources/Research-Resources.qmd) for more.
+
+[^1]: [Research Resources](../resources/Research-Resources.qmd) for more.
 
 [^2]: This is important! Focus on how the elements relate to each other.

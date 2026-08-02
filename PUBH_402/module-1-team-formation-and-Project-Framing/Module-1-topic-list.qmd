@@ -1,5 +1,5 @@
 ---
-title: "Module 2 - Topic List"
+title: "Module 1 - Topic List"
 draft: false
 class: "402"
 
@@ -10,13 +10,13 @@ Find your topic from the list below. Your topic was assigned by me to the team.
 
 ### Vaccine Uptake
 
-Preventable illness and death persist because vaccine uptake emerges from interacting systems of trust, access, information, and policy rather than individual choice alone.  How can we stabilize and improve vaccine uptake? 
+Preventable illness and death persist because vaccine uptake emerges from interacting systems of trust, access, information, and policy rather than individual choice alone.  How can we stabilize and improve vaccine uptake?
 
 **Example outcome or marker:** Vaccination coverage rates stratified by geography, race or ethnicity, and insurance status.
 
 ### Opioid Epidemic
 
-Opioid-related morbidity and mortality continue as prescribing practices, drug supply dynamics, economic conditions, and treatment access reinforce one another across health and social systems. How can we reduce death and injury from opioid overdose?  
+Opioid-related morbidity and mortality continue as prescribing practices, drug supply dynamics, economic conditions, and treatment access reinforce one another across health and social systems. How can we reduce death and injury from opioid overdose?
 
 **Example outcome or marker:** Opioid overdose death rates per 100,000 population, examined over time.
 
@@ -40,19 +40,18 @@ Reproductive health outcomes are increasingly shaped by legal, geographic, and i
 
 ### Health Impacts of Extreme Heat
 
-Heat-related illness and death increase as housing quality, urban design, labor protections, and emergency response systems fail to adapt to rising temperatures.  
+Heat-related illness and death increase as housing quality, urban design, labor protections, and emergency response systems fail to adapt to rising temperatures.
 
 **Example outcome or marker:** Heat-related emergency department visits or mortality during extreme heat events.
 
 ### Emergency Department Overcrowding
 
-Emergency department congestion persists as upstream access failures, payment incentives, staffing constraints, and patient flow dynamics reinforce reliance on acute care. 
+Emergency department congestion persists as upstream access failures, payment incentives, staffing constraints, and patient flow dynamics reinforce reliance on acute care.
 
 **Example outcome or marker:** Average emergency department length of stay or inpatient boarding time.
 
 ### Maternal Morbidity and Mortality
 
-Preventable maternal harm continues due to structural racism, fragmented prenatal care, insurance instability, and variation in hospital quality.  
+Preventable maternal harm continues due to structural racism, fragmented prenatal care, insurance instability, and variation in hospital quality.
 
 **Example outcome or marker:** Maternal morbidity rates per 10,000 delivery hospitalizations.
-

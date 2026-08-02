@@ -1,0 +1,247 @@
+// System Elements — Reference Template
+//
+// This file lists every element from the System Elements resource page,
+// formatted as a Graphviz file. Every element renders as a plain box —
+// there are no connections (edges) here, because this file is a reference,
+// not a systems map.
+//
+// This is NOT your Module 3 submission. Module 3 asks you to select 12 of
+// these elements (meeting the category minimums described on the System
+// Elements page and in Module 3), then build your own .gv file connecting
+// them with causal, polarity-labeled edges. Use this file to see every
+// available element and its definition in one place, and to see what a
+// single element looks like as a Graphviz node before you start connecting
+// your own.
+//
+// Each box's comment (the line just above it) is that element's full
+// definition, taken directly from the System Elements resource page.
+// View the Graphiiz explainer on the course site for more information
+// about how to use this file and the Graphviz syntax.
+
+digraph SystemElementsReference {
+
+  rankdir=TD;
+
+  node [shape=box, style="rounded, filled", fillcolor="white", fontname="Arial"];
+
+  // ============================================================
+  // Care Providers
+  // ============================================================
+
+  // Primary care visit capacity: The number of primary care appointments a community or system can supply within a given time period.
+  primary_care_visit_capacity [label="Primary care visit capacity"];
+
+  // Primary care care coordination capacity: The capacity of primary care settings to coordinate referrals, follow-up, and communication across providers for a patient.
+  primary_care_coordination_capacity [label="Primary care coordination capacity"];
+
+  // Specialty care visit capacity: The number of specialist appointments a community or system can supply within a given time period.
+  specialty_care_visit_capacity [label="Specialty care visit capacity"];
+
+  // Specialty care referral availability: The ease or speed with which patients can obtain and complete a referral to specialty care.
+  specialty_care_referral_availability [label="Specialty care referral availability"];
+
+  // Language access service availability: The availability of interpreter services, translated materials, and bilingual staff within a health care setting.
+  language_access_service_availability [label="Language access service availability"];
+
+  // ============================================================
+  // Federal and State Policy
+  // (Choose at least one element from Federal and State Policy or
+  // Enforcement and Accountability.)
+  // ============================================================
+
+  // Medicaid eligibility rules: The income, categorical, and documentation requirements that determine who qualifies for Medicaid coverage in a given state.
+  medicaid_eligibility_rules [label="Medicaid eligibility rules"];
+
+  // Medicare coverage rules: The federal rules that determine which services, providers, and populations are covered under Medicare.
+  medicare_coverage_rules [label="Medicare coverage rules"];
+
+  // State scope-of-practice laws: State laws defining which clinical tasks a given type of health professional (e.g., nurse practitioner, pharmacist) is legally permitted to perform.
+  state_scope_of_practice_laws [label="State scope-of-practice laws"];
+
+  // Federal regulatory requirements: Federal rules that providers, payers, or manufacturers must follow to operate or participate in federal health programs.
+  federal_regulatory_requirements [label="Federal regulatory requirements"];
+
+  // ============================================================
+  // Enforcement and Accountability
+  // ============================================================
+
+  // Capacity for administrative processing: The volume of applications, claims, or eligibility determinations an agency or payer can process within a given time period.
+  administrative_processing_capacity [label="Capacity for administrative processing"];
+
+  // Sanctions: Penalties (financial, licensing, or program-exclusion) imposed on providers, payers, or institutions for noncompliance with health regulations.
+  sanctions [label="Sanctions"];
+
+  // Reimbursement requirements: The documentation, coding, or procedural conditions a provider must meet before receiving payment for a service.
+  reimbursement_requirements [label="Reimbursement requirements"];
+
+  // Administrative staffing: The number of personnel employed to carry out administrative, eligibility, or compliance functions within an agency or institution.
+  administrative_staffing [label="Administrative staffing"];
+
+  // ============================================================
+  // Financing / Insurance
+  // (Choose at least one from this list.)
+  // ============================================================
+
+  // Medicare enrollment: The number or proportion of an eligible population enrolled in Medicare.
+  medicare_enrollment [label="Medicare enrollment"];
+
+  // Medicaid enrollment: The number or proportion of an eligible population enrolled in Medicaid.
+  medicaid_enrollment [label="Medicaid enrollment"];
+
+  // Employer-based insurance enrollment: The number or proportion of a population covered through employer-sponsored health insurance.
+  employer_based_insurance_enrollment [label="Employer-based insurance enrollment"];
+
+  // Uninsured population size: The number or proportion of a population without health insurance coverage.
+  uninsured_population_size [label="Uninsured population size"];
+
+  // ============================================================
+  // Funding
+  // ============================================================
+
+  // State general fund health allocations: The portion of a state's general fund budget appropriated to health-related programs and agencies.
+  state_general_fund_health_allocations [label="State general fund health allocations"];
+
+  // Federal discretionary health funding: Federal health funding appropriated annually that is not mandated by existing law.
+  federal_discretionary_health_funding [label="Federal discretionary health funding"];
+
+  // Public health grant funding: Funding awarded competitively or formulaically to public health agencies or organizations for specific programs.
+  public_health_grant_funding [label="Public health grant funding"];
+
+  // Safety-net provider subsidies: Government funding provided to hospitals or clinics that serve a disproportionate share of low-income or uninsured patients.
+  safety_net_provider_subsidies [label="Safety-net provider subsidies"];
+
+  // Household out-of-pocket spending: The amount households pay directly for health care services, premiums, or medications that is not covered by insurance.
+  household_out_of_pocket_spending [label="Household out-of-pocket spending"];
+
+  // ============================================================
+  // Payment Models
+  // (Choose at least one from this list.)
+  // ============================================================
+
+  // Fee-for-service payment prevalence: The proportion of health care payments made per individual service rendered, rather than per patient or outcome.
+  fee_for_service_payment_prevalence [label="Fee-for-service payment prevalence"];
+
+  // Value-based payment adoption: The proportion of health care payments tied to patient outcomes, quality measures, or cost performance rather than volume of services.
+  value_based_payment_adoption [label="Value-based payment adoption"];
+
+  // Capitated payment prevalence: The proportion of health care payments made as a fixed amount per patient over a period of time, regardless of services used.
+  capitated_payment_prevalence [label="Capitated payment prevalence"];
+
+  // Bundled payment use: The proportion of health care payments made as a single payment covering all services for a defined episode of care.
+  bundled_payment_use [label="Bundled payment use"];
+
+  // ============================================================
+  // Pharmaceuticals and Devices
+  // ============================================================
+
+  // Prescription drug pricing levels: The prices charged for prescription medications, before or after insurance discounts and rebates.
+  prescription_drug_pricing_levels [label="Prescription drug pricing levels"];
+
+  // Drug formulary restrictions: The limitations an insurer or pharmacy benefit manager places on which medications are covered and under what conditions.
+  drug_formulary_restrictions [label="Drug formulary restrictions"];
+
+  // Medical device availability: The supply of medical devices (e.g., diagnostic or treatment equipment) accessible to providers and patients.
+  medical_device_availability [label="Medical device availability"];
+
+  // Pharmaceutical market concentration: The degree to which a small number of manufacturers control the production or pricing of a given drug or drug class.
+  pharmaceutical_market_concentration [label="Pharmaceutical market concentration"];
+
+  // ============================================================
+  // Public Health
+  // ============================================================
+
+  // Public health surveillance capacity: The ability of public health agencies to collect, analyze, and report data on disease and health trends.
+  public_health_surveillance_capacity [label="Public health surveillance capacity"];
+
+  // Preventive service availability: The supply of services designed to prevent disease or detect it early (e.g., screenings, immunizations, counseling).
+  preventive_service_availability [label="Preventive service availability"];
+
+  // Community-based health program capacity: The scale and reach of locally delivered health programs operating outside clinical settings.
+  community_based_health_program_capacity [label="Community-based health program capacity"];
+
+  // Health communication effectiveness: The degree to which public health messaging reaches and is understood by its intended audience.
+  health_communication_effectiveness [label="Health communication effectiveness"];
+
+  // Substance use treatment capacity: The number of treatment slots (e.g., medication-assisted treatment, counseling, residential) available for substance use disorders relative to need.
+  substance_use_treatment_capacity [label="Substance use treatment capacity"];
+
+  // Trust in health institutions: The degree to which a population believes health care providers, public health agencies, or government health programs act in their interest.
+  trust_in_health_institutions [label="Trust in health institutions"];
+
+  // ============================================================
+  // Structural Determinants
+  // (Choose at least one from this list.)
+  // ============================================================
+
+  // Housing stability: The degree to which individuals or households maintain consistent, adequate housing over time.
+  housing_stability [label="Housing stability"];
+
+  // Income security: The degree to which individuals or households have reliable, sufficient income to meet basic needs.
+  income_security [label="Income security"];
+
+  // Transportation access: The availability of reliable means to travel to needed destinations, including health care services.
+  transportation_access [label="Transportation access"];
+
+  // Environmental conditions: The physical conditions of a person's surroundings, including air quality, climate exposure, and the built environment.
+  environmental_conditions [label="Environmental conditions"];
+
+  // Energy/utility affordability: The degree to which households can afford electricity, heating, or cooling costs.
+  energy_utility_affordability [label="Energy/utility affordability"];
+
+  // Health literacy: An individual's or population's capacity to obtain, process, and understand basic health information needed to make health decisions.
+  health_literacy [label="Health literacy"];
+
+  // ============================================================
+  // Structural Inequities
+  // (Choose at least one from this list.)
+  // ============================================================
+
+  // Racialized residential segregation: The degree to which racial or ethnic groups are concentrated in separate geographic areas, often due to historical and ongoing policy.
+  racialized_residential_segregation [label="Racialized residential segregation"];
+
+  // Occupational stratification by race and gender: The uneven distribution of race and gender groups across job types, industries, and pay levels.
+  occupational_stratification_by_race_gender [label="Occupational stratification by race and gender"];
+
+  // Differential exposure to environmental hazards: The unequal distribution of exposure to pollution, hazardous sites, or climate risks across populations.
+  differential_exposure_environmental_hazards [label="Differential exposure to environmental hazards"];
+
+  // Inequitable access to health-promoting resources: The unequal distribution of resources (e.g., healthy food, safe recreation space, green space) that support health.
+  inequitable_access_health_promoting_resources [label="Inequitable access to health-promoting resources"];
+
+  // ============================================================
+  // Workforce
+  // (Choose at least one element from Workforce or Infrastructure.)
+  // ============================================================
+
+  // Primary care clinician supply: The number of primary care physicians, nurse practitioners, and physician assistants available relative to population need.
+  primary_care_clinician_supply [label="Primary care clinician supply"];
+
+  // Specialist clinician supply: The number of specialist physicians available relative to population need.
+  specialist_clinician_supply [label="Specialist clinician supply"];
+
+  // Nursing workforce availability: The number of registered nurses and related nursing personnel available relative to need.
+  nursing_workforce_availability [label="Nursing workforce availability"];
+
+  // Public health workforce capacity: The number of trained public health personnel available to staff public health functions.
+  public_health_workforce_capacity [label="Public health workforce capacity"];
+
+  // ============================================================
+  // Infrastructure
+  // ============================================================
+
+  // Hospital bed capacity: The number of staffed hospital beds available within a given system or region.
+  hospital_bed_capacity [label="Hospital bed capacity"];
+
+  // Primary care facility availability: The number and geographic distribution of primary care clinics or practices.
+  primary_care_facility_availability [label="Primary care facility availability"];
+
+  // Health information technology interoperability: The degree to which health information systems can exchange and use patient data across providers and institutions.
+  health_it_interoperability [label="Health IT interoperability"];
+
+  // Emergency care access: The availability and proximity of emergency department or urgent care services to a population.
+  emergency_care_access [label="Emergency care access"];
+
+  // Obstetric/maternity care availability: The availability of labor and delivery units, obstetric clinicians, or perinatal services within a given system or region.
+  obstetric_maternity_care_availability [label="Obstetric/maternity care availability"];
+
+}

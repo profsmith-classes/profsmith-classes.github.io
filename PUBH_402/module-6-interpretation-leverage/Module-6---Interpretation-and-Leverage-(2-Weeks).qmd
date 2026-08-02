@@ -5,38 +5,40 @@ class: "402"
 
 ---
 
-
 # Module Orientation
 
-By this point, you have built a system map that represents how a complex public health problem fits together. In this module, the focus shifts from _building_ the system to _making sense of it_.
+By this point, your team has built a system map that represents how a complex public health problem fits together. In this module, the work becomes **individual**: you will use your team's map as evidence for your own interpretation and leverage analysis, then put that analysis through a structured AI critique that you design yourself.
 
-The goal here is interpretation: using your map to explain what the system is doing, why it behaves the way it does, and where meaningful change might actually come from.
+Your response to that critique — not the memo, and not the AI exchange — is what's graded most heavily. This module asks you to show that you can pressure-test your own reasoning, not just produce reasoning that sounds right.
+
 # What You Should Be Able to Do After This Module
 
 By the end of this module, you should be able to:
 
-- Explain how the system behaves over time, based on the structure you’ve mapped
-- Identify leverage points—places where change could meaningfully shift outcomes
-- Distinguish between **structural change** (changes to how the system is organized) and **performative responses** (actions that look active but don’t alter system behavior in lasting ways)
+- Explain how the system behaves over time, based on the structure your team has mapped
+- Identify leverage points — places where change could meaningfully shift outcomes
+- Distinguish between **structural change** (changes to how the system is organized) and **performative responses** (actions that look active but don't alter system behavior in lasting ways)
+- Design a rigorous set of criteria for evaluating causal reasoning, and apply that same rigor to your own thinking when it's challenged
 
-This is less about proposing “solutions” and more about showing that you understand _why some interventions tend to work, fail, or backfire.
+This is less about proposing "solutions" and more about showing that you understand *why* some interventions tend to work, fail, or backfire — and that you can tell a real weakness in your own reasoning from a superficial one.
 
 # Core Concepts and Materials
 
-Your system map is now an explanatory tool. You should use it to support claims like:
+Your team's system map is now an explanatory tool. You should use it to support claims like:
 
 - Why certain interventions are likely to have limited impact
 - Why some problems persist even when there is a lot of effort or spending
 - Where delays, feedback loops, or constraints make change difficult
 
-Strong work in this module makes clear connections between the structure of the system and the outcomes it produces.  Can you begin to identify how the health care system produces the problem you are focused on.
+Strong work in this module makes clear connections between the structure of the system and the outcomes it produces.
+
 ## Guidance: How to think about leverage points
 
 A **leverage point** is a place in a system where a small or focused change could lead to a meaningful shift in how the system behaves over time. Leverage points are not necessarily the biggest or most visible parts of the system. In fact, they are often easy to overlook.
 
-A useful way to think about leverage is to ask:  
+A useful way to think about leverage is to ask:
 
-_If this part of the system changed, what else would have to change as a result?_
+*If this part of the system changed, what else would have to change as a result?*
 
 Leverage points tend to show up in places where:
 
@@ -47,191 +49,190 @@ Leverage points tend to show up in places where:
 
 Importantly, leverage points are **structural**, not performative. Adding more effort to an existing activity is usually not leverage. Changing the rules, incentives, information flows, or relationships that shape behavior often is.
 
-> [!tip] This should be familiar!
-> Review the materials from Module 1 on Systems Thinking, particularly the material on [leverage points](../Module%201%20-%20Systems%20Thinking/1.1%20Systems%20Thinking.qmd#leverage-points-how-do-change-a-system).
+::: {.callout-tip title="This should be familiar!"}
+Review the materials from [Module 2 on Systems Thinking](../module-2-systems-thinking/2.1_Systems_Thinking.qmd#leverage-points-how-do-we-change-a-system), particularly the material on leverage points.
+:::
 
 For example, expanding access to a service may matter less than changing who qualifies for it. Increasing funding may matter less than changing how funds are allocated. Education campaigns may matter less than the conditions that make certain choices rational or unavoidable in the first place.
 
-You are not expected to find _the_ leverage point. Systems often have multiple, competing leverage points, each with tradeoffs and limits. What matters is that you can explain, using your system map, **why** a particular point has leverage and **what kind of change it could realistically produce**
-# Module Deliverable
+You are not expected to find *the* leverage point. Systems often have multiple, competing leverage points, each with tradeoffs and limits. What matters is that you can explain, using your system map, **why** a particular point has leverage and **what kind of change it could realistically produce**.
 
-## What to submit:  
+## The AI-adversarial-critique cycle
 
-You will submit a short written document that interprets your system and identifies leverage points. This is an analytical write-up, not a proposal or policy brief.
+This module uses the full version of a mechanism you've already practiced in lighter form in Module 5. The sequence is:
 
-### What you will submit
+1. Write your individual leverage memo (below).
+2. Draft a **critique skill** — a specific, written set of instructions for an AI tool that says exactly what it should check for in your memo.
+3. Run your memo through your skill and get an AI critique back.
+4. Write your **response** to that critique — what it got right, what it got wrong, and how (if at all) your thinking changes as a result.
 
-You will submit a short written document that interprets your system and identifies leverage points. This is an analytical write-up, not a proposal or policy brief.
-#### Required sections and structure
+See the [AI Explainer](../resources/AI-Explainer.qmd) for how to draft a critique skill that's actually rigorous, and how to tell a real critique from a superficial one. The grading principle throughout: **your response is the gradeable reasoning artifact — never the AI exchange itself, and never proof that you used AI.**
 
-Your submission should include the following sections, in order. Use clear headings.
+# Module Deliverables
 
-##### 1. System behavior and dynamics
+## 1. Individual Leverage Memo
+
+An analytical write-up of your interpretation of the system and its leverage points — not a proposal or policy brief. Use clear headings. Include, in order:
+
+### System behavior and dynamics
 
 Describe how your system behaves based on its structure.
 
 Focus on questions like:
+
 - What patterns does the system produce over time?
 - Which outcomes seem persistent or difficult to change?
 - What feedback loops, delays, or constraints help explain this behavior?
 
-This section should rely on **structural explanation**, not storytelling or individual blame. Claims should be grounded in specific features of your map.
+This section should rely on **structural explanation**, not storytelling or individual blame. Claims should be grounded in specific features of your team's map.
 
-##### 2. Interpretation: why the system behaves this way
+### Interpretation: why the system behaves this way
 
 Explain *why* the system produces the outcomes you described.
 
-Here, you should connect:
-- Elements → relationships → feedback loops → outcomes
+Here, you should connect: elements → relationships → feedback loops → outcomes.
 
-Strong interpretations make explicit causal arguments (for example, “Because X reinforces Y, the system tends to…”). Avoid listing problems or restating the map without explanation.
+Strong interpretations make explicit causal arguments (for example, "Because X reinforces Y, the system tends to…"). Avoid listing problems or restating the map without explanation.
 
-##### 3. Identification of leverage points
+### Identification of leverage points
 
 Identify **one to three leverage points** in your system.
 
 For each leverage point:
-- Describe where it sits in the system  
-- Explain why this point has leverage, using your system map as evidence  
+
+- Describe where it sits in the system
+- Explain why this point has leverage, using your system map as evidence
 
 Leverage points should be **structural**. You are not required to propose a full intervention, but you should make clear *what would be different* if this part of the system changed.
 
-##### 4. Constraints and limits
+### Constraints and limits
 
-Briefly discuss what limits change in this system.
+Briefly discuss what limits change in this system. This might include political or institutional constraints, resource limitations, delays that weaken short-term impact, or feedback loops that resist change.
 
-This might include:
-- Political or institutional constraints  
-- Resource limitations  
-- Delays that weaken short-term impact  
-- Feedback loops that resist change  
+#### Format
 
-## Format:  
+PDF or Word document. Times New Roman, 10pt, 1.5 spacing. Include your name, team, and section.
 
-PDF or Word document. Use Times New Roman, 10pt, 1.5 spacing.  Make sure your team number, section, and team member names are on the submission.
-## Length:  
+#### Length
 
-750 - 1000 words
-## Submission location:  
-- Canvas
+750–1000 words.
+
+#### Submission location
+
+Canvas
+
+## 2. Student-Drafted Critique Skill
+
+Write the actual instructions you give an AI tool to critique your memo — not just an ad hoc question, but a specific checklist of what it should look for (e.g., unsupported causal claims, missing or unjustified polarity, weak mechanisms, feedback loops that don't actually close, performative leverage points). See the [AI Explainer](../resources/AI-Explainer.qmd) for a template and guidance on testing your own skill before you submit it.
+
+**This skill is graded on its own rigor.** A skill written to go easy on your memo — vague criteria, no instruction to disagree, nothing that would actually catch a weak claim — scores poorly on its own terms, regardless of what critique it produces.
+
+#### Format
+
+Submit the skill itself as a short document (the instructions you gave the AI) — this is typically well under a page.
+
+#### Submission location
+
+Canvas
+
+## 3. Response to the AI Critique
+
+Submit the critique your skill generated, along with your written response to it. Your response should explain:
+
+- Which parts of the critique revealed something real about your reasoning
+- Which parts you disagree with, and why
+- How — if at all — your interpretation changes as a result
+
+**This is the primary gradeable artifact in this module.** The AI's critique is not graded; your engagement with it is.
+
+#### Format
+
+PDF or Word document. Include the critique text or a summary of it, followed by your response. Times New Roman, 10pt, 1.5 spacing. Include your name, team, and section.
+
+#### Submission location
+
+Canvas
+
 # How This Will Be Evaluated
 
-You are interpreting system behavior and identifying where meaningful change is possible. Your work will be evaluated based on whether it demonstrates the kind of systems thinking expected at this stage of the project:
-- Clear interpretation of system behavior  
-- Coherent use of the system map as evidence  
-- Thoughtful identification of leverage points  
-- Attention to constraints and limits  
+Module 6 is worth **25 points**, split across three individually-graded components:
 
-Clarity matters more than certainty. Partial, well-reasoned interpretations are preferable to confident but shallow claims.
-
-# Module 6 Grading Criteria
-
-## System Interpretation and Leverage Analysis — 20 points
-
-Each of the four required sections is worth **5 points**, evaluated using the same three-level threshold.
-
-|Evaluation Level|Points per Section|
+| Component | Points |
 |---|---|
-|Meets Requirements|5|
-|Partially Meets Requirements|3.5|
-|Does Not Meet Requirements|2|
+| Individual Leverage Memo | 7 |
+| Student-Drafted Critique Skill | 8 |
+| Response to the AI Critique | 10 |
+| **Total** | **25** |
 
-This system evaluates **quality of reasoning and engagement with the system**, not writing polish or general systems knowledge.
+::: {.callout-note title="Point split and tier values confirmed"}
+The 7/8/10 split across these three components, and the tier point values within each component below, were confirmed by the instructor on 2026-07-28.
+:::
 
----
+## 1. Individual Leverage Memo (7 points)
 
-# 1. System Behavior and Dynamics (5 points)
+This component is evaluated holistically, not section-by-section — it asks whether the memo as a whole demonstrates the kind of systems thinking expected at this stage of the project.
 
-This section evaluates whether the team can describe **what their system does** using structural features of their own map.
+### Meets Requirements — 7 points
 
-### Meets Requirements — 5 points
+- All four required sections are present and grounded in the team's specific map (named feedback loops, specific elements, specific relationships) rather than general health-system knowledge
+- Makes explicit causal arguments (elements → relationships → feedback loops → outcomes), not just description
+- Leverage points are structural, with a clear account of why each has leverage
+- Constraints are connected to system structure, not listed as generic external obstacles
 
-- Describes patterns the system produces over time (persistence, recurrence, resistance to change)
-- Explanation is grounded in specific structural features of the team's map: named feedback loops, delays, or constraints
-- Does not rely on general health system knowledge in place of map-based reasoning
-- Avoids storytelling or individual blame
+### Partially Meets Requirements — 5 points
 
-### Partially Meets Requirements — 3.5 points
+- Sections are present but lean on general knowledge rather than the team's specific map in places
+- Some causal reasoning is present but incomplete, or restates the map without adding interpretive depth
+- Leverage points or constraints are identified but justification is thin or asserted rather than map-based
 
-- System behavior is described but explanation leans on general knowledge rather than the team's specific map
-- Feedback loops or structural features are mentioned but not clearly connected to the patterns described
-- Some specificity is present but not consistently applied
+### Does Not Meet Requirements — 4 points
 
-### Does Not Meet Requirements — 2 points
+- Reads as a problem narrative rather than a structural account grounded in the team's map
+- No clear causal argument connecting structure to outcomes
+- Leverage points are performative (more funding, more awareness) with no structural mechanism explained
 
-- Description could apply to any health problem — no specific elements, loops, or structural features from the team's map are referenced
-- Reads as a problem narrative rather than a structural account of system behavior
+## 2. Student-Drafted Critique Skill (8 points)
 
----
+This component evaluates the rigor of the instructions you wrote — not the critique they produced.
 
-# 2. Interpretation: Why the System Behaves This Way (5 points)
+### Meets Requirements — 8 points
 
-This section evaluates whether the team can **explain** system behavior — not just describe it — by connecting map structure to outcomes.
+- Names specific failure modes to check for (e.g., unsupported causal claims, unjustified polarity, non-closing loops, performative leverage points) rather than a vague "is this good?" instruction
+- Uses the course's own vocabulary (stocks, flows, polarity, feedback loops, endogenous/exogenous) so the AI evaluates against the same standard the memo is graded on
+- Explicitly instructs the AI not to simply agree, and to identify the weakest part of the reasoning
+- Shows evidence the student tested the skill against something intentionally weak before submitting
 
-### Meets Requirements — 5 points
+### Partially Meets Requirements — 7 points
 
-- Makes explicit causal arguments connecting elements → relationships → feedback loops → outcomes
-- Explains _why_ the system produces the patterns described in Section 1, not just _that_ it does
-- Uses map structure as evidence; claims are traceable to specific relationships or loops
-- Avoids restating the map or simply listing problems
+- Some specific checks are named, but others remain vague or generic
+- Course vocabulary is used inconsistently
+- No explicit instruction against agreement bias, or it's present but not emphasized
 
-### Partially Meets Requirements — 3.5 points
+### Does Not Meet Requirements — 6 points
 
-- Causal reasoning is present but incomplete or partially supported
-- Some connections between map structure and outcomes are made, but the logic has gaps or relies on assertion
-- May restate Section 1 without adding interpretive depth
+- Instructions are a single vague question ("critique this") with no specific checks
+- No indication the skill was designed to catch anything in particular
+- Skill appears designed (intentionally or not) to produce a soft, agreeable critique
 
-### Does Not Meet Requirements — 2 points
+## 3. Response to the AI Critique (10 points)
 
-- No causal argument is made — the section describes rather than explains
-- Map structure is not used as evidence
-- Reads as a list of problems or a restatement of the system map
+This is the module's primary gradeable artifact — the response, not the memo and not the AI's critique text.
 
----
+### Meets Requirements — 10 points
 
-# 3. Identification of Leverage Points (5 points)
+- Clearly distinguishes which parts of the critique identified a real weakness from which parts were off-target, hallucinated, or superficial, and explains *why* for each
+- Engages specifically with the reasoning in the critique — not a general restatement of the memo's claims
+- Where the critique revealed something real, explains concretely how the interpretation changes as a result
+- Where the student disagrees with the critique, gives a substantive, map-grounded reason, not just an assertion
 
-This section evaluates whether the team can identify **structurally grounded** places where change could meaningfully shift system behavior.
+### Partially Meets Requirements — 8 points
 
-### Meets Requirements — 5 points
+- Responds to the critique but treats most or all of it as correct without evaluating it critically, or dismisses it without a substantive reason
+- Some engagement with specific critique points, but the response is partly generic
+- Unclear whether the student's own reasoning actually changed as a result of the exercise
 
-- Identifies one to three leverage points with structural justification for each
-- For each point, explains _why_ it has leverage by reference to the map (e.g., a loop that could be disrupted, a node through which many pathways pass, a constraint that limits the whole system)
-- Makes clear what would be different if this part of the system changed
-- Leverage points are structural — not calls for more effort, funding, or awareness without explaining the mechanism
+### Does Not Meet Requirements — 7 points
 
-### Partially Meets Requirements — 3.5 points
-
-- Leverage points are identified but justification is thin or asserted rather than map-based
-- The structural logic is implied but not clearly explained
-- May slide toward performative responses (education campaigns, increased spending) without explaining the structural mechanism
-
-### Does Not Meet Requirements — 2 points
-
-- Leverage points are proposed without structural justification
-- Suggestions are performative rather than structural (e.g., "more funding," "better outreach") with no connection to system structure
-- No reference to the team's specific map
-
----
-
-# 4. Constraints and Limits (5 points)
-
-This section evaluates whether the team can identify **what makes change difficult** in the system, using structural rather than generic reasoning.
-
-### Meets Requirements — 5 points
-
-- Identifies constraints that limit change in the system with structural reasoning
-- Addresses at least two types of constraint (e.g., a feedback loop that resists change, a delay that undermines short-term interventions, a political or institutional constraint that stabilizes current structure)
-- Constraints are connected to the system's structure, not just listed as external obstacles
-
-### Partially Meets Requirements — 3.5 points
-
-- Constraints are identified but treated as a list rather than explained structurally
-- Some connection to system structure is present but inconsistent
-- May focus only on one type of constraint (e.g., only political) without addressing structural dynamics
-
-### Does Not Meet Requirements — 2 points
-
-- Constraints are listed without explanation or structural grounding
-- Could apply to any health system problem — no specificity to the team's system
-- Section is perfunctory or missing
+- Response summarizes the critique without evaluating it
+- No indication the student distinguished a real critique point from a superficial one
+- Reads as compliance with the exercise rather than engagement with it

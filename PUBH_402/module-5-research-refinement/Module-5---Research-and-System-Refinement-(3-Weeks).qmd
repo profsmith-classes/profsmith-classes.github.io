@@ -17,23 +17,20 @@ You should be using your map now to ask the same questions from Module 4:
 - What feedback loops seem implied but not fully articulated?
 - What elements did I exclude earlier that now appear structurally important?
 - What assumptions would need to be true for this system to behave as I’ve drawn it?
-- Are there elements missing from this map and from the provided list of elements?  Do we need new elements? 
+- Are there elements missing from this map and from the provided list of elements?  Do we need new elements?
 - Do we need to adjust the structure of the system map based on our further research?
 
 This module is your final opportunity to edit and adjust your system map and to add or exclude elements.
 
 ## Research
 
-Your team should continue to research  your health problem and the US health care system using your system map as a research partner.  The module 4 flowchart is a useful reminder of the process: 
+Your team should continue to research  your health problem and the US health care system using your system map as a research partner.
 
-![](../../../attachments/reserach_process.svg)
-(Download or open this image in another tab so you can see it in more detail. You can also download this chart from Canvas)
-
-At this point your team should have a good list of sources and their citations. 
+At this point your team should have a good list of sources and their citations.
 
 ## Summary of Your Research Activity
 
-Once you have your system map finalized and ready, write a summary of your research activities as a team and outline how the evidence you found shaped your system. Your summary should be annotated and include citations to materials that were useful to your team. 
+Once you have your system map finalized and ready, write a summary of your research activities as a team and outline how the evidence you found shaped your system. Your summary should be annotated and include citations to materials that were useful to your team.
 
 This document provides the overview of how you conducted your research, how it shaped your approach to your system map, and citations to the most important sources for your work.
 
@@ -45,9 +42,9 @@ This document provides the overview of how you conducted your research, how it s
 
 Create your final system map.  Make sure all the labels are in place, relationships are clear, and that reinforcing and balancing loops are identified and labeled.
 
-Use comments in you `.dot` file to discuss changes and additions you have made and the evolution of your amp.  I should be able to understand your system map and it's relationships by reading your file.
+Use comments in you `.gv` file to discuss changes and additions you have made and the evolution of your amp.  I should be able to understand your system map and it's relationships by reading your file.
 
-Turn in your final `.dot` file and a copy of your system map.
+Turn in your final `.gv` file and a copy of your system map.
 
 ### Brief Memo (Summary of Your Research Activity)
 
@@ -57,61 +54,90 @@ Your summary should be **annotated** and include **citations** to the most impor
 
 **Your summary must address the following:**
 
-**1. Research focus and strategy**  
-Briefly describe how your system map guided your research.  
+**1. Research focus and strategy**
+Briefly describe how your system map guided your research.
 Explain:
 
 - Which parts of the map generated the most questions
-    
+
 - Which relationships, loops, or elements you prioritized for investigation
-    
+
 - Why those areas mattered structurally to the system
-    
+
 This is about _direction_, not exhaustiveness.
 
-**2. Evidence that shaped the system**  
-Describe how specific sources influenced your map.  
+**2. Evidence that shaped the system**
+Describe how specific sources influenced your map.
 For each major change or confirmation, explain:
 
 - What you thought was happening before
-    
+
 - What evidence you found
-    
+
 - How that evidence changed, clarified, or reinforced the structure of the system
-    
+
 You do not need to summarize every source—only the ones that actually did work.
 
-**3. Revisions to elements and relationships**  
+**3. Revisions to elements and relationships**
 Explain:
 
 - Which elements were added, removed, or retained after reconsideration
-    
+
 - Which causal relationships became more precise
-    
+
 - Where you revised direction, polarity, or feedback structure
-    
+
 Focus on _why_ the system now looks the way it does.
 
-**4. Remaining uncertainty and limits of evidence**  
+**4. Remaining uncertainty and limits of evidence**
 Identify:
 
 - Relationships that remain where the evidence is weak
-    
+
 - Assumptions you could not fully test
-    
+
 - Areas where evidence was contradictory, thin, or contested
-    
+
 Uncertainty is expected. Naming it accurately is part of the work.
 
-**5. Key sources**  
-Provide citations for the most important [relevant and reliable](../Resources/Research-Resources.qmd)sources that shaped your thinking.  
+**5. Key sources**
+Provide citations for the most important [relevant and reliable](../resources/Research-Resources.qmd) sources that shaped your thinking.
 
 You are being evaluated on _use_, not quantity.
+
+### Team Checkpoint 2 (Individual Check-In)
+
+This is an **individual**, private submission — not a team deliverable. It is graded for completion/understanding and is not shared with your teammates. By this point loop ownership is individual, so this checkpoint tests your depth on the loop you personally own, plus whether research actually changed anything in it.
+
+As part of this checkpoint, you'll also run a light AI-adversarial-critique exercise on **your own loop** (not your team's whole map) — including drafting the actual critique skill (the instructions you give the AI). This is your first attempt at the kind of critique skill you'll write again, for a grade, in Module 6 — here it's ungraded practice.
+
+> 1. Which loop do you own? Walk through it end to end — every element, every connection, and the point where it closes back on itself.
+> 2. What did research add or change in *your* loop specifically? Point to one source and describe the revision it caused (a new element, a changed polarity, a corrected delay, etc.) — not a general summary of what you read.
+> 3. Attach the critique skill you drafted — the actual instructions you gave AI, specifying what to check for in your loop (e.g., unsupported causal claims, missing polarity justification, weak mechanism). **This is not graded at this stage** — it's practice for Module 6, where a version of this is scored for rigor.
+> 4. Using that skill, what did AI challenge in your loop, and how did you respond? (Your response is what's being evaluated here, not the AI exchange itself.)
+> 5. What's the biggest remaining uncertainty in your loop going into Module 6?
+
+#### Format and submission
+
+Canvas file submission (Word or PDF), one file per student. Half a page to one page, single-spaced — this is a cap, not a target; specificity matters more than length. Label your file with your name and team.
+
+#### How this is scored
+
+| Tier | Score (% of team score) |
+|---|---|
+| Clear understanding | 100% |
+| Partial understanding | 90% |
+| Minimal understanding | 85% |
+| Cannot explain the system | 75% |
+| Non-submission | 0% |
+
+Not submitting is scored separately from, and more harshly than, submitting a weak answer.
+
 ## Format expectations
 
-## Format:  
+## Format:
 
-**Revised System Map**: Turn in your `.dot` file and a copy of your system map.
+**Revised System Map**: Turn in your `.gv` file and a copy of your system map.
 
 **Brief Memo**
 
@@ -120,12 +146,23 @@ You are being evaluated on _use_, not quantity.
 - Citations: consistent and traceable
 - Annotations may be inline or footnote
 
-Make sure your team number, section, and names are on your memo. 
-## Submission location:  
+Make sure your team number, section, and names are on your memo.
+## Submission location:
 Canvas
 # How This Will Be Evaluated
 
 ## Final System Map — 10 points
+
+**This component starts with a Format Check; it's evaluated on quality only if it passes.**
+
+First, your submission goes through the Format Check:
+
+- Your `.gv` file must be valid and must render successfully as a graph.
+- You must submit a copy of the rendered image along with the file.
+
+**If either check fails — the file doesn't render, or no rendered image is included — this component is 0 points. There is no partial credit for a file that doesn't render.** This is pass/fail, not a tier on the scale below.
+
+If your submission passes the Format Check, it is then evaluated for **structural development** of the system using the scale below.
 
 ### Meets Requirements (10)
 
@@ -134,12 +171,12 @@ The submission presents a **coherent causal system**.
 - Elements are clearly defined and appropriate to the system
 
 - Causal relationships have clear direction
-   
+
 - Reinforcing and balancing feedback loops are identified and labeled and are feedback loops
 
 - The system structure is interpretable to a reader
 
-- `.dot` file comments explain modeling decisions or revisions. Elements and relationships are clearly described.
+- `.gv` file comments explain modeling decisions or revisions. Elements and relationships are clearly described.
 
 - The map reflects refinement based on research indicated in the comments.
 
@@ -158,8 +195,8 @@ Common issues may include:
 
 - causal direction or polarity inconsistently specified
 
-- limited explanation of modeling choices in `.dot` comments
- 
+- limited explanation of modeling choices in `.gv` comments
+
 - revisions visible but not well explained
 
 
@@ -179,26 +216,30 @@ Typical signs include:
 
 - no identifiable feedback structure
 
-- little or no reasoning visible in `.dot` file comments 
+- little or no reasoning visible in `.gv` file comments
+
+*(Note: this tier is for a map that renders but shows weak revision. A map that does not render at all is 0 points under the Format Check above, not 5 points here.)*
 
 ## Research Summary Memo — 10 points
+
+This component is **not** subject to the Format Check above — it is a separate Word/PDF reasoning artifact.
 
 ### Meets Requirements (10)
 
 The memo clearly explains **how research shaped the system model**.
 
 - Describes how the system map guided the team’s research
-    
+
 - Identifies relationships or elements that required investigation
-    
+
 - Explains how specific sources confirmed, challenged, or refined the model
-    
+
 - Describes revisions to elements or causal relationships
-    
+
 - Identifies areas of uncertainty or weak evidence
-    
+
 - Includes clear citations to key sources
-    
+
 
 The memo makes the team’s **reasoning process visible**.
 
@@ -211,13 +252,13 @@ Research is present but **not strongly connected to the system model**.
 Common issues may include:
 
 - sources summarized rather than used to test the system
-    
+
 - revisions mentioned but not clearly explained
-    
+
 - weak connection between evidence and system changes
-    
+
 - uncertainty acknowledged only briefly
-    
+
 
 The memo shows effort but **limited analytical use of research**.
 
@@ -230,9 +271,9 @@ The memo does **not demonstrate how research informed the system model**.
 Typical signs include:
 
 - reads like a literature summary
-    
+
 - little discussion of causal relationships or system structure
-    
+
 - revisions to the system map not explained
-    
+
 - minimal or unclear citations
