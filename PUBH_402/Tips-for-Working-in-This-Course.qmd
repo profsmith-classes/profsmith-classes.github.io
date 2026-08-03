@@ -31,7 +31,7 @@ If you are engaged with the health problem itself, the assignments usually take 
 
 # Why You Can't Save This for the End
 
-This is the most important practical warning on the page.
+This is the most important practical warning on this page.
 
 A systems map is built through **iteration**, not assembly. Iteration means to repeat the process over and over, generating a new and better version each times. You identify elements, connect them, notice the connections don't quite work, research, and revise — over weeks. There is no version of this course where you skip the weekly work and reconstruct a good map in the final days. The reasoning literally cannot be compressed into a single sitting.
 
@@ -84,7 +84,11 @@ These are understandable habits from other courses — but they don't work well 
 
 Starting in Module 4, every `.gv` file you submit — the Revised System Map (Module 4), the Final System Map (Module 5), and the Final System Map (Module 7) — goes through a **Format Check** before anything else. Two requirements: the file has to actually render as a valid graph, and you have to submit a copy of the rendered image along with it.
 
-**If either check fails — the file doesn't render, or there's no rendered image — that component is zero points. There is no partial credit, and strong reasoning inside a file that doesn't render can't be evaluated, let alone rescue the score.** In Module 7 specifically, since the final map is the module's only deliverable, failing the Format Check zeroes the entire module.
+::: {.callout-important}
+## Zero Points for a Failed Format Check
+
+If either check fails — the file doesn't render, or there's no rendered image — that component is zero points. There is no partial credit, and strong reasoning inside a file that doesn't render can't be evaluated, let alone rescue the score. In Module 7 specifically, since the final map is the module's only deliverable, failing the Format Check zeroes the entire module.
+:::
 
 This is the most avoidable kind of point loss in the whole course, because it's mechanical, not a judgment call:
 
@@ -104,7 +108,7 @@ Compare:
 - **Too abstract:** "Policy and financing influence outcomes."
 - **Specific:** "Our inclusion of Medicaid reimbursement rates connects to primary care capacity, which then affects emergency department utilization. Access to primary care reduces emergency department visits, which in turn reduces wait times and improves patient outcomes."
 
-The second version shows reasoning. The first could have been written without doing any of the work. Whenever you're asked what you think, point at specific elements, relationships, feedback loops, or boundary choices in your map. Uncertainty is expected; vagueness is not.
+The second version shows reasoning. The first could have been written without doing any of the work and can be easily applied to any problem in the U.S. health care system. Whenever you're asked what you think, point at specific elements, relationships, feedback loops, or boundary choices in your map. Uncertainty is expected; vagueness is not.
 
 # Using AI as an Adversarial Critic (Modules 5–6)
 
@@ -176,7 +180,14 @@ If something isn't working:
 Team friction is not a sign of a bad team — it's often a sign that the system is doing real work.
 
 ::: {.callout-tip}
-And don't pause the whole project waiting on an unresponsive teammate; make reasonable attempts to reach them, document your efforts, and keep moving.
+## An Unresponsive Teammate Is Not a Reason to Stop
+
+Don't pause the whole project waiting on a teammate who's gone quiet. Concretely:
+
+- Message them through at least two channels (e.g., email and whatever your team uses day-to-day).
+- Give them a specific, reasonable deadline to respond — not an open-ended wait.
+- If they miss it, keep moving on the parts of the map you can move on without them.
+- Email me if the silence continues past that deadline, and note it in your next check-in. Documenting the attempt is what protects you — and your teammate — from being penalized for someone else's non-participation.
 :::
 
 # How Grading Works Here (Briefly)

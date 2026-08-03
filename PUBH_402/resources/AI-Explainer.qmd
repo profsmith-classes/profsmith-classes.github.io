@@ -13,7 +13,7 @@ class: "402"
 
 ## 1. What AI Is — And Isn't
 
-An AI tool like ChatGPT, Claude, or Gemini predicts plausible next words based on patterns in enormous amounts of text. That's a genuinely useful capability — it can hold a lot of context, connect ideas quickly, and describe unfamiliar concepts clearly. It is not:
+An AI tool like ChatGPT, Claude, or Gemini predicts plausible next words based on patterns in enormous amounts of text. That's a genuinely useful capability — it can hold a lot of context, connect ideas quickly, and describe unfamiliar concepts clearly. [**It is not**]{.underline}:
 
 - **A mind that knows your system.** It has no access to your team's map, your research, or your health problem unless you put that information in front of it. It cannot "remember" your project between conversations unless you paste the relevant material back in each time.
 - **A source of truth.** It can state a fabricated citation, an invented statistic, or a false claim about the U.S. health care system with exactly the same confident tone it uses for something true. This is not a rare glitch — it's a structural feature of how these tools generate text. Fluent and confident is not the same as correct.
