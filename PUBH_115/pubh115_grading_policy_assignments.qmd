@@ -5,6 +5,7 @@ class: "115"
 categories: "syllabus"
 
 ---
+
 # Grading Policy
 
 ## Grading Scale

@@ -10,6 +10,7 @@ If you are taking this course for graduate credit, you must also complete this a
 # Second-Order Systems Analysis: Model Limits, Power, and Governance
 
 Applies only to students taking PUBH 402 for graduate credit.
+
 ## Purpose
 
 This assignment asks you to step back from your system map and analyze it as an _object of inquiry itself_.
@@ -79,6 +80,7 @@ Discuss:
 - How alternative modeling choices might lead to different interpretations or leverage points
 
 This section should make clear that systems models are **interpretive tools**, not neutral representations of reality.
+
 ### 4. Implications for Action and Knowledge
 
 Reflect on what your analysis implies for intervention and knowledge production.
@@ -100,6 +102,7 @@ Do **not** propose a specific policy. Focus on the _limits_ of action and explan
 - **Margins:** 1" on all sides
 - **Citations:** Required where relevant; quality over quantity
 - **Submission type:** Individual (not team-based)
+
 ## Due Date
 
 This assignment is due **at the same time as the Module 7 final submission**.

@@ -6,6 +6,7 @@ class: "115"
 categories: "syllabus"
 
 ---
+
 # Course Calendar
 
 This course calendar provides an overview of the topic for each week. Dates indicate the Monday of the week that you should complete the assignment. **Bold dates are specific due dates.** Some topics and modules span multiple weeks. You will be asked to complete reading assignments, watch lectures, and complete other activities for each module.

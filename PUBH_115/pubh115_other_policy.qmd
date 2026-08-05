@@ -6,6 +6,7 @@ class: "115"
 categories: "syllabus"
 
 ---
+
 # Technical Issues
 
 ## Canvas Issues

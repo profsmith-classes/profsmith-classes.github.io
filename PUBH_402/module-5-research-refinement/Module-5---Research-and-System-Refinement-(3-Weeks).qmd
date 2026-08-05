@@ -8,6 +8,7 @@ class: "402"
 # Module Orientation
 
 You have built your map, you have started your research, you have updated your systems map based on your questions.  Now, you will repeat what you did in Module 4 except that you now will be creating your final list of elements and your final systems map that will be the basis of your analysis of your health problem.
+
 # Core Concepts and Materials
 
 You should be using your map now to ask the same questions from Module 4:
@@ -147,8 +148,10 @@ Not submitting is scored separately from, and more harshly than, submitting a we
 - Annotations may be inline or footnote
 
 Make sure your team number, section, and names are on your memo.
+
 ## Submission location:
 Canvas
+
 # How This Will Be Evaluated
 
 ## Final System Map — 10 points

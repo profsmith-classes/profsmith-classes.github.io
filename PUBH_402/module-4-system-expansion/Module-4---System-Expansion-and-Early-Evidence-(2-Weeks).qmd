@@ -14,9 +14,11 @@ The goal is not to make your system map prettier or bigger for its own sake. The
 At this stage, a good system map is one that **creates productive uncertainty**. Confusion here is not a failure; it is evidence that the system is starting to behave like a system rather than a diagram.
 
 **Individual loop ownership begins now.** At the end of Module 3, your team identified at least one provisional feedback loop together. Starting in this module, each team member takes individual ownership of developing one loop in depth. Loops are built so that they share elements with at least one other teammate's loop — the point is not to give you a private corner of the map to work on alone, but to make sure that developing your loop well requires understanding how it connects to your teammates' loops. A team that divides the map without doing this collaborative thinking will produce a map that is visibly broken, not just shallow.
+
 # What You Should Be Able to Do After This Module
 
 By the end of this module, you should be able to use your system map to drive research questions focused on better-understanding your health care problem.
+
 # Core Concepts and Materials
 
 You should be using your map now to surface questions like:
@@ -49,6 +51,7 @@ Consider:
 - Where does your current map feel strongest or weakest after engaging this material?
 
 Your system map should evolve as you move through modules
+
 # Module Deliverables
 
 ## What to submit
@@ -78,6 +81,7 @@ This is an *evolution* of your prior map, not starting over.
 	- Explain *why* that decision makes sense given how the system is now behaving and what you know now.
 2. You may also propose **new elements** that were not part of the original list if—and only if—you can justify their inclusion structurally (what they do in the system, not just why they seem important). If you propose new elements, provide the name of the element, the areas (if any) you think it belongs in, and a sentence why it is important
 3. Write this reconsideration up as `//` comments in your `.gv` file — **not** as new nodes or edges. Only elements and relationships that are actually part of your map should appear as node or edge lines; a reconsideration note written as a real node/edge (rather than a comment) can break the file's ability to render.
+
 ### Brief memo (reflection on system behavior)
 
 Submit a short memo (concise, not polished prose) that addresses:
@@ -95,8 +99,10 @@ This memo is not a literature review. It is a snapshot of your thinking as it en
 **Element Reconsideration**: Include your element list and reasoning in your `.gv` file **as comments** (`//` lines) — not as nodes or edges — so it doesn't affect whether the file renders.
 
 **Brief Memo**: Standard memo format, Word or PDF, Times New Roman, 10pt, 1.5 spacing, 1" margins. Make sure your team number, section, and names are on your memo.
+
 ## Submission location:
 Canvas
+
 # Module 4 Grading Criteria
 
 Each component of Module 4 is graded separately. Each component is worth **5 points** (15 points total for the module).

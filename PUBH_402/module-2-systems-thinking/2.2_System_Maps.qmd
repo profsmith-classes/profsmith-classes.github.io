@@ -164,7 +164,7 @@ digraph delay {
 }
 ```
 
-If the polarity is unclear, document that uncertainty rather than guessing.
+This graph can be read as saying "An increase in public health funding results in an increase in preventive services but only after a delay. The effect is not immediate." Take a moment and consider why and how a delay might affect this situation of funding and prevention.[^1] If the polarity is unclear, document that uncertainty rather than guessing.
 
 ### Guiding Principle
 
@@ -211,7 +211,7 @@ digraph thermostat {
 
 A **reinforcing loop** is a feedback structure in which a change in one element sets off a chain of effects that **amplifies that original change over time**. In a reinforcing loop, growth leads to more growth, or decline leads to further decline. These loops are responsible for escalation, runaway dynamics, and path dependence. They do not require intent or coordination—once the structure is in place, the loop reinforces whatever direction the system is already moving. Examples include compounding wealth, increasing traffic demand after road expansion, or intensified police surveillance producing more data that justifies further surveillance.
 
-Here is the surveillance example. Every link is positive (zero negative links, an even number), which makes the loop **reinforcing**.
+Here is a surveillance example. Every link is positive (zero negative links, an even number), which makes the loop **reinforcing**.
 
 ```{dot}
 //| label: fig-reinforcing
@@ -226,6 +226,8 @@ digraph surveillance {
   "Perceived Need for Surveillance" -> "Surveillance Intensity"          [label="+"]
 }
 ```
+
+Meadows describes them this way in her book:
 
 >"Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself. - Meadows, p. 15
 
@@ -243,6 +245,9 @@ For our class, we will follow these notation rules for systems maps:
 - Delay = `||`
 - Reinforcing Loop = `R`
 - Balancing Loop = `B`
+
+
+[^1]: If a policy maker allocates funding for a public health problem based on the public health data today and does not account for the delay and an increase in incidence or prevalence, the funding will not be enough.  The policy maker needs to allocate enough funding to tackle the problem as it will exist after the delay.
 
 ## Next page of the module
 

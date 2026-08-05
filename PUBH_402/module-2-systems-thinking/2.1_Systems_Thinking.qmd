@@ -10,7 +10,7 @@ Read Chapter 1 of Meadow's book on systems thinking.  [This is available on Canv
 
 # Overview Video
 
-You can watch an overview of this material using the example of traffic. [Overview Video](https://vimeo.com/1157392633/3dfba25803?share=copy&fl=sv&fe=ci)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1157392633?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="2026 01 05 System Thinking Overview"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 # Systems Thinking: Seeing Structure Through a Simple Example
 
@@ -30,10 +30,10 @@ A system is an interconnected set of elements that is coherently organized in a 
 :::
 
 ## Elements
-The things we can usually see. The elements that make up our traffic system include things like: "cars on the road," "travel time," "road capacity." Elements do not have to be things one can see. They can be intangible things. e.g. "Perceived ease of driving," "Perceived cost of driving."  We can't see these things but they exist.  Elements are nouns.
+The things we can usually see. The elements that make up our traffic system include things like: "cars on the road," "travel time," "road capacity." Elements do not have to be things one can see. They can be intangible things. e.g. "Perceived ease of driving," "Perceived cost of driving."  We can't see these things but they exist.  Elements are nouns.[^1]
 
 ## Interconnections
-The relationships between elements (how congestion affects speed, how travel time affects demand).  Some interconnections are physical flows, e.g. cars moving on the road.  Some are flows of information or signals that change the behavior of a system, e.g. brake lights.
+The relationships between elements (how congestion affects speed, how travel time affects demand).  Some interconnections are physical flows, e.g. cars moving on the road.  Some are flows of information or signals that change the behavior of a system, e.g. brake lights.[^2]
 
 ## Purpose or function
 What the system actually does, inferred from its behavior over time. A key move in systems thinking is recognizing that a system’s purpose is revealed by its outcomes, not by its stated goals. If congestion repeatedly returns after expensive interventions, that recurrence tells us something true about how the system is structured.
@@ -77,14 +77,14 @@ Examples include births and deaths, construction and decay, funding and spending
 
 |Stock Example|Flow Example|
 |-------------|------------|
-|Number of hospital beds|Construction and decay of hospital infrastructure|
+|Number of hospital beds|Construction and delay of hospital infrastructure|
 |Percentage of population with access to a hospital|Enrollment and disenrollment from health plans|
 |Percentage of persons in an employer-based health plan|Unemployment and employment rates|
 |Level of trust in medical institutions|Trust-building and trust-eroding activities|
 |Percentage of fee-for-service reimbursement arrangements|Changes in reimbursement policies|
 |Total number of persons living in a high-risk area|Availability and affordability of housing|
 
-Stocks change slowly because flows operate over time. This gives systems memory and explains why systems often respond to interventions with delays.  If we think of the example above, the number of hospital beds (a stock) changes slowly because construction and decay (flows) occur over time. Yet, the percentage of population with access to a hospital (another stock) changes more rapidly because enrollment and disenrollment (flows) can happen more frequently. So, the rate of change in a stock depends on the frequency and magnitude of its associated flows.
+Stocks change slowly because flows operate over time. This gives systems memory and explains why systems often respond to interventions with delays.  If we think of the example above, the number of hospital beds (a stock) changes slowly because construction and delay (flows) occur over time. Yet, the percentage of population with access to a hospital (another stock) changes more rapidly because enrollment and disenrollment (flows) can happen more frequently. So, the rate of change in a stock depends on the frequency and magnitude of its associated flows.
 
 ## Stocks, Flows, and Accumulation
 Systems behave the way they do because of **accumulation**. Some elements of a system build up over time (stocks), while others control the rate at which those stocks change (flows). Infrastructure, workforce capacity, chronic disease burden, trust, and institutional legitimacy are all examples of stocks. Funding rates, enrollment rates, exposure levels, and staffing turnover are flows. Many failed interventions target flows while ignoring the stocks they influence, leading to delayed or disappointing results. Understanding this distinction helps explain why systems often respond slowly to change and why short‑term fixes rarely resolve long‑term problems.
@@ -338,3 +338,6 @@ You cannot choose a leverage point until you understand the dominant feedback lo
 
 
 Next page in this module [System Maps](2.2_System_Maps.qmd).
+
+[^1]: In Graphviz and other graph-drawing tools, an **element** is called a **node**.
+[^2]: In Graphviz and other graph-drawing tools, an **interconnection** is called an **edge**.

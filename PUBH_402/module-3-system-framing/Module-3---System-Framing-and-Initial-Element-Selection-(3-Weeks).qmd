@@ -35,12 +35,15 @@ By the end of this module, you should be able to:
 3. Create a first draft of your system map by creating a `.gv` file.
 
 These describe *ways of thinking*, not tasks to complete.
+
 # Core Concepts and Materials
 
-Your team's goal here is to create the first draft of your systems analysis. If you need to, review [2.1 Systems Thinking](../module-2-systems-thinking/2.1_Systems_Thinking.qmd) in Module 2 - Systems Thinking Foundations as this module will rely on those concepts.
+Your team's goal here is to create the first draft of your systems analysis. If you need to, review [2.1 Systems Thinking](../module-2-systems-thinking/2.1_Systems_Thinking.qmd) in Module 2 - Systems Thinking as this module will rely on those concepts.
+
 ## System Framing
 
 Think about your problem and as a team outline some boundaries for your work.  What topics might you include and what topics would be outside your system?  What measures will you look at to explore the problem?   What is the outcome you would like to see if this problem were solved
+
 ## Element Selection
 
 You are provided with a [structured list](../resources/System-Elements.qmd) of system elements representing major domains of the U.S. health care and public health system, including:
@@ -131,10 +134,13 @@ For the elements in an area that you did not select, provide:
 - the **element name**
 - The **category** it belongs to
 - and **one sentence** explaining why your team did not choose this element.
+
 ### Format:
 Word document or PDF with 1" margins all around, Times New Roman, 10pt, 1.5 spacing.  Use the template provided on Canvas attached to the assignment.
+
 ### Submission location
 - Canvas - Module 3 Element List
+
 ## 2. Graphviz `.gv` file
 
 Use the [Systems Map Template](../resources/Systems-Map-Template.qmd) as the basis for your team's .gv file. Your file must:

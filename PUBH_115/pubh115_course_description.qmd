@@ -6,6 +6,7 @@ class: "115"
 categories: "syllabus"
 
 ---
+
 # Course Description
 
 How environmental and safety hazards influence public health and sustainability. Multiple perspectives on water, air, and solid waste pollution, sustainability and public safety issues.

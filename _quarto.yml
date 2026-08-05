@@ -53,21 +53,59 @@ website:
           - text: "Graduate Student Assignment"
             href: PUBH_402/Graduate-Student-Assignment.qmd
           - section: "Module 1: Team Formation and Project Framing"
-            contents: PUBH_402/module-1-team-formation-and-Project-Framing/
+            contents:
+              - text: "Module 1 - Team Formation and Project Onboarding"
+                href: PUBH_402/module-1-team-formation-and-Project-Framing/Module-1---Team-Formation-and-Project-Onboarding.qmd
+              - text: "Module 1 - Topic List"
+                href: PUBH_402/module-1-team-formation-and-Project-Framing/Module-1-topic-list.qmd
           - section: "Module 2: Systems Thinking"
-            contents: PUBH_402/module-2-systems-thinking/
+            contents:
+              - text: "2.1 Systems Thinking"
+                href: PUBH_402/module-2-systems-thinking/2.1_Systems_Thinking.qmd
+              - text: "2.2 System Maps"
+                href: PUBH_402/module-2-systems-thinking/2.2_System_Maps.qmd
+              - text: "2.3 Systems Thinking Tips"
+                href: PUBH_402/module-2-systems-thinking/2.3_Systems_Thinking_Tips.qmd
           - section: "Module 3: System Framing"
-            contents: PUBH_402/module-3-system-framing/
+            contents:
+              - text: "Module 3 - System Framing and Initial Map (3 Weeks)"
+                href: "PUBH_402/module-3-system-framing/Module-3---System-Framing-and-Initial-Element-Selection-(3-Weeks).qmd"
           - section: "Module 4: System Expansion"
-            contents: PUBH_402/module-4-system-expansion/
+            contents:
+              - text: "Module 4 - System Expansion and Early Evidence (2 Weeks)"
+                href: "PUBH_402/module-4-system-expansion/Module-4---System-Expansion-and-Early-Evidence-(2-Weeks).qmd"
           - section: "Module 5: Research Refinement"
-            contents: PUBH_402/module-5-research-refinement/
+            contents:
+              - text: "Module 5 - Research and System Refinement (3 Weeks)"
+                href: "PUBH_402/module-5-research-refinement/Module-5---Research-and-System-Refinement-(3-Weeks).qmd"
           - section: "Module 6: Interpretation and Leverage"
-            contents: PUBH_402/module-6-interpretation-leverage/
+            contents:
+              - text: "Module 6 - Interpretation and Leverage (2 Weeks)"
+                href: "PUBH_402/module-6-interpretation-leverage/Module-6---Interpretation-and-Leverage-(2-Weeks).qmd"
           - section: "Module 7: Synthesis and Final Submission"
-            contents: PUBH_402/module-7-synthesis-and-final-submission/
+            contents:
+              - text: "Module 7 - Synthesis and Final Submission (1 Week)"
+                href: "PUBH_402/module-7-synthesis-and-final-submission/Module-7---Synthesis-and-Final-Submission-(1-Week).qmd"
           - section: "Resources"
-            contents: PUBH_402/resources/
+            contents:
+              - text: "AI Explainer"
+                href: PUBH_402/resources/AI-Explainer.qmd
+              - text: "CSV Explainer"
+                href: PUBH_402/resources/CSV-Explainer.qmd
+              - text: "Class AI Policy"
+                href: PUBH_402/resources/Class-AI-Policy.qmd
+              - text: "Coffee Shop Example Graphviz"
+                href: PUBH_402/resources/Coffee-Shop-Example-Graphviz.qmd
+              - text: "DOT/GV Explainer"
+                href: PUBH_402/resources/DOT-Explainer.qmd
+              - text: "Research Resources"
+                href: PUBH_402/resources/Research-Resources.qmd
+              - text: "System Elements"
+                href: PUBH_402/resources/System-Elements.qmd
+              - text: "System Elements Template (Graphviz)"
+                href: PUBH_402/resources/System-Elements-Template.qmd
+              - text: "Systems Map Template (Graphviz)"
+                href: PUBH_402/resources/Systems-Map-Template.qmd
 
 format:
   html:
