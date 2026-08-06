@@ -16,9 +16,11 @@ Meeting Location and Times:  Online.  All work is completed online.  There are n
 ## Course Description
 
 Addresses concepts related to U.S. health services organization, delivery, financing, and quality assessment and improvement. Historical influences and trends, contemporary challenges, and strategies to address these challenges are examined.
+
 ## Prerequisites
 
 PUBH 320 or graduate standing
+
 ## Course Learning Objectives
 
 The following are the approved learning objectives for the course.
@@ -30,6 +32,7 @@ The following are the approved learning objectives for the course.
 6. Research and synthesize literature to develop recommendations for U.S. healthcare problems.
 7. Synthesize and present research summaries and recommendations.
 8. Critically evaluate the advantages and disadvantages of healthcare recommendations
+
 ## Assessment Guide
 
 This table indicates which assignment primarily assesses each objective.
@@ -49,6 +52,7 @@ This table indicates which assignment primarily assesses each objective.
 ## Instructor
 
 Jason A. Smith, MTS, JD
+
 ### Instructor Bio
 
 My name is Jason Smith.  I have taught in the CSU for over a decade. Before joining CSUF, I taught at CSU East Bay, the University of Connecticut School of Medicine and Northeastern University School of Law.
@@ -114,7 +118,6 @@ Specific due dates and exam dates are on Canvas and below.  You can view the sho
 | **Last day to submit withdrawal for non-medical reason with W on transcript** | —                       |                                                                                                                 | **Fri Nov 13, 2026**                                    |
 | **Module 6 + Module 7 (combined due date)**                                   | Nov 9–22 (2 weeks)     | Interpreting system behavior and identifying leverage points; full system synthesis and final map               | Veterans Day **Wed Nov 11** (Campus Closed). Individual memo, drafted critique skill, response (Module 6) and Final System Map (Module 7, Format Check) both due **Fri Nov 20**. |
 | **Fall Recess**                                                               | Nov 23–27              | No classes                                                                                                       | Campus closed all week                                  |
-| **Buffer for Final Exam writing**                                             | Nov 30–Dec 11          | Writing Final Exam Section 3's individualized questions off Module 7 maps                                       | Last day of classes **Fri Dec 11**.                     |
 | **Final Exam**                                                                | —                      |                                                                                                                 | Open window during Finals Week (**Dec 13–19**) — no single fixed date/time; students may complete it at any point during the open period. |
 
 ## Weekly Calendar
@@ -137,20 +140,21 @@ The table above groups several weeks together under a single Module row. This ta
 | 12 | Nov 9–15 | Module 6 + 7 (1 of 2): Interpretation, Leverage & Synthesis | — | Veterans Day Wed Nov 11, campus closed. Last day to withdraw with a W: Fri Nov 13. |
 | 13 | Nov 16–22 | Module 6 + 7 (2 of 2), continued | — | Individual memo, drafted critique skill, response (Module 6) and Final System Map (Module 7, Format Check) both due Fri Nov 20. |
 | 14 | Nov 23–29 | Fall Recess — no new instruction | — | Campus closed all week, Nov 23–27. |
-| 15 | Nov 30–Dec 6 | Buffer for Final Exam writing — no new module content | Use this week to prepare for the Final Exam | — |
-| 16 | Dec 7–11 | Buffer for Final Exam writing, continued | — | Last day of classes Fri Dec 11. |
 | Finals Week | Dec 13–19 | Final Exam | — | Open window, no single fixed date/time — complete any time during Dec 13–19. |
 
 Specific chapter assignments from the required text (Knickman & Elbel, *Jonas & Kovner's*) by week are still being finalized.
 
 # Attendance Policy
 None
+
 # Make Up Work
 
 Make up work is not accepted.
+
 # Late Submissions
 
 Late submissions will receive a one-time 5% reduction of the assignment grade.
+
 # Grading Policy
 
 ## Grading Scale
@@ -195,6 +199,7 @@ Exam 2 (Final Exam) - 23%
 ## Extra Credit
 
 There is not extra credit in this course
+
 # Required Assignments
 
 ## Individual Assignments
@@ -226,6 +231,7 @@ There is no single fixed date/time for the Final Exam. It will be open for you t
 The final exam is an individual assessment of your understanding of the organization and financing of the U.S. health care system. The exam is primarily multiple choice and focuses on explanation and reasoning rather than memorization. Questions will ask you to interpret short scenarios and identify which explanations or outcomes are most consistent with how the U.S. health care system is structured, including financing, payment, governance, access, and equity. You are not expected to recall exhaustive factual detail or definitions; instead, you are expected to demonstrate the ability to connect system components, recognize constraints and tradeoffs, and explain why certain patterns or outcomes persist. The exam is designed to reward clear reasoning and synthesis developed over the course of the term rather than rote recall.
 
 ## Group Assignment
+
 ### Systems Analysis of the US Health Care System
 
 Assignments in the Systems Analysis Project are evaluated using a single diagnostic question rather than a rubric:
@@ -233,6 +239,7 @@ Assignments in the Systems Analysis Project are evaluated using a single diagnos
 > Does this work demonstrate the kind of systems thinking I expect at this stage of the project?
 
 Work is graded with one of three levels: **Yes** (Full Credit), **Partially** (Partial Credit), **Not Yet** (Minimal Credit). Grammar, formatting, and technical polish are not graded directly, but work must be intelligible. If technical problems prevent evaluation of reasoning or system structure, the assignment may receive partial or minimal credit.
+
 #### Due Dates
 
 | Module                                                   | Assignment Name                                     | Due Date              |
@@ -249,6 +256,7 @@ Work is graded with one of three levels: **Yes** (Full Credit), **Partially** (P
 |                                                          | **Team Checkpoint 2**                               | **November 6, 2026**     |
 | **Module 6: Interpretation & Leverage**                  | **System Interpretation & Leverage Analysis**       | **November 20, 2026**    |
 | **Module 7: Synthesis & Final Submission**               | **Final System Map**                                | **November 20, 2026**       |
+
 ### Team Check-Ins
 
 This course includes substantial team-based work. Team work is used to support learning, not to measure effort, personality, or time spent on tasks. In this course, **contribution is understood as demonstrated understanding** of the system being analyzed.
@@ -274,6 +282,7 @@ If a student appears to be struggling to understand or engage with the system, t
 Escalation beyond this step is rare and always focused on supporting learning. Group grades are not reduced because of individual difficulties. Confusion and revision are expected parts of systems thinking, especially early in the project.
 
 This approach is intended to promote fairness, reduce conflict, and keep the focus on learning how complex public health systems function rather than on managing interpersonal dynamics.
+
 # Course Communications
 
 ## A note on questions, confusion, and communication
@@ -295,24 +304,32 @@ If you feel confused and don't know what to ask yet — that _is_ the moment to 
 :::
 
 # Technical Issues and Competencies
+
 ## Technical Problems and Documentation Policy
 
 This course uses multiple platforms with distinct roles. It is your responsibility to use them appropriately and to report technical problems promptly and through the correct channel.
+
 ### Canvas Technical Failures
 Issues involving Canvas access, submissions, quizzes, or grades must be reported to me **immediately**. After notifying me, you are expected to contact campus IT Services (ITS) and follow their procedures. Documentation from ITS may be required. Canvas problems reported after a deadline, without prior notice or documentation, will not be accommodated.
+
 ### Course Website Issues
 Problems accessing or using the course website materials should be reported directly to me. This platform is part of the course infrastructure, but it is not centrally supported by the university. Timely communication is required.
+
 ### Personal Technical Problems
 Problems with your own computer, internet connection, software, file corruption, browser issues, time zone settings, or general device failure are **not** grounds for extensions or exceptions. You are expected to maintain reliable access to a functioning computer and internet connection for an online course.
+
 ### Timing and Documentation
 Technical issues must be reported as soon as they occur. Waiting until or after a deadline to report a problem substantially limits what, if anything, can be done. Screenshots, error messages, timestamps, or ITS documentation may be required.
+
 ### Bottom Line
 This is an asynchronous online course. Managing your technology is part of managing the course. Legitimate system failures will be handled fairly when reported promptly and through the correct channel. Personal technical failures remain your responsibility.
+
 ## Required Technical Competencies
 
 Most students can develop or refresh these skills on their own with a bit of practice. If you already feel comfortable with them, great. If not, this list is here to help you get oriented early.
 
 The goal is **functional comfort**, not mastery.
+
 ### Working with CSV Files (Tabular Data)
 
 In this course, data are often provided as CSV (comma-separated values) files. CSV files are simple text-based tables used widely in research and policy work.
@@ -375,13 +392,14 @@ See how many of these you can do comfortably:
 - I understand that these tools are being used to help me think clearly about systems, not to test my technical ability.
 
 If several of these feel unfamiliar, that's okay. It's a signal to spend a bit of time with the resources above early in the term.
+
 ### Final Note on Technical Competencies
 
 These skills are easiest to learn by **doing small things**, not by watching long videos. Expect to make mistakes. When something behaves unexpectedly, pause and ask: *What assumption did I just make?*
 
 # Student Resources
 
-CSUF hosts a website for students with important policies and information for students.  Please take a moment to review this site: [Important Information for Students](http://fdc.fullerton.edu/teaching/student-info-syllabi.html)
+CSUF hosts a website for students with important policies and information for students.  Please take a moment to review this site: [Important Information for Students](https://fdc.fullerton.edu/teaching/student-info-syllabi.html)
 
 # Policy on Student Use of AI
 
@@ -411,6 +429,7 @@ If you used AI tools at any point in completing an assignment, include a brief d
 > All analysis, interpretation, and final conclusions are my own, and I reviewed and verified any AI-assisted content for accuracy and appropriateness.
 
 If you did not use AI tools, no disclosure is required.
+
 # Instructor Use of AI
 
 In designing this course, its materials, and its assessments, I use AI tools as part of my drafting, synthesis, and analytic workflow. This may include supporting course design, developing rubrics, testing assessment logic, and assisting with large-scale evaluation under criteria that I define and control. I remain fully responsible for all instructional, evaluative, and grading decisions, and no automated system operates independently of my judgment. This disclosure is provided to model transparency about AI as an intellectual and administrative tool, not to imply equivalence between instructor and student responsibilities.
