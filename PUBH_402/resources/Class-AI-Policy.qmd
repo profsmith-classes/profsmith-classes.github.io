@@ -43,7 +43,7 @@ This is different from Section 1: it is not "you may use AI" but **AI built dire
 
 **Course design.** I use AI tools as part of my drafting, synthesis, and analytic workflow — supporting course design, developing rubrics, testing assessment logic, and assisting with large-scale evaluation under criteria I define and control. I remain fully responsible for all instructional, evaluative, and grading decisions; no automated system operates independently of my judgment. This disclosure models transparency about AI as an intellectual and administrative tool — it does not imply equivalence between instructor and student responsibility.
 
-**Grading support.** I use AI for a first-pass review of student submissions to support my own grading. This is scoped to **triage and surfacing only — never scoring**: it can flag patterns, surface items for review, or help organize submissions for evaluation, but it does not assign scores or make final grading determinations.
+**Grading support.** I use AI for a first-pass review of student submissions to support my own grading. This is scoped to **triage and surfacing only — never scoring**: it can flag patterns, surface items for review, or help organize submissions for evaluation, but it does not assign scores or make final grading determinations. Before any student work is reviewed this way, identifying information (names, student IDs) is removed — the AI tool never sees submissions tied to your identity.
 
 **Final exam grading** is scoped the same way — triage/surfacing only, not scoring — driven by legal defensibility concerns specific to a summative, individually-weighted assessment.
 
