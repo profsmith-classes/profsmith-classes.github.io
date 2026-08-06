@@ -9,6 +9,8 @@ class: "402"
 
 You have built your map, you have started your research, you have updated your systems map based on your questions.  Now, you will repeat what you did in Module 4 except that you now will be creating your final list of elements and your final systems map that will be the basis of your analysis of your health problem.
 
+**A required AI-adversarial critique exercise is part of this module.** As part of [Team Checkpoint 2](#team-checkpoint-2-individual-check-in) below, you will draft a critique skill (the actual instructions you give an AI), use it to stress-test one causal claim in your own individually-owned loop, and write a response to what it finds. This is not optional and not extra credit — it's built directly into the Team Checkpoint 2 submission your individual score depends on. See the [AI Explainer](../resources/AI-Explainer.qmd) and the [Critique Skill Template](../resources/Critique-Skill-Template.qmd) for how to do this well. The skill draft itself is **ungraded** at this stage — low-stakes practice before Module 6, where you'll write a stronger version of the same kind of artifact for a grade.
+
 # Core Concepts and Materials
 
 You should be using your map now to ask the same questions from Module 4:
@@ -17,7 +19,7 @@ You should be using your map now to ask the same questions from Module 4:
 - Which relationships feel directionally right but poorly specified?
 - What feedback loops seem implied but not fully articulated?
 - What elements did I exclude earlier that now appear structurally important?
-- What assumptions would need to be true for this system to behave as I’ve drawn it?
+- What assumptions would need to be true for this system to behave as I've drawn it?
 - Are there elements missing from this map and from the provided list of elements?  Do we need new elements?
 - Do we need to adjust the structure of the system map based on our further research?
 
@@ -110,7 +112,19 @@ You are being evaluated on _use_, not quantity.
 
 This is an **individual**, private submission — not a team deliverable. It is graded for completion/understanding and is not shared with your teammates. By this point loop ownership is individual, so this checkpoint tests your depth on the loop you personally own, plus whether research actually changed anything in it.
 
-As part of this checkpoint, you'll also run a light AI-adversarial-critique exercise on **your own loop** (not your team's whole map) — including drafting the actual critique skill (the instructions you give the AI). This is your first attempt at the kind of critique skill you'll write again, for a grade, in Module 6 — here it's ungraded practice.
+#### This checkpoint requires an AI-adversarial critique — read this before you start
+
+This is not optional, and it is not a separate assignment you can skip: **questions 3 and 4 below require you to have actually drafted a critique skill and run it against your own loop.** You cannot complete this checkpoint without doing the exercise first. Budget time for it before the due date, not the night before.
+
+What you must do, in order:
+
+1. **Draft a critique skill** — the actual written instructions you would give an AI, specifying exactly what to check for in your loop (e.g., unsupported causal claims, missing polarity justification, weak mechanism, a loop that doesn't actually close). See the [AI Explainer](../resources/AI-Explainer.qmd) for how to draft a skill that's actually rigorous and how to tell a real critique from a superficial one, and the [Critique Skill Template](../resources/Critique-Skill-Template.qmd) for a blank, fill-in-the-blank structure to build it in.
+2. **Run that skill against your own individually-owned loop** — not your team's whole map.
+3. **Write a response** to what the AI's critique surfaced — this response, not the AI exchange itself, is what gets evaluated.
+
+**The skill draft is ungraded at this stage** — this is your first, low-stakes attempt before Module 6, where you'll write a stronger version of the same kind of artifact for a grade. Ungraded does not mean optional: it means the skill draft itself isn't scored for quality yet, but skipping the exercise leaves questions 3 and 4 below unanswerable.
+
+#### Checkpoint questions
 
 > 1. Which loop do you own? Walk through it end to end — every element, every connection, and the point where it closes back on itself.
 > 2. What did research add or change in *your* loop specifically? Point to one source and describe the revision it caused (a new element, a changed polarity, a corrected delay, etc.) — not a general summary of what you read.
@@ -159,7 +173,6 @@ Canvas
 **This component starts with a Format Check; it's evaluated on quality only if it passes.**
 
 First, your submission goes through the Format Check:
-
 - Your `.gv` file must be valid and must render successfully as a graph.
 - You must submit a copy of the rendered image along with the file.
 
@@ -231,7 +244,7 @@ This component is **not** subject to the Format Check above — it is a separate
 
 The memo clearly explains **how research shaped the system model**.
 
-- Describes how the system map guided the team’s research
+- Describes how the system map guided the team's research
 
 - Identifies relationships or elements that required investigation
 
@@ -244,7 +257,7 @@ The memo clearly explains **how research shaped the system model**.
 - Includes clear citations to key sources
 
 
-The memo makes the team’s **reasoning process visible**.
+The memo makes the team's **reasoning process visible**.
 
 ---
 
