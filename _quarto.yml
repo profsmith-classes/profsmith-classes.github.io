@@ -17,7 +17,7 @@ website:
 
   sidebar:
     style: "floating"
-    collapse-level: 3
+    collapse-level: 1
     search: true
     contents:
       - section: "Instructor Information"

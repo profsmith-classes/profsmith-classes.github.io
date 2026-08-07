@@ -164,10 +164,6 @@ Module 6 is worth **25 points**, split across three individually-graded componen
 | Response to the AI Critique | 10 |
 | **Total** | **25** |
 
-::: {.callout-note title="Point split and tier values confirmed"}
-The 7/8/10 split across these three components, and the tier point values within each component below, were confirmed by the instructor on 2026-07-28.
-:::
-
 ## 1. Individual Leverage Memo (7 points)
 
 This component is evaluated holistically, not section-by-section — it asks whether the memo as a whole demonstrates the kind of systems thinking expected at this stage of the project.
