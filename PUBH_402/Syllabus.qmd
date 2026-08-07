@@ -118,6 +118,7 @@ Specific due dates and exam dates are on Canvas and below.  You can view the sho
 | **Last day to submit withdrawal for non-medical reason with W on transcript** | —                       |                                                                                                                 | **Fri Nov 13, 2026**                                    |
 | **Module 6 + Module 7 (combined due date)**                                   | Nov 9–22 (2 weeks)     | Interpreting system behavior and identifying leverage points; full system synthesis and final map               | Veterans Day **Wed Nov 11** (Campus Closed). Individual memo, drafted critique skill, response (Module 6) and Final System Map (Module 7, Format Check) both due **Fri Nov 20**. |
 | **Fall Recess**                                                               | Nov 23–27              | No classes                                                                                                       | Campus closed all week                                  |
+| **Weeks 15–16**                                                               | Nov 30–Dec 11           | No new module content                                                                                          | Prepare for the Final Exam. Last day of classes **Fri Dec 11**. |
 | **Final Exam**                                                                | —                      |                                                                                                                 | Open window during Finals Week (**Dec 13–19**) — no single fixed date/time; students may complete it at any point during the open period. |
 
 ## Weekly Calendar
@@ -140,9 +141,11 @@ The table above groups several weeks together under a single Module row. This ta
 | 12 | Nov 9–15 | Module 6 + 7 (1 of 2): Interpretation, Leverage & Synthesis | — | Veterans Day Wed Nov 11, campus closed. Last day to withdraw with a W: Fri Nov 13. |
 | 13 | Nov 16–22 | Module 6 + 7 (2 of 2), continued | — | Individual memo, drafted critique skill, response (Module 6) and Final System Map (Module 7, Format Check) both due Fri Nov 20. |
 | 14 | Nov 23–29 | Fall Recess — no new instruction | — | Campus closed all week, Nov 23–27. |
+| 15 | Nov 30–Dec 6 | No new module content | — | Prepare for the Final Exam. |
+| 16 | Dec 7–11 | No new module content | — | Prepare for the Final Exam. Last day of classes Fri Dec 11. |
 | Finals Week | Dec 13–19 | Final Exam | — | Open window, no single fixed date/time — complete any time during Dec 13–19. |
 
-Specific chapter assignments from the required text (Knickman & Elbel, *Jonas & Kovner's*) by week are still being finalized.
+The required text (Knickman & Elbel, *Jonas & Kovner's*) is a standing reference for the course and is not assigned by chapter to specific weeks.
 
 # Attendance Policy
 None
