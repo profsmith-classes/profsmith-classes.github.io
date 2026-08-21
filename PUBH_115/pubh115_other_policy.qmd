@@ -40,6 +40,7 @@ The writing assignments in this course ask **you** to think about what **you fee
 - **Do not turn in the output of an LLM in this course. Turn in your own work instead.** I cannot express how little I care about an LLM's output to a prompt on the assignments for this course. I am, however, very interested in your writing, your thoughts, and how you answer the assignments.
 
 Remember: in almost all cases, your writing will only ever be read by exactly two people — you and me. Is it worth risking a failing grade when you could simply produce your own work?
+
 ---
 
 # Academic Integrity

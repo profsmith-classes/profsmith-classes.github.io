@@ -1,7 +1,6 @@
 ---
 title: "Welcome"
 date: "2026-06-17"
-description: "This is a class"
 draft: false
 class: "115"
 categories: "intro"

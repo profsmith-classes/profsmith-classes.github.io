@@ -104,7 +104,7 @@ A reliable computer with a current web browser and a stable internet connection 
 
 # Course Schedule
 
-Specific due dates and exam dates are on Canvas and below.  You can view the short video of how the course is structured if you need a refresh, [How This Course Fits Together](Welcome.qmd#how-the-course-modules-fit-together)
+Specific due dates and exam dates are on Canvas and below.
 
 | Module                                                                        | Weeks                  | Focus                                                                                                           | Key Dates / Notes                                       |
 | ----------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |

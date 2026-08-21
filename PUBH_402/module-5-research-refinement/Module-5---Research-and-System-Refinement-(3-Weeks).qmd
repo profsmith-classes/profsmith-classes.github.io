@@ -9,7 +9,7 @@ class: "402"
 
 You have built your map, you have started your research, you have updated your systems map based on your questions.  Now, you will repeat what you did in Module 4 except that you now will be creating your final list of elements and your final systems map that will be the basis of your analysis of your health problem.
 
-**A required AI-adversarial critique exercise is part of this module.** As part of [Team Checkpoint 2](#team-checkpoint-2-individual-check-in) below, you will draft a critique skill (the actual instructions you give an AI), use it to stress-test one causal claim in your own individually-owned loop, and write a response to what it finds. This is not optional and not extra credit — it's built directly into the Team Checkpoint 2 submission your individual score depends on. See the [AI Explainer](../resources/AI-Explainer.qmd) and the [Critique Skill Template](../resources/Critique-Skill-Template.qmd) for how to do this well. The skill draft itself is **ungraded** at this stage — low-stakes practice before Module 6, where you'll write a stronger version of the same kind of artifact for a grade.
+**A required AI-adversarial critique exercise is part of this module.** As part of [Team Checkpoint 2](#team-checkpoint-2-individual-check-in) below, you will draft a critique skill (the actual instructions you give an AI), use it to stress-test one causal claim in your own individually-owned loop, and write a response to what it finds. This is not optional and not extra credit — it's built directly into the Team Checkpoint 2 submission your individual score depends on. See the [AI Explainer](../resources/AI-Explainer.qmd) for how to do this well. The skill draft itself is **ungraded** at this stage — low-stakes practice before Module 6, where you'll write a stronger version of the same kind of artifact for a grade.
 
 # Core Concepts and Materials
 
@@ -118,7 +118,7 @@ This is not optional, and it is not a separate assignment you can skip: **questi
 
 What you must do, in order:
 
-1. **Draft a critique skill** — the actual written instructions you would give an AI, specifying exactly what to check for in your loop (e.g., unsupported causal claims, missing polarity justification, weak mechanism, a loop that doesn't actually close). See the [AI Explainer](../resources/AI-Explainer.qmd) for how to draft a skill that's actually rigorous and how to tell a real critique from a superficial one, and the [Critique Skill Template](../resources/Critique-Skill-Template.qmd) for a blank, fill-in-the-blank structure to build it in.
+1. **Draft a critique skill** — the actual written instructions you would give an AI, specifying exactly what to check for in your loop (e.g., unsupported causal claims, missing polarity justification, weak mechanism, a loop that doesn't actually close). See the [AI Explainer](../resources/AI-Explainer.qmd) for how to draft a skill that's actually rigorous and how to tell a real critique from a superficial one.
 2. **Run that skill against your own individually-owned loop** — not your team's whole map.
 3. **Write a response** to what the AI's critique surfaced — this response, not the AI exchange itself, is what gets evaluated.
 
@@ -147,8 +147,6 @@ Canvas file submission (Word or PDF), one file per student. Half a page to one p
 | Non-submission | 0% |
 
 Not submitting is scored separately from, and more harshly than, submitting a weak answer.
-
-## Format expectations
 
 ## Format:
 

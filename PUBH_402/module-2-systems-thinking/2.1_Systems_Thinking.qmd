@@ -129,7 +129,47 @@ If all of the following are true, you have a system.  If not, you just have a bu
 
 If we took the elements of the urban traffic system and showed the interconnections, it would make a system map:
 
-# INSERT SYSTEM MAP HERE
+```{dot}
+//| label: fig-traffic-system
+//| fig-cap: "The urban traffic system: one balancing loop (B1) and one reinforcing loop (R1)."
+digraph TrafficSystem {
+
+  layout=dot
+  labelloc="b"
+  fontname="Arial"
+  fontsize=11
+  label="B1 — Balancing: congestion is self-limiting.   R1 — Reinforcing: induced demand.\nEvery link is tagged with the loop it belongs to.   B1 = solid blue   R1 = dashed red\nTwo-tone solid = link shared by both loops   || = delay"
+
+  node [shape=box, style=filled, fillcolor=lightblue, fontname="Arial"]
+  edge [fontname="Arial", fontsize=10]
+
+  // --- Nodes (the elements named in the text above) ---
+
+  cars        [label="Cars on the road"]
+  congestion  [label="Congestion"]
+  travel_time [label="Average travel time"]
+  cost        [label="Perceived cost of driving"]
+  capacity    [label="Road capacity"]
+  ease        [label="Perceived ease of driving"]
+
+  // --- B1: congestion is self-limiting (one negative link = balancing) ---
+
+  congestion  -> travel_time [label="+ (B1)",  color="royalblue4"]  // Slower speeds mean every trip takes longer.
+  travel_time -> cost        [label="+ (B1)",  color="royalblue4"]  // Longer trips raise what driving costs a person in time and hassle.
+  cost        -> cars        [label="- (B1)",  color="royalblue4"]  // Some people respond by making fewer trips, driving at other times, or not driving.
+
+  // --- R1: induced demand (zero negative links = reinforcing) ---
+
+  congestion -> capacity [label="+ || (R1)", color="firebrick", style=dashed]  // Sustained congestion builds political pressure to widen roads; expansion takes years.
+  capacity   -> ease     [label="+ (R1)",    color="firebrick", style=dashed]  // More lanes make driving feel faster and easier, at least at first.
+  ease       -> cars     [label="+ || (R1)", color="firebrick", style=dashed]  // Easier driving pulls in trips that were not being made before; people adjust over months, not days.
+
+  // --- Link shared by both loops ---
+
+  cars -> congestion [label="+ (B1, R1)", color="royalblue4:firebrick"]  // More cars on the same road means more congestion. This is where the two loops meet.
+
+}
+```
 
 Review the page on [2.2 System Maps](2.2_System_Maps.qmd) to get a detailed overview of how to read and create systems  maps.
 
@@ -276,6 +316,8 @@ If you change how the elements relate to each other, this will change the behavi
 When you see a policy failure, it usually mean that the intervention was made in the wrong loop or only adjusted elements without changing system behavior.
 
 ## Changing the purpose of a system will change the system
+
+A system achieves a purpose.  If you change the purpose of a system, you will change the system.  Using our football example, if we changed the purpose of a football team to be to "score as many points as possible" instead of "win the game," the behavior of the team would change immediately and dramatically.
 
 ## Where to Intervene
 
