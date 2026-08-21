@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>2.1 Systems Thinking – Professor Smith’s Classes</title>
+<title>2.1 Systems Thinking – Prof.&nbsp;Smith’s Classes</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -41,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-a6763f60c5adf99a9332e7e28a85e620.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-8f042b62e5119fa4c9167450ecb78a2c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
-    <span class="navbar-title">Professor Smith’s Classes</span>
+    <span class="navbar-title">Prof.&nbsp;Smith’s Classes</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -481,7 +481,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#reinforcing-feedback-induced-demand" id="toc-reinforcing-feedback-induced-demand" class="nav-link" data-scroll-target="#reinforcing-feedback-induced-demand">Reinforcing Feedback: Induced Demand</a></li>
   <li><a href="#delays-and-structural-change" id="toc-delays-and-structural-change" class="nav-link" data-scroll-target="#delays-and-structural-change">Delays and Structural Change</a></li>
   </ul></li>
-  <li><a href="#insert-system-map-here" id="toc-insert-system-map-here" class="nav-link" data-scroll-target="#insert-system-map-here">INSERT SYSTEM MAP HERE</a></li>
   <li><a href="#institutions-incentives-and-power-as-system-structure" id="toc-institutions-incentives-and-power-as-system-structure" class="nav-link" data-scroll-target="#institutions-incentives-and-power-as-system-structure">Institutions, Incentives, and Power as System Structure</a>
   <ul class="collapse">
   <li><a href="#behavior-over-time-and-system-dynamics" id="toc-behavior-over-time-and-system-dynamics" class="nav-link" data-scroll-target="#behavior-over-time-and-system-dynamics">Behavior Over Time and System Dynamics</a></li>
@@ -759,11 +758,118 @@ Important
 </div>
 </div>
 <p>If we took the elements of the urban traffic system and showed the interconnections, it would make a system map:</p>
-</section>
-</section>
-<section id="insert-system-map-here" class="level1">
-<h1>INSERT SYSTEM MAP HERE</h1>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div id="fig-traffic-system" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-traffic-system-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div>
+<svg width="672" height="480" viewbox="0.00 0.00 429.86 343.60" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" style="; max-width: none; max-height: none">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 339.6)">
+<title>TrafficSystem</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-339.6 425.86,-339.6 425.86,4 -4,4"></polygon>
+<text text-anchor="middle" x="210.93" y="-33.7" font-family="Arial" font-size="11.00">B1 — Balancing: congestion is self-limiting. &nbsp;&nbsp;R1 — Reinforcing: induced demand.</text>
+<text text-anchor="middle" x="210.93" y="-20.5" font-family="Arial" font-size="11.00">Every link is tagged with the loop it belongs to. &nbsp;&nbsp;B1 = solid blue &nbsp;&nbsp;R1 = dashed red</text>
+<text text-anchor="middle" x="210.93" y="-7.3" font-family="Arial" font-size="11.00">Two-tone solid = link shared by both loops &nbsp;&nbsp;|| = delay</text>
+<!-- cars -->
+<g id="node1" class="node">
+<title>cars</title>
+<polygon fill="lightblue" stroke="black" points="293.54,-335.6 172.98,-335.6 172.98,-299.6 293.54,-299.6 293.54,-335.6"></polygon>
+<text text-anchor="middle" x="233.26" y="-313.4" font-family="Arial" font-size="14.00">Cars on the road</text>
+</g>
+<!-- congestion -->
+<g id="node2" class="node">
+<title>congestion</title>
+<polygon fill="lightblue" stroke="black" points="276.59,-251.6 189.93,-251.6 189.93,-215.6 276.59,-215.6 276.59,-251.6"></polygon>
+<text text-anchor="middle" x="233.26" y="-229.4" font-family="Arial" font-size="14.00">Congestion</text>
+</g>
+<!-- cars&#45;&gt;congestion -->
+<g id="edge7" class="edge">
+<title>cars-&gt;congestion</title>
+<path fill="none" stroke="#27408b" d="M232.26,-299.21C232.26,-288.37 232.26,-274.2 232.26,-261.89"></path>
+<path fill="none" stroke="firebrick" d="M234.26,-299.21C234.26,-288.37 234.26,-274.2 234.26,-261.89"></path>
+<polygon fill="#27408b" stroke="#27408b" points="236.76,-261.68 233.26,-251.68 229.76,-261.68 236.76,-261.68"></polygon>
+<text text-anchor="middle" x="256.18" y="-272.6" font-family="Arial" font-size="10.00">+ (B1, R1)</text>
+</g>
+<!-- travel_time -->
+<g id="node3" class="node">
+<title>travel_time</title>
+<polygon fill="lightblue" stroke="black" points="215.37,-167.6 79.15,-167.6 79.15,-131.6 215.37,-131.6 215.37,-167.6"></polygon>
+<text text-anchor="middle" x="147.26" y="-145.4" font-family="Arial" font-size="14.00">Average travel time</text>
+</g>
+<!-- congestion&#45;&gt;travel_time -->
+<g id="edge1" class="edge">
+<title>congestion-&gt;travel_time</title>
+<path fill="none" stroke="#27408b" d="M215.02,-215.21C202.74,-203.5 186.37,-187.89 172.79,-174.95"></path>
+<polygon fill="#27408b" stroke="#27408b" points="174.83,-172.05 165.18,-167.68 170,-177.12 174.83,-172.05"></polygon>
+<text text-anchor="middle" x="210.01" y="-188.6" font-family="Arial" font-size="10.00">+ (B1)</text>
+</g>
+<!-- capacity -->
+<g id="node5" class="node">
+<title>capacity</title>
+<polygon fill="lightblue" stroke="black" points="338.48,-167.6 234.04,-167.6 234.04,-131.6 338.48,-131.6 338.48,-167.6"></polygon>
+<text text-anchor="middle" x="286.26" y="-145.4" font-family="Arial" font-size="14.00">Road capacity</text>
+</g>
+<!-- congestion&#45;&gt;capacity -->
+<g id="edge4" class="edge">
+<title>congestion-&gt;capacity</title>
+<path fill="none" stroke="firebrick" stroke-dasharray="5,2" d="M244.5,-215.21C251.78,-203.94 261.41,-189.05 269.58,-176.41"></path>
+<polygon fill="firebrick" stroke="firebrick" points="272.73,-177.98 275.22,-167.68 266.85,-174.18 272.73,-177.98"></polygon>
+<text text-anchor="middle" x="281.28" y="-188.6" font-family="Arial" font-size="10.00">+ || (R1)</text>
+</g>
+<!-- cost -->
+<g id="node4" class="node">
+<title>cost</title>
+<polygon fill="lightblue" stroke="black" points="168.28,-83.6 0.24,-83.6 0.24,-47.6 168.28,-47.6 168.28,-83.6"></polygon>
+<text text-anchor="middle" x="84.26" y="-61.4" font-family="Arial" font-size="14.00">Perceived cost of driving</text>
+</g>
+<!-- travel_time&#45;&gt;cost -->
+<g id="edge2" class="edge">
+<title>travel_time-&gt;cost</title>
+<path fill="none" stroke="#27408b" d="M133.9,-131.21C125.07,-119.72 113.35,-104.47 103.52,-91.67"></path>
+<polygon fill="#27408b" stroke="#27408b" points="106.25,-89.48 97.38,-83.68 100.7,-93.75 106.25,-89.48"></polygon>
+<text text-anchor="middle" x="134.01" y="-104.6" font-family="Arial" font-size="10.00">+ (B1)</text>
+</g>
+<!-- cost&#45;&gt;cars -->
+<g id="edge3" class="edge">
+<title>cost-&gt;cars</title>
+<path fill="none" stroke="#27408b" d="M76.47,-83.81C68.28,-104.56 58.12,-140.06 70.26,-167.6 95.34,-224.52 154.09,-269.13 193.77,-294.18"></path>
+<polygon fill="#27408b" stroke="#27408b" points="192.07,-297.25 202.42,-299.53 195.75,-291.29 192.07,-297.25"></polygon>
+<text text-anchor="middle" x="99.76" y="-188.6" font-family="Arial" font-size="10.00">- (B1)</text>
+</g>
+<!-- ease -->
+<g id="node6" class="node">
+<title>ease</title>
+<polygon fill="lightblue" stroke="black" points="421.96,-83.6 248.56,-83.6 248.56,-47.6 421.96,-47.6 421.96,-83.6"></polygon>
+<text text-anchor="middle" x="335.26" y="-61.4" font-family="Arial" font-size="14.00">Perceived ease of driving</text>
+</g>
+<!-- capacity&#45;&gt;ease -->
+<g id="edge5" class="edge">
+<title>capacity-&gt;ease</title>
+<path fill="none" stroke="firebrick" stroke-dasharray="5,2" d="M296.65,-131.21C303.39,-119.94 312.28,-105.05 319.84,-92.41"></path>
+<polygon fill="firebrick" stroke="firebrick" points="322.92,-94.06 325.05,-83.68 316.92,-90.47 322.92,-94.06"></polygon>
+<text text-anchor="middle" x="328.29" y="-104.6" font-family="Arial" font-size="10.00">+ (R1)</text>
+</g>
+<!-- ease&#45;&gt;cars -->
+<g id="edge6" class="edge">
+<title>ease-&gt;cars</title>
+<path fill="none" stroke="firebrick" stroke-dasharray="5,2" d="M341.69,-83.82C343.5,-89.41 345.25,-95.7 346.26,-101.6 351.19,-130.52 354.68,-139.22 347.26,-167.6 332.56,-223.81 322.26,-238.53 283.26,-281.6 279.48,-285.77 275.12,-289.72 270.57,-293.36"></path>
+<polygon fill="firebrick" stroke="firebrick" points="268.2,-290.76 262.29,-299.55 272.4,-296.37 268.2,-290.76"></polygon>
+<text text-anchor="middle" x="360.28" y="-188.6" font-family="Arial" font-size="10.00">+ || (R1)</text>
+</g>
+</g>
+</svg>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-traffic-system-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: The urban traffic system: one balancing loop (B1) and one reinforcing loop (R1).
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
 <p>Review the page on <a href="../../PUBH_402/module-2-systems-thinking/2.2_System_Maps.html">2.2 System Maps</a> to get a detailed overview of how to read and create systems maps.</p>
+</section>
 </section>
 <section id="institutions-incentives-and-power-as-system-structure" class="level1">
 <h1>Institutions, Incentives, and Power as System Structure</h1>

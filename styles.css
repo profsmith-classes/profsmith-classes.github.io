@@ -1,1 +1,143 @@
 /* css styles */
+
+.navbar-brand {
+  font-size: 1.1rem;
+}
+
+/* ==========================================================================
+   Accessibility overrides — WCAG 2.1 Level AA
+   Loaded after the `superhero` Bootswatch bundle, so plain selectors here
+   win ties against Bootstrap/Quarto rules of equal specificity.
+   Ratios below are measured against the resolved page background #0f2537.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Inline <code> — 1.4.3 Contrast (Minimum)
+   Quarto themes inline code only inside <p>, <li> and <td>. Anywhere else
+   (headings, most visibly) `code` falls back to background #ebebeb with
+   --bs-code-color: inherit, which resolves to the #ebebeb body colour:
+   1.00:1, literally invisible. Restyle `code` globally to match the chip
+   Quarto already uses in body text, then hand control back inside <pre>.
+   #ebebeb on the resulting rgb(44,63,78) chip = 9.14:1.
+   -------------------------------------------------------------------------- */
+code {
+  background-color: rgba(59, 77, 91, 0.65);
+  color: var(--bs-body-color);
+}
+
+/* Code inside a block keeps the block's own colours, not the chip. */
+pre code {
+  background-color: transparent;
+  color: inherit;
+}
+
+/* --------------------------------------------------------------------------
+   Code blocks — readability, not a contrast failure
+   Text in <pre> already resolves to #ebebeb on #0f2537 (13.14:1), but Quarto
+   strips the padding, border and background off <pre>, so examples run
+   flush into the surrounding prose. Restore a container so the .gv and CSV
+   samples read as code. #ebebeb on rgb(35,55,71) = 10.31:1.
+   -------------------------------------------------------------------------- */
+pre,
+pre.sourceCode {
+  background-color: rgba(59, 77, 91, 0.45);
+  border: 1px solid rgba(235, 235, 235, 0.35);
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+}
+
+/* --------------------------------------------------------------------------
+   Focus indicator — 2.4.7 Focus Visible, 1.4.11 Non-text Contrast
+   Bootstrap kills the native outline and substitutes a 25%-opacity orange
+   glow: 1.35:1 on the page and 1.00:1 on the navbar, where the glow colour
+   *is* the navbar colour. Replace it with a white ring plus a dark halo, so
+   one of the two always contrasts regardless of what is behind it.
+   White: 15.67:1 on the page, 5.67:1 on the navbar.
+   Halo #0b1b28: 17.48:1 against the white ring, 3.08:1 on the navbar.
+   `:root :focus-visible` scores (0,2,0) — enough to beat .nav-link:focus-visible.
+   -------------------------------------------------------------------------- */
+:root :focus-visible {
+  outline: 3px solid #ffffff;
+  outline-offset: 2px;
+  border-radius: 2px;
+  box-shadow: 0 0 0 8px #0b1b28;
+}
+
+/* The search widget suppresses focus styling at (1,4,0) and (0,4,0); these
+   selectors outscore it so keyboard users can still see the search box. */
+.aa-Autocomplete .aa-Form:focus-within,
+.aa-DetachedFormContainer .aa-Form:focus-within,
+.navbar #quarto-search.type-overlay .aa-Autocomplete .aa-Form:focus-within {
+  outline: 3px solid #ffffff;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 8px #0b1b28;
+}
+
+/* --------------------------------------------------------------------------
+   Navbar — 1.4.3 Contrast (Minimum)
+   #fffefd on the theme's #df6919 is 3.38:1. Darkening the bar to #a84c0d
+   lifts the same text to 5.63:1 without touching any text colour.
+   -------------------------------------------------------------------------- */
+.navbar,
+nav.quarto-secondary-nav.color-navbar {
+  background-color: #a84c0d;
+}
+
+/* --bs-navbar-hover-color is 80%-opacity white, which lands at 4.19:1 on the
+   darkened bar. Make hover fully opaque (5.67:1) and underline it, so hover
+   is not signalled by a contrast drop. */
+.navbar {
+  --bs-navbar-hover-color: #ffffff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar-brand:hover,
+.navbar-brand:focus {
+  text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------
+   Sidebar and table of contents — 1.4.3 Contrast (Minimum)
+   Four marginal failures against the sidebar background. Ratios below are
+   the new values on #0f2537.
+   -------------------------------------------------------------------------- */
+
+/* Active/hover TOC entry: #df6919 = 4.32:1. #f0a878 = 7.89:1.
+   This is the reader's page-position cue, so it was the one that mattered.
+   Bootstrap sets these with !important, so match it. */
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+  border-left: 1px solid #f0a878;
+  color: #f0a878 !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a:hover,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a:hover {
+  color: #f0a878 !important;
+}
+
+.sidebar .toc-actions a:hover,
+.sidebar .quarto-other-links a:hover,
+.sidebar .quarto-code-links a:hover,
+.sidebar .quarto-alternate-formats a:hover,
+.sidebar .quarto-alternate-notebooks a:hover {
+  color: #f0a878;
+}
+
+/* Sidebar section labels render as .disabled but are real content, not
+   inactive controls, so the 1.4.3 exemption does not apply.
+   75% opacity = 4.45:1; 85% = 5.58:1. */
+div.sidebar-item-container.disabled {
+  color: rgba(169, 177, 183, 0.85);
+}
+
+/* Sidebar footer: #6c757d = 3.13:1. #a0aab2 = 6.63:1. */
+.sidebar .sidebar-footer {
+  color: #a0aab2;
+}
+
+/* .text-body-tertiary utility: 50% #ebebeb = 4.33:1. 70% = 7.11:1. */
+:root {
+  --bs-tertiary-color: rgba(235, 235, 235, 0.7);
+}
