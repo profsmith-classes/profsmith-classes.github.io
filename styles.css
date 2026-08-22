@@ -141,3 +141,13 @@ div.sidebar-item-container.disabled {
 :root {
   --bs-tertiary-color: rgba(235, 235, 235, 0.7);
 }
+
+/* Graphviz figures are emitted at a fixed width="672" with max-width disabled
+   inline, so at 400% zoom or a 320px viewport the page scrolls in two
+   directions — WCAG 2.1 1.4.10 Reflow. Overriding an inline style needs
+   !important; height:auto lets the viewBox scale the drawing proportionally. */
+.cell-output-display svg,
+figure svg {
+  max-width: 100% !important;
+  height: auto !important;
+}
