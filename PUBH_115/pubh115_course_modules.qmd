@@ -1,10 +1,6 @@
 ---
 title: "Course Modules"
-date: "2026-06-17"
-description: "This page contains the course modules, links to readings, and assignment information."
 draft: false
-class: "115"
-categories: "intro"
 
 ---
 The links below will take you to the course page in Leganto where you will find readings, posted lectures, and other materials for each module. Follow the schedule for each module on the syllabus
@@ -14,6 +10,10 @@ You must be enrolled in the course in order to access these pages.  You can also
 :::
 
 # Course Introduction
+
+This is an introductory course in environmental health.  The goal of the course is to provide students with a basic understanding of the relationship between the environment and human health.  The course is organized into three broad areas representing three approaches to understanding the enviornment and health. First, the course introduces you to an approach to the environmment that views the environment as a set of natural resources that are essential to human health and as a source of exposures.  In this perspective, the enviroment is viewed as something to be used and managed.  Next, the course introduces climate change and human health and the sustainability framework.  In this framework, the environment and human development are viewed as interdependent and the goal is to achieve a balance between human development and environmetal protection without altering fundamental human development goals and values.  Finally, the course introduces the Anthropocene and the planetary health framework.  In this approach, human activities are understood to fundamentally alter the planet on a geologic scale. This requires an understanding of how humans as a species and their cultures form the environment. 
+
+As you work through the material you will be exploring how these different ways of seeing the environment influence and are influenced by your own values and beliefs, and will ask what it means for your understanding of human health and flourishing.
 
 # Introduction to Environmental Health
 

@@ -9,9 +9,25 @@ class: "402"
 
 Title: PUBH 402 - Introduction to the US Healthcare System
 
+Course Number: PUBH 402
+
+Sections: 50 and 51
+
+Class Numbers: 14791 (section 50) and 15252 (section 51)
+
+Units: 3
+
+Term: Fall 2026 (August 24 - December 19, 2026)
+
 Instruction: Online asynchronous
 
 Meeting Location and Times:  Online.  All work is completed online.  There are no meetings or lectures.
+
+General Education: This course does not carry General Education credit.
+
+Learning Management System: Canvas.  All assignments are submitted in Canvas and all grades are posted there.
+
+Course Website: Linked in Canvas.  The website holds the module pages, technical explainers, and templates used throughout the term.
 
 ## Course Description
 
@@ -114,7 +130,7 @@ Specific due dates and exam dates are on Canvas and below.
 | **Last drop without a W on transcript**                                      | —                       |                                                                                                                 | **Tue Sep 8, 2026**                                     |
 | **Module 3: System Framing & Initial Elements**                               | Sep 7–Oct 4 (4 weeks)  | Defining system boundaries; identifying core elements and relationships                                         | Labor Day **Mon Sep 7** (Campus Closed). Element List, Initial Map (`.gv`), Team Checkpoint 1 due **Fri Oct 2**. |
 | **Module 4: System Expansion & Early Evidence**                               | Oct 5–18 (2 weeks)     | Expanding the system map; identifying gaps; early evidence testing                                              | Revised Map (Format Check), Element Reconsideration, Brief Memo due **Fri Oct 16**. |
-| **Module 5: Research & Refinement**                                           | Oct 19–Nov 8 (3 weeks) | Targeted research; refining causal claims; strengthening feedback logic                                         | Final Map (Format Check), Research Summary Memo, Team Checkpoint 2 due **Fri Nov 6**. |
+| **Module 5: Research & Refinement**                                           | Oct 19–Nov 8 (3 weeks) | Targeted research; refining causal claims; strengthening feedback logic                                         | Refined System Map (Format Check), Research Summary Memo, Team Checkpoint 2 due **Fri Nov 6**. |
 | **Last day to submit withdrawal for non-medical reason with W on transcript** | —                       |                                                                                                                 | **Fri Nov 13, 2026**                                    |
 | **Module 6 + Module 7 (combined due date)**                                   | Nov 9–22 (2 weeks)     | Interpreting system behavior and identifying leverage points; full system synthesis and final map               | Veterans Day **Wed Nov 11** (Campus Closed). Individual memo, drafted critique skill, response (Module 6) and Final System Map (Module 7, Format Check) both due **Fri Nov 20**. |
 | **Fall Recess**                                                               | Nov 23–27              | No classes                                                                                                       | Campus closed all week                                  |
@@ -137,7 +153,7 @@ The table above groups several weeks together under a single Module row. This ta
 | 8 | Oct 12–18 | Module 4 (2 of 2), continued | — | Revised Map (Format Check), Element Reconsideration, Brief Memo due Fri Oct 16. |
 | 9 | Oct 19–25 | Module 5 (1 of 3): Research & Refinement | — | — |
 | 10 | Oct 26–Nov 1 | Module 5 (2 of 3), continued | — | — |
-| 11 | Nov 2–8 | Module 5 (3 of 3), continued | — | Final Map (Format Check), Research Summary Memo, Team Checkpoint 2 due Fri Nov 6. |
+| 11 | Nov 2–8 | Module 5 (3 of 3), continued | — | Refined System Map (Format Check), Research Summary Memo, Team Checkpoint 2 due Fri Nov 6. |
 | 12 | Nov 9–15 | Module 6 + 7 (1 of 2): Interpretation, Leverage & Synthesis | — | Veterans Day Wed Nov 11, campus closed. Last day to withdraw with a W: Fri Nov 13. |
 | 13 | Nov 16–22 | Module 6 + 7 (2 of 2), continued | — | Individual memo, drafted critique skill, response (Module 6) and Final System Map (Module 7, Format Check) both due Fri Nov 20. |
 | 14 | Nov 23–29 | Fall Recess — no new instruction | — | Campus closed all week, Nov 23–27. |
@@ -205,6 +221,18 @@ Grades in this course evaluate the quality of reasoning appropriate to each stag
 ## Academic Dishonesty
 
 This course policy follows the CSUF approved policy on academic dishonesty which can be found at [UPS 300.021](https://www.fullerton.edu/senate/publications-policies-resolutions/ups/UPS%20300/UPS%20300.021.pdf)
+
+### Penalties
+
+This course includes both individual work and team work, so penalties are applied as follows.
+
+- A student who inadvertently or negligently engages in academic dishonesty will be ineligible to receive credit for the related work — that is, a zero on that assignment.
+- The student may be reassessed on all course material using a variety of modalities, including oral examination.
+- Evidence of academic dishonesty will be reported to the Dean of Students and the CSUF Student Conduct team.
+- The student will receive an F in the course upon a determination that the incident was the result of willful intent or gross negligence.
+- Submitting work generated by generative AI or a large language model, in violation of the [AI policy](#policy-on-student-use-of-ai) below, is academic dishonesty and is subject to these penalties.
+
+On team deliverables, penalties apply to the individual student responsible for the dishonest content. A team is not penalized for the conduct of one member, and I will ask team members individually to explain the work in question in order to establish responsibility. Where every member of a team knowingly submitted dishonest work, the penalties apply to each of them individually.
 
 ## Authentication of Student Work
 
@@ -283,7 +311,7 @@ Work is graded with one of three levels: **Yes** (Full Credit), **Partially** (P
 | **Module 4: System Expansion & Early Evidence**          | **Revised System Map**                              | **October 16, 2026**    |
 |                                                          | **Element Reconsideration**                         | **October 16, 2026**    |
 |                                                          | **Brief Memo: Reflection on System Behavior**       | **October 16, 2026**    |
-| **Module 5: Research & System Refinement**               | **Final System Map**                                | **November 6, 2026**     |
+| **Module 5: Research & System Refinement**               | **Refined System Map**                              | **November 6, 2026**     |
 |                                                          | **Brief Memo: Summary of Research Activity**        | **November 6, 2026**     |
 |                                                          | **Team Checkpoint 2**                               | **November 6, 2026**     |
 | **Module 6: Interpretation & Leverage**                  | **System Interpretation & Leverage Analysis**       | **November 20, 2026**    |
@@ -429,9 +457,27 @@ If several of these feel unfamiliar, that's okay. It's a signal to spend a bit o
 
 These skills are easiest to learn by **doing small things**, not by watching long videos. Expect to make mistakes. When something behaves unexpectedly, pause and ask: *What assumption did I just make?*
 
+# Accessibility and Accommodations
+
+I want this course to be usable by every student enrolled in it. If any part of the course — a reading, a video, an exam format, a file format, a deadline structure — creates a barrier for you, tell me and we will work on it.
+
+Students with documented disabilities are entitled to reasonable accommodations. Register with the campus office that coordinates disability support services and provide me with your accommodation letter as early in the semester as you can, so that accommodations are in place before the first exam. Contact information and the full statement of students' rights to accommodations are on the [Important Information for Students](https://fdc.fullerton.edu/teaching/student-info-syllabi.html) page.
+
+This syllabus is also available as an accessible Word document posted in Canvas. If you need it in another format, email me and I will provide one.
+
+# Changes to the Course
+
+Adjustments may be required as the semester progresses. This syllabus and the assignments are subject to change. Any change to a major assignment or course requirement — for example, an additional paper or examination — will be announced in Canvas with a reasonable timetable for completion, as required by UPS 300.004.
+
+Faculty are not bound to follow the syllabus calendar on a strict day-to-day basis, and topics and materials may be adjusted as the semester progresses. Due dates in Canvas are authoritative if they ever differ from this page.
+
+Announcements are made through Canvas. Check Canvas announcements regularly; in an asynchronous course they are the primary way I reach the whole class.
+
 # Student Resources
 
 CSUF hosts a website for students with important policies and information for students.  Please take a moment to review this site: [Important Information for Students](https://fdc.fullerton.edu/teaching/student-info-syllabi.html)
+
+That page links to university learning goals and program learning outcomes; the learning objectives for each General Education category; appropriate online behavior (netiquette); students' rights to accommodations for documented special needs; campus student support resources including Counseling and Psychological Services, Title IX and Gender Equity, Diversity Initiatives and Resource Centers, and Basic Needs Services; academic integrity; actions students should take in an emergency; library services; Student Information Technology Services; and software privacy and accessibility statements.
 
 # Policy on Student Use of AI
 
@@ -469,3 +515,5 @@ In designing this course, its materials, and its assessments, I use AI tools as 
 When AI tools are used to support review of student submissions, identifying information (names, student IDs) is removed first — the AI tool never sees work tied to your identity. This scoping is **triage and surfacing only, never scoring**: AI can flag patterns or help organize submissions for my review, but it does not assign scores or make final grading determinations.
 
 Standards governing student use of AI for submitted work are described separately in the [Class AI Policy](resources/Class-AI-Policy.qmd) and reflect the distinct purposes and responsibilities of student learning versus instructional and evaluative design. Student AI use policies govern authorship and learning; instructor AI use governs course design and evaluation. These are intentionally distinct.
+
+This syllabus was prepared in accordance with CSUF University Policy Statement 300.004, Policy on Syllabi, effective November 5, 2025.

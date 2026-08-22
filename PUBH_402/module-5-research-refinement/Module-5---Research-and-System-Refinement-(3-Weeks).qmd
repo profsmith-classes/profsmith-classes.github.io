@@ -41,13 +41,13 @@ This document provides the overview of how you conducted your research, how it s
 
 ## What to submit
 
-### Revised system map
+### Refined system map
 
-Create your final system map.  Make sure all the labels are in place, relationships are clear, and that reinforcing and balancing loops are identified and labeled.
+Create your refined system map.  Make sure all the labels are in place, relationships are clear, and that reinforcing and balancing loops are identified and labeled.
 
 Use comments in you `.gv` file to discuss changes and additions you have made and the evolution of your amp.  I should be able to understand your system map and it's relationships by reading your file.
 
-Turn in your final `.gv` file and a copy of your system map.
+Turn in your refined `.gv` file and a copy of your system map.
 
 ### Brief Memo (Summary of Your Research Activity)
 
@@ -150,7 +150,7 @@ Not submitting is scored separately from, and more harshly than, submitting a we
 
 ## Format:
 
-**Revised System Map**: Turn in your `.gv` file and a copy of your system map.
+**Refined System Map**: Turn in your `.gv` file and a copy of your system map.
 
 **Brief Memo**
 
@@ -166,7 +166,7 @@ Canvas
 
 # How This Will Be Evaluated
 
-## Final System Map — 10 points
+## Refined System Map — 10 points
 
 **This component starts with a Format Check; it's evaluated on quality only if it passes.**
 
