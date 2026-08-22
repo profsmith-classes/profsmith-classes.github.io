@@ -222,8 +222,8 @@ is **5.63:1**. Jason chose this over keeping #df6919 with dark text. `--bs-navba
 Every override was confirmed to win the cascade by resolving all competing rules across the syntax
 highlighting sheet, the theme bundle, and `styles.css` in load order.
 
-**Still open:** items 5, 7, 8, 9, 10, 11, 12, 14, 15, 16. Item 6 is largely closed — see the item 6
-update below.
+**Still open:** items 7, 8, 9, 10, 12, 14, 15, 16. Item 6 is largely closed — see the item 6
+update below. Items 5 and 11 were fixed on 2026-08-21 — see the update below that.
 
 **Noticed while fixing, not previously listed:** the breadcrumb separator on the mobile secondary nav
 (`.breadcrumb-item::before`, hsl(207,9%,49%) ≈ #74818b) is 1.42:1 on the darkened bar and was 1.63:1
@@ -255,3 +255,27 @@ Note that `2.2_System_Maps.qmd` already provides written diagram walkthroughs th
 which may serve as the media alternative.
 
 Item 6 is therefore reduced from a blocking finding to a targeted question about four videos.
+
+### Items 5 and 11 update — 2026-08-21
+
+**Item 5 — fixed.** The six `{{< video >}}` shortcodes on `2.1_Systems_Thinking.qmd` now carry a
+`title` naming what the video covers: balancing feedback / congestion, reinforcing feedback /
+induced demand, delays and structural change, institutions and power as structure, analytic vs.
+systems thinking, and systems change. Verified in a fresh render — zero iframes sitewide are left
+with an empty or missing `title`, counting the seventh hand-written embed that always had one.
+
+**Item 11 — fixed.** `styles.css` now constrains figure SVGs:
+
+```css
+.cell-output-display svg,
+figure svg { max-width: 100% !important; height: auto !important; }
+```
+
+`!important` is required because the override target is an inline `style="max-width: none"`, which
+outranks any selector but not an author `!important` declaration. `height: auto` lets the `viewBox`
+scale the drawing rather than distorting it. Scope checked against the build: the site contains
+exactly 10 inline SVGs, all of them Graphviz figures on `2.1_Systems_Thinking` and `2.2_System_Maps`,
+and all 10 sit inside a wrapper the selector matches. No UI chrome is affected.
+
+This does not touch item 10 — the same figures still have no `role="img"`, `aria-label`, or `<title>`,
+and figures 8 and 9 still need descriptions written.

@@ -26,7 +26,7 @@ There is no linter or test suite in this repo — it's course content, not appli
 - Each course lives in its own top-level directory (`PUBH_115/`, `PUBH_402/`), with page files prefixed/named per course (e.g. `pubh115_*.qmd`). PUBH_402 further splits weekly content into `module-N-<topic>/` subdirectories, plus a `resources/` subdirectory for shared reference material (CSV/DOT/graphviz explainers, research resources).
 - `.qmd` files use YAML frontmatter with fields like `title`, `date`, `draft`, `class` (course number as a string, e.g. `"402"`), and sometimes `sidebar`/`categories`. Follow the existing frontmatter shape when adding a new page.
 - `saveit.yml` is a leftover/draft nav config not referenced by `_quarto.yml` — don't treat it as active configuration.
-- Known drift to be aware of: the `_quarto.yml` sidebar for PUBH_402 currently mislabels/misroutes some module entries (e.g. "Module 1: Systems Thinking" points at the `module-2-systems-thinking/` directory, and one sidebar entry points at a `module-2-team-formation/` directory that doesn't exist). When editing navigation, verify `contents:` paths actually match the module directory names on disk.
+- When editing navigation, verify `contents:` paths actually match the module directory names on disk — the sidebar and the directory names have drifted apart before.
 - `_site/` and `.quarto/` are build artifacts (gitignored) — never hand-edit or commit into these; regenerate via `quarto render`/`quarto preview` instead.
 
 

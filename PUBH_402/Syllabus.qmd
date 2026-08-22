@@ -148,7 +148,8 @@ The table above groups several weeks together under a single Module row. This ta
 The required text (Knickman & Elbel, *Jonas & Kovner's*) is a standing reference for the course and is not assigned by chapter to specific weeks.
 
 # Attendance Policy
-None
+
+None. This course has no attendance policy, but it does require participation — see [Non-Participation](#non-participation).
 
 # Make Up Work
 
@@ -163,11 +164,39 @@ Late submissions will receive a one-time 5% reduction of the assignment grade.
 ## Grading Scale
 
 The course uses the standard A - F grading scale outlined in the CSUF catalog.  The course uses +/- grading.
+
 ## F and WU
 
-An F will be assigned if you attempt the assignments in class but do not pass them.  A WU will be assigned if you do not contribute meaningfully to the assignments.  Students who fail to take an exam entirely may receive a WU. Students who do not respond to individual check-in assignments may be assigned a WU. WU is calculated as an F for your GPA, but unlike an F, it indicates that you did not submit work that could be evaluated.  It is critical that you attempt each assignment and that you contribute to your team's efforts.
+An F is assigned when you attempt the work of the course but do not pass it. A WU ("Withdrawal Unauthorized") is assigned when you remain enrolled but complete so little of the course that I cannot evaluate your academic performance — for example, not taking an exam at all, or not submitting your individual check-ins. A WU is calculated as an F for your GPA; the difference is that a WU indicates there was not enough submitted work to evaluate rather than work that did not meet the standard. It is critical that you attempt each assignment and that you contribute to your team's efforts.
 
 Please see the CSUF Catalog for complete details regarding WU.
+
+## Non-Participation
+
+This course has no attendance policy, but it does require participation. Nearly half of your grade depends on work produced with a team over the full term, and a student who disengages affects their teammates' ability to do the assignment. For that reason, non-participation is handled directly during the term rather than left to accumulate as missing scores at the end of it.
+
+**What counts as non-participation.** I look at whether you are doing the work, not at how much time you spend or how your team divides tasks. Indicators include:
+
+- Missing consecutive project deliverables or checkpoints
+- Not submitting an individual check-in
+- No visible contribution to your team's shared work product across a module
+- Not responding to my emails about any of the above
+
+**What happens.** If I see this pattern, you will receive **two emails** at your CSUF address:
+
+1. **First notice.** I will tell you what I am seeing and ask you to reply. You have **seven calendar days** to respond.
+2. **Second and final notice.** If I do not hear from you, I will send a second email stating that you must contact me within **seven calendar days**.
+
+I will not send a third notice. If you do not respond to either one, what happens next depends on where in the term we are:
+
+- **On or before the withdrawal deadline (Fri Nov 13, 2026).** You can still withdraw from the course with a W, and my second notice will tell you so. A W is a better outcome for you than a WU, and I would rather you take that option than let the term run out.
+- **After the withdrawal deadline.** Withdrawal is no longer available. I will assign a **WU** at the end of the term — or an **F**, if you have completed enough work for your performance to be evaluated.
+
+**Responding is a low bar, and it is the whole point.** You do not need to have caught up, fixed anything, or explained yourself well. "I'm behind and I don't know where to start" is a sufficient reply and stops this process immediately. If something in your life has made it hard to engage — and that is common — I would much rather know in Week 6 than discover it in Week 15, when almost nothing can be done. Reaching out is not an admission of failure in this course. It is the expected move.
+
+**What this policy is not.** This is not a penalty for struggling with the material, for being confused, or for producing weak work. Confusion and revision are expected parts of systems thinking (see [Team Check-Ins](#team-check-ins) and [Course Communications](#course-communications)). This policy addresses absence only — a student who has stopped participating and does not respond when contacted.
+
+Notices are sent to your official CSUF email address. Checking that account is your responsibility.
 
 ## Grading Philosophy
 
