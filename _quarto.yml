@@ -36,6 +36,8 @@ website:
             href: PUBH_115/pubh115_announcements.qmd
           - text: "Course Calendar"
             href: PUBH_115/pubh115_course_calendar.qmd
+          - text: "Course Modules"
+            href: PUBH_115/pubh115_course_modules.qmd
           - text: "Course Assignments and Grading Policy"
             href: PUBH_115/pubh115_grading_policy_assignments.qmd
           - text: "Other Policies"

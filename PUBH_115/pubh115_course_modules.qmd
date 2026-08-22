@@ -1,7 +1,7 @@
 ---
 title: "Course Modules"
 date: "2026-06-17"
-description: "This pages contains the course modules, links to readings, and assignment information."
+description: "This page contains the course modules, links to readings, and assignment information."
 draft: false
 class: "115"
 categories: "intro"

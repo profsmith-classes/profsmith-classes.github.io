@@ -222,7 +222,11 @@ is **5.63:1**. Jason chose this over keeping #df6919 with dark text. `--bs-navba
 Every override was confirmed to win the cascade by resolving all competing rules across the syntax
 highlighting sheet, the theme bundle, and `styles.css` in load order.
 
-**Still open:** items 7, 8, 9, 10, 12, 14, 15, 16. Item 6 is largely closed — see the item 6
+**Item 7 — fixed 2026-08-21.** The empty published page is gone: `pubh115_course_modules.qmd` is
+`draft: false` and now carries a real `<title>` and body, and it is linked from the PUBH 115
+sidebar rather than being reachable only by direct URL. Re-verified in a fresh render.
+
+**Still open:** items 8, 9, 10, 12, 14, 15, 16. Item 6 is largely closed — see the item 6
 update below. Items 5 and 11 were fixed on 2026-08-21 — see the update below that.
 
 **Noticed while fixing, not previously listed:** the breadcrumb separator on the mobile secondary nav
