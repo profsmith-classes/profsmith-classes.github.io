@@ -63,6 +63,12 @@ This list is a **shared analytical starting point**, not a complete description 
 
 If it helps to see every element already formatted as Graphviz syntax before you start building your own file, download the [System Elements Template](../resources/System-Elements-Template.qmd) — it lists every element as a plain node with its full definition as a comment. It has no edges or loops; it's a reference, not a systems map.
 
+::: {.callout-note title="Two different files"}
+The **System Elements Template** is a `.gv` reference file that shows all available elements formatted as Graphviz nodes. Use it to copy element names or see definitions, but do not submit it as your Element List. When you are building your system map, you can use this template to easily copy nodes into your own `.gv` file.
+
+Your **Element List** is a separate Word or PDF document submitted on Canvas. Your **system map** is the `.gv` file you build from the Systems Map Template.
+:::
+
 Your first task is to explore these elements as a team through discussion, research, and sharing.  Your goal is to begin to understand which elements are important for understanding your health problem and which elements are less important. Check the [Research Resources](../resources/Research-Resources.qmd) for some tips and guidance on research if you need a refresher.
 
 ::: {.callout-important title="Be Specific!"}
@@ -132,7 +138,7 @@ For the elements in an area that you did not select, provide:
 - and **one sentence** explaining why your team did not choose this element.
 
 ### Format:
-Word document or PDF with 1" margins all around, Times New Roman, 10pt, 1.5 spacing.  Use the template provided on Canvas attached to the assignment.
+Word document or PDF with 1" margins all around, Times New Roman, 10pt, 1.5 spacing.
 
 ### Submission location
 - Canvas - Module 3 Element List
