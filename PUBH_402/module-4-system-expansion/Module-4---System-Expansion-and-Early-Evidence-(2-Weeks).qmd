@@ -34,7 +34,7 @@ You are not expected to resolve all of these questions yet. You are expected to 
 
 ## Research
 
-You should be more intensely focused on researching your health problem and the US health care system using your system map as a research partner.  Your system map should help focus your research on topics where your system map is unclear or where it lacks enough detail.  Your research should lead you to update your system map with new elements, more detail, and possible revisions.
+You should be more intensely focused on researching your health problem and the US health care system using your system map as a research partner.  Your system map should help focus your research on topics where your system map is unclear or where it lacks enough detail.  Your research should lead you to update your system map with new elements, more detail, and possible revisions. You will need to show your research work in your submission.
 
 ## Discomfort
 
@@ -62,7 +62,7 @@ Update your map based on the research and questions you asked in this module. Ma
 
 Your revision may include:
 
-- Adding or removing elements, with justification  You map must contain 12 elements from the provided list and in the required categories but 12 is the minimum..  You may add additional elements if necessary.
+- Adding or removing elements, with justification  You map must contain 12 elements from the provided list and in the required categories but 12 is the minimum.  You may add additional elements if necessary.
 - Making feedback relationships clearer or more explicit
 - Clarifying causal direction or polarity where it was previously vague
 - Adjusting structure based on emerging uncertainties
@@ -71,8 +71,8 @@ Your revision may include:
 This is an *evolution* of your prior map, not starting over.
 
 - Use comments in you `.gv` file to discuss changes and additions you have made.
-- Turn in your `.gv` file and a copy of your system map.
-- You will be turning in a research summary in Module 5.  Start placing your research sources in your comments in your submission.
+- Turn in your `.gv` file.
+- You will be turning in a research summary in Module 5.  **Start placing your research sources in your comments in your submission.**
 
 ### Element reconsideration
 
@@ -94,13 +94,14 @@ This memo is not a literature review. It is a snapshot of your thinking as it en
 
 ## Format:
 
-**Revised System Map**: Turn in your `.gv` file and a copy of your system map.
+**Revised System Map**: Turn in your `.gv` file.
 
-**Element Reconsideration**: Include your element list and reasoning in your `.gv` file **as comments** (`//` lines) — not as nodes or edges — so it doesn't affect whether the file renders.
+**Element Reconsideration**: Include your element list and reasoning in your `.gv` file **as comments** (`//` lines) — not as nodes or edges — so it doesn't affect whether the file renders. Use the template I provide to make this easier.
 
 **Brief Memo**: Standard memo format, Word or PDF, Times New Roman, 10pt, 1.5 spacing, 1" margins. Make sure your team number, section, and names are on your memo.
 
-## Submission location:
+## Submission location
+
 Canvas
 
 # Module 4 Grading Criteria
@@ -118,9 +119,8 @@ This system evaluates **quality of reasoning and engagement with the system**, n
 First, your submission goes through the Format Check:
 
 - Your `.gv` file must be valid and must render successfully as a graph.
-- You must submit a copy of the rendered image along with the file.
 
-**If either check fails — the file doesn't render, or no rendered image is included — this component is 0 points. There is no partial credit for a file that doesn't render.** This is pass/fail, not a tier on the scale below.
+**If the check fails — the file doesn't render then this component is 0 points. There is no partial credit for a file that doesn't render.** This is pass/fail, not a tier on the scale below.
 
 If your submission passes the Format Check, it is then evaluated for **structural development** of the system using the scale below.
 
@@ -135,17 +135,19 @@ If your submission passes the Format Check, it is then evaluated for **structura
 - Causal relationships are clearly specified
 - Feedback loops are identified
 - Revisions reflect research, reflection, or improved understanding of the system
+- Your research efforts are clearly documented with citations in your comments.
 
 ### Partially Meets Requirements — 3.5 points
 - Some revisions are present
 - Causal structure is partially clarified
 - Feedback loops may be incomplete or unclear
-- Changes are limited or only partially justified
+- Changes are limited or only partially justified.
 
 ### Does Not Meet Requirements — 2 points
-- Minimal or superficial revision of the previous map
-- Causal relationships remain vague or unclear
-- Feedback loops are missing or not identified
+- Minimal or superficial revision of the previous map.
+- Causal relationships remain vague or unclear.
+- Feedback loops are missing or not identified.
+- No research efforts are documented in comments, i.e. no citations.
 
 *(Note: this tier is for a map that renders but shows weak revision. A map that does not render at all is 0 points under the Format Check above, not 2 points here.)*
 
@@ -173,6 +175,7 @@ This is a separate Word/PDF submission and is not subject to the map's Format Ch
 
 ### Meets Requirements — 5 points
 - Clearly explains how the map changed and why
+- Is focused on the assigned research topic and is not generally applicable to any issue in the US health care system.
 - Identifies uncertainties, tensions, or weak assumptions in the system
 - Demonstrates engagement with the limits of the current model
 
@@ -180,6 +183,7 @@ This is a separate Word/PDF submission and is not subject to the map's Format Ch
 - Describes changes to the system map
 - Some reflection is present but limited
 - Uncertainty or assumptions are only lightly discussed
+- Is focused on the assigned research topic and is not generally applicable to any issue in the US health care system.
 
 ### Does Not Meet Requirements — 2 points
 - Memo is largely descriptive
