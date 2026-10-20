@@ -510,10 +510,12 @@ If you did not use AI tools, no disclosure is required.
 
 # Instructor Use of AI
 
-In designing this course, its materials, and its assessments, I use AI tools as part of my drafting, synthesis, and analytic workflow. This may include supporting course design, developing rubrics, testing assessment logic, and assisting with large-scale evaluation under criteria that I define and control. I remain fully responsible for all instructional, evaluative, and grading decisions, and no automated system operates independently of my judgment. This disclosure is provided to model transparency about AI as an intellectual and administrative tool, not to imply equivalence between instructor and student responsibilities.
+In designing this course, its materials, and its assessments, I use AI tools to assist with drafting, synthesis, course organization, rubric development, and testing assessment logic.
 
-When AI tools are used to support review of student submissions, identifying information (names, student IDs) is removed first — the AI tool never sees work tied to your identity. This scoping is **triage and surfacing only, never scoring**: AI can flag patterns or help organize submissions for my review, but it does not assign scores or make final grading determinations.
+I also use AI to support an initial review of student work under criteria I define. This assistance may include organizing submissions, identifying strengths and areas for improvement, drafting feedback, and proposing rubric ratings or scores. These outputs are drafts for my review. I check the proposed evaluation against your submitted work and the assignment criteria, revise or reject it as needed, and determine the feedback and grades you receive. I remain responsible for all instructional, evaluative, and grading decisions.
 
-Standards governing student use of AI for submitted work are described separately in the [Class AI Policy](resources/Class-AI-Policy.qmd) and reflect the distinct purposes and responsibilities of student learning versus instructional and evaluative design. Student AI use policies govern authorship and learning; instructor AI use governs course design and evaluation. These are intentionally distinct.
+For AI-assisted review of student submissions, I use my CSU-provisioned ChatGPT account.
+
+Standards governing student use of AI are described separately in the [Class AI Policy](resources/Class-AI-Policy.qmd). Those standards address your authorship, reasoning, and learning; this disclosure explains my responsibility for course design and evaluation.
 
 This syllabus was prepared in accordance with CSUF University Policy Statement 300.004, Policy on Syllabi, effective November 5, 2025.
