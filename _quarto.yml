@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Prof. Smith's Classes"
+  llms-txt: true
   page-navigation: true
   navbar:
     background: primary
