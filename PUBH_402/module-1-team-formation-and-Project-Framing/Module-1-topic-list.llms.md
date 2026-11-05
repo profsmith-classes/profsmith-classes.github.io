@@ -1,0 +1,53 @@
+# Module 1 - Topic List
+
+## List of Topics
+
+Find your topic from the list below. Your topic was assigned by me to the team.
+
+### Vaccine Uptake
+
+Preventable illness and death persist because vaccine uptake emerges from interacting systems of trust, access, information, and policy rather than individual choice alone. How can we stabilize and improve vaccine uptake?
+
+**Example outcome or marker:** Vaccination coverage rates stratified by geography, race or ethnicity, and insurance status.
+
+### Opioid Epidemic
+
+Opioid-related morbidity and mortality continue as prescribing practices, drug supply dynamics, economic conditions, and treatment access reinforce one another across health and social systems. How can we reduce death and injury from opioid overdose?
+
+**Example outcome or marker:** Opioid overdose death rates per 100,000 population, examined over time.
+
+### Access to Mental Health Care
+
+Mental health needs go unmet because financing structures, workforce availability, stigma, and care delivery models fail to align with population demand. How could we improve access to mental health care?
+
+**Example outcome or marker:** Percentage of adults with a diagnosed mental health condition who receive any mental health treatment in a given year.
+
+### Access to Medical Care in Spanish-Speaking Communities
+
+Spanish-speaking communities experience worse health outcomes due to language barriers, immigration-related fear, and institutional practices that limit meaningful access to care. How can we improve access for Spanish-speaking communities.
+
+**Example outcome or marker:** Percentage of Spanish-speaking adults with a usual source of care; Rate of avoidable emergency department use among Spanish-speaking patients.
+
+### Access to Reproductive Care Including Abortion
+
+Reproductive health outcomes are increasingly shaped by legal, geographic, and institutional constraints rather than clinical need or patient preference. How can we increase access?
+
+**Example outcome or marker:** Average travel distance or time required to obtain comprehensive reproductive health services including abortion care.
+
+### Health Impacts of Extreme Heat
+
+Heat-related illness and death increase as housing quality, urban design, labor protections, and emergency response systems fail to adapt to rising temperatures.
+
+**Example outcome or marker:** Heat-related emergency department visits or mortality during extreme heat events.
+
+### Emergency Department Overcrowding
+
+Emergency department congestion persists as upstream access failures, payment incentives, staffing constraints, and patient flow dynamics reinforce reliance on acute care.
+
+**Example outcome or marker:** Average emergency department length of stay or inpatient boarding time.
+
+### Maternal Morbidity and Mortality
+
+Preventable maternal harm continues due to structural racism, fragmented prenatal care, insurance instability, and variation in hospital quality.
+
+**Example outcome or marker:** Maternal morbidity rates per 10,000 delivery hospitalizations.

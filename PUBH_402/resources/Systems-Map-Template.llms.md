@@ -1,0 +1,11 @@
+# Systems Map Template (Graphviz)
+
+This is a blank `.gv` file for your team to build your systems map on. It has no content — just an instructions block at the top (as comments), placeholder fields for your team number, class section, member names, and health topic, and commented-out examples showing the syntax for a node, an edge, and a feedback-loop cluster.
+
+Use it as the basis for the Graphviz `.gv` file you submit in [Module 3](../../PUBH_402/module-3-system-framing/Module-3---System-Framing-and-Initial-Element-Selection-(3-Weeks).llms.md). Delete the instructions and example lines once you’ve replaced them with your own team’s elements and relationships.
+
+This file is not on Canvas — **download it from the class GitHub page instead:** [Systems-Map-Template.gv](https://github.com/profsmith-classes/pubh-402/blob/e5184aaab449734c42991b3e4eb2d894c27ed890/Systems-Map-Template.gv). This link opens the file on GitHub — do not just copy and paste the text from the page. Look for the small **download icon** (a downward arrow) in the toolbar above the file’s contents, near the “Raw” and “Copy” buttons, and click it to save the file with its `.gv` extension intact.
+
+> **NOTE:**
+>
+> This is a plain-text file, not a Word document. If you’re unsure what that means or how to open and edit one, see [Using Text Editors](../../PUBH_402/resources/DOT-Explainer.llms.md#text-editors) in the DOT/GV Explainer before you start.

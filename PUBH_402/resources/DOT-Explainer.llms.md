@@ -1,0 +1,204 @@
+# DOT/GV Explainer
+
+# `.gv` Files and Graphviz: An Overview and Resources
+
+This course uses **GV files (Graphviz)** as a simple, formal way to represent systems. GV is not a drawing tool. It is a **text-based language** for describing the elements of a system and the connections between them.
+
+`.gv` is used here because it encourages precision, transparency, and clarity of thinking about system structure.
+
+> **WARNING:**
+>
+> Remember, we are using systems maps as tools to understand how the US healthcare system works. We will create systems maps using software. `.gv` files are written in a language that we will use to describe our healthcare system and create a map.
+
+You can also follow along and look at my example `.gv` file on a [coffee shop’s customer traffic](../../PUBH_402/resources/Coffee-Shop-Example-Graphviz.llms.md). This file is not on Canvas — it’s downloadable from the class GitHub page (link on that page).
+
+## What a `.gv` File Is
+
+A `.gv` file is a plain-text file that describes a graph. A system map is a graph.
+
+In a `.gv` file:
+
+- **Elements** of a system are written as *nodes*
+- **Connections** between elements are written as *edges*
+- Direction matters: arrows encode influence or causation
+
+A simple `.gv` file might look like this:
+
+    digraph {
+      Population -> Resource_Use
+      Resource_Use -> Environmental_Impact
+    }
+
+In plain language, this `.gv` file is making the following claims:
+
+- There is an element called **Population**.
+- There is an element called **Resource Use**.
+- There is an element called **Environmental Impact**.
+- Changes in **Population** influence **Resource Use**.
+- Changes in **Resource Use** influence **Environmental Impact**.
+
+The arrows indicate the *direction* of influence. This model does not claim that environmental impact directly affects population, nor does it claim that resource use affects population in return. Those connections are absent, and that absence is itself a modeling choice.
+
+This file describes a system structure. How it looks visually depends on how it is rendered.
+
+> **IMPORTANT:**
+>
+> For this assignment, you will use a **plain text file** to describe your system map in Graphviz (`.gv`) format. A plain text file contains only words and symbols—no hidden formatting, fonts, or layout instructions. Text editors (such as Notepad, TextEdit in plain-text mode, or VS Code) are designed for this kind of file. We use plain text because it is transparent, stable, and precise: what you type is exactly what the system reads. This keeps the focus on causal structure and logic rather than visual design or software features. You are not being evaluated on technical skill—only on whether your system relationships are clearly and correctly specified.
+>
+> Do not use Word or Google Docs for working on these files. Use only a text editor. Notepad is the free text editor that comes on Windows. Text Edit is the free text editor that comes on an Apple computer.
+
+## Why This Course Uses `.gv` files
+
+`.gv` files are used because they:
+
+- Makes assumptions explicit
+- Forces clarity about direction and influence
+- Separates system structure from visual layout
+- Supports feedback loops naturally
+- Encourages thinking in terms of **elements and connections** (after Donella Meadows)
+- Keeps you from worrying about drawing systems maps.
+
+## What You Are Expected to Be Comfortable With
+
+You do not need to memorize `.gv` syntax. You *do* need to be able to work with simple examples.
+
+You should aim to be comfortable with:
+
+- Reading a `.gv` file and explaining what each node represents
+- Following arrows and explaining what each connection claims
+- Recognizing feedback loops as circular paths
+- Creating a `.gv` file for your system map using a template.
+- Making small edits to an existing `.gv` file
+- Understanding that layout is separate from meaning
+
+`.gv` is used to support systems thinking, not to test technical skill.
+
+## `.gv` File Notation: Comments, Labels, and Formatting
+
+`.gv` files support simple conventions that help make system structure clearer without changing meaning. *In addition to the examples below, open my example `.gv` file and examine it while you read the explanations below.*
+
+### Comments
+
+Comments allow you to leave notes in a `.gv` file that do not affect the graph.
+
+- Single-line comments begin with `//`
+- Multi-line comments are wrapped in `/* */`
+
+Comments are useful for explaining modeling choices, assumptions, or uncertainties.
+
+Example:
+
+    // This connection represents perceived influence, not measured causation
+    Population -> Resource_Use
+
+### Labels for Polarity
+
+Connections can be labeled to indicate whether an influence is **positive** or **negative**.
+
+- A **positive (+)** polarity means that an increase in one element tends to increase the other (or a decrease tends to decrease it).
+- A **negative (–)** polarity means that an increase in one element tends to decrease the other (or vice versa).
+
+Example:
+
+    Population -> Resource_Use [label="+"]
+    Resource_Use -> Environmental_Impact [label="+"]
+
+Labels describe the *direction of influence*, not its strength.
+
+### Labels for Delays
+
+Delays can be represented by labeling a connection or by inserting an intermediate element.
+
+Example (labeled delay):
+
+    Resource_Use -> Environmental_Impact [label="+ (delay)"]
+
+Example (explicit delay element):
+
+    Resource_Use -> Accumulated_Effects -> Environmental_Impact
+
+Delays are important because they often explain why systems behave in unexpected or counterintuitive ways.
+
+### Subgraphs and Clusters
+
+You will be asked to show reinforcing and balancing loops in your project. You can show those using subgraphs and clusters.
+
+Here is an [example](https://graphs.grevian.org/example#example-6)
+
+## Formatting and Readability
+
+GV allows basic formatting to improve readability:
+
+- Labels can include spaces and explanatory text
+- Nodes and edges can be grouped using clusters
+- Visual attributes (such as color or shape) may be used sparingly for clarity
+
+Formatting choices should support understanding, not decoration. Structure comes first.
+
+## Tools for Working with `.gv` Files
+
+You can work with `.gv` files in several ways:
+
+### Graphviz
+
+This is the software that reads a `.gv` file and creates a graph from it. You can use it in two ways:
+
+#### Online renderers
+
+These let you paste GV code and see the output. This is the recommended approach.
+
+[Graphviz Visual Editor](https://magjac.com/graphviz-visual-editor/) [Graphviz Online](https://dreampuf.github.io/GraphvizOnline/) (This is a great first choice to use for class) [Edotor](https://edotor.net/)
+
+#### Graphviz installed locally (command line rendering)
+
+If you are comfortable with installing software on your computer at the command line, feel free to install and use the Graphviz software on your computer. Please reach out to me if you use this option.
+
+### Text Editors
+
+For this assignment, you will use a **plain text file** to describe your system map in Graphviz (`.gv`) format. A plain text file contains only words and symbols—no hidden formatting, fonts, or layout instructions. Text editors (such as Notepad, TextEdit in plain-text mode, or VS Code) are designed for this kind of file. We use plain text because it is transparent, stable, and precise: what you type is exactly what the system reads. This keeps the focus on causal structure and logic rather than visual design or software features. You are not being evaluated on technical skill—only on whether your system relationships are clearly and correctly specified.
+
+> **WARNING:**
+>
+> Do not use Word or Google Docs for working on these files. Use only a text editor. Notepad is the free text editor that comes on Windows. Text Edit is the free text editor that comes on an Apple computer.
+
+Any workflow that lets you read, edit, and render GV files is sufficient for this course.
+
+## Recommended Resources
+
+### Introductory Overviews
+
+Graphviz official documentation: [What is Graphviz](https://graphviz.org/#what-is-graphviz)
+
+@TheBuilder has a good [overview](https://youtu.be/YL260-A5r2U?si=aFiNNmHqAn1OkdY2) on YouTube. (Stop at 9:35 in the video)
+
+[Graphviz (`.gv`) Examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
+
+[Graphviz Pocket Reference](https://graphs.grevian.org/)
+
+These explain the core ideas without assuming prior programming experience.
+
+### Common Early Confusions
+
+- **GV files are not drawings.** They describe relationships, not positions.
+- **Messy output usually means unclear structure**, not a formatting failure.
+- **Feedback loops are not special symbols.** They emerge when connections form a cycle.
+- **Clusters organize ideas but do not define system boundaries.**
+
+If something looks confusing, the question to ask is usually: *What is this element connected to, and why?*
+
+## Self-Check (Not Submitted)
+
+Before using GV in assignments, see if you can:
+
+- Read a simple GV file and explain what system it represents
+- Describe what each arrow is claiming, in plain language
+- Identify at least one feedback loop (or explain why none exist)
+- Make a small change to a GV file and predict how the structure will change
+
+If you can do these things, you have enough GV fluency for this course.
+
+## The Main Idea Revisited
+
+GV is a language for making system structure explicit. It helps turn informal ideas about how things interact into clear, inspectable claims about **elements and connections**.
+
+The goal is not to produce perfect diagrams, but to think clearly about systems.

@@ -1,0 +1,63 @@
+# Course Modules
+
+The links below will take you to the course page in Leganto where you will find readings, posted lectures, and other materials for each module. Follow the schedule for each module on the syllabus
+
+> **NOTE:**
+>
+> You must be enrolled in the course in order to access these pages. You can also access Leganto through our course Canvas page.
+
+# Course Introduction
+
+This is an introductory course in environmental health. The goal of the course is to provide students with a basic understanding of the relationship between the environment and human health. The course is organized into three broad areas representing three approaches to understanding the enviornment and health. First, the course introduces you to an approach to the environmment that views the environment as a set of natural resources that are essential to human health and as a source of exposures. In this perspective, the enviroment is viewed as something to be used and managed. Next, the course introduces climate change and human health and the sustainability framework. In this framework, the environment and human development are viewed as interdependent and the goal is to achieve a balance between human development and environmetal protection without altering fundamental human development goals and values. Finally, the course introduces the Anthropocene and the planetary health framework. In this approach, human activities are understood to fundamentally alter the planet on a geologic scale. This requires an understanding of how humans as a species and their cultures form the environment.
+
+As you work through the material you will be exploring how these different ways of seeing the environment influence and are influenced by your own values and beliefs, and will ask what it means for your understanding of human health and flourishing.
+
+# Introduction to Environmental Health
+
+[Introduction to Environmental Health](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296780002908)
+
+# Exploring your Values
+
+# Water
+
+[Water](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296920002908)
+
+# Land
+
+[Land](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296940002908)
+
+# Air
+
+[Air](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296970002908)
+
+# Causes of Climate Change
+
+[Causes of Climate Change](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653296990002908)
+
+# Climate Change, the Environment, and Human Health
+
+[Climate Change, the Environment, and Human Health](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297050002908)
+
+# Sustainability
+
+[Sustainability](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297160002908)
+
+# Introduction to the Anthropocene
+
+[Introduction to the Anthropocene](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297230002908)
+
+# The Anthropocene and Health - Planetary Health Framework
+
+[The Anthropocene and Health - Planetary Health Framework](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297270002908)
+
+# The Built Environment
+
+[The Built Environment](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297340002908)
+
+# The Built Environment and Health
+
+[The Built Environment and Health, Chapters 1 - 3](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297380002908)
+
+# The Built Environment and the Anthropocene
+
+[The Built Environment and the Anthropocene, Chapters 5 & 6](https://csu-fullerton.alma.exlibrisgroup.com/leganto/public/01CALS_FUL/lists/11653296770002908?auth=SAML&section=11653297390002908)

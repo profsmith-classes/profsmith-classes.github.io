@@ -1,0 +1,11 @@
+# System Elements Template (Graphviz)
+
+This is a reference version of the [System Elements](../../PUBH_402/resources/System-Elements.llms.md) list, with every element already formatted as a Graphviz node. Each node’s label is the element name, and the comment directly above it is that element’s full definition, taken word-for-word from the System Elements page.
+
+This file has **no edges and no loop clusters** — it is not a systems map and not your Module 3 submission. Use it to see every available element and its definition laid out as `.gv` syntax in one place, and to see what a single node looks like, before you start connecting your own elements in [Module 3](../../PUBH_402/module-3-system-framing/Module-3---System-Framing-and-Initial-Element-Selection-(3-Weeks).llms.md).
+
+**Download the file here:** [System-Elements-Template.gv](https://github.com/profsmith-classes/pubh-402/blob/86859b947f0f21e4b0e4a4072f37984c77d5871a/System-Elements-Template.gv). This link opens the file on GitHub — do not just copy and paste the text from the page. Look for the small **download icon** (a downward arrow) in the toolbar above the file’s contents, near the “Raw” and “Copy” buttons, and click it to save the file with its `.gv` extension intact.
+
+> **NOTE:**
+>
+> This is a plain-text file, not a Word document. If you’re unsure what that means or how to open and edit one, see [Using Text Editors](../../PUBH_402/resources/DOT-Explainer.llms.md#text-editors) in the DOT/GV Explainer before you start.

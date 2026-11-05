@@ -1,0 +1,21 @@
+# Welcome
+
+intro
+
+Published
+
+June 17, 2026
+
+Welcome to PUBH 115: Introduction to Environmental Health and Safety!
+
+On this Welcome Page, you will find some basic information about this course, including office hours and reading materials.
+
+This course is online and asynchronous. That means we will not meet in person or on Zoom. Your progress through the course and learning will be self-paced. There will be assignments and materials for you to engage with. Generally, I will not be posting lectures. You should review the material and, if you have particular questions on a topic, email me directly or visit me during office hours.
+
+# Course Website
+
+This course website has all the course material and information on the course.
+
+# Canvas
+
+You will submit assignments on Canvas. Grades will be posted on Canvas as well.

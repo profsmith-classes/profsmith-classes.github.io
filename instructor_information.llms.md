@@ -1,0 +1,28 @@
+# Instructor Information
+
+syllabus
+
+Published
+
+June 17, 2026
+
+# Instructor Information
+
+**Instructor:** Jason A. Smith
+
+**Email:** <jasosmith@fullerton.edu>
+
+**Phone:** +1 657-278-5606
+
+**Office Location:** KHS 241
+
+**Office Hours (via Zoom)**
+
+- Tuesday, 9:00–10:30 AM
+- Wednesday, 10:00–11:30 AM
+
+Use the link in Canvas to schedule and for the Zoom link.
+
+## Contacting Me
+
+The best way to contact me is by email. I will respond to emails within 48 hours. Put the course number and section in the subject line of the email.

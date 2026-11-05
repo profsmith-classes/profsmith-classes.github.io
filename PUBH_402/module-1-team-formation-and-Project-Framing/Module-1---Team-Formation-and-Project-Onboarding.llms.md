@@ -1,0 +1,123 @@
+# Module 1 - Team Formation and Project Onboarding
+
+# Module Orientation
+
+In this module, you will meet your team, decide how to work together as a team, and choose the health problem that your team wants to focus on this term.
+
+# What You Should Be Able to Do After This Module
+
+By the end of this module, you should be able to:
+
+- Describe what makes an effective team.
+- Know what health problem your team has chosen.
+- Understand and be comfortable with the requirements of your team agreement.
+
+# Core Concepts and Materials
+
+## Developing a Team Agreement
+
+This course is designed as a problem-based learning (PBL) course. PBL is an approach that teaches a topic by trying to solve real-world problems. You are going to learn the basics of the US health care system by trying to solve a real-world health problem. PBL relies on you working effectively on a team together.
+
+Problem-based learning requires teams to think together, not simply divide tasks and stitch them together later. Strong teams create explicit agreements about how they will work, communicate, make decisions, and hold each other accountable. This page outlines the practices that consistently lead to successful teams—and the pitfalls that undermine them.
+
+Use this page as a reference as you develop your team’s working agreement.
+
+### Why Team Agreements Matter
+
+A team agreement is a shared document that makes expectations explicit. It helps prevent misunderstandings, diffuses tension before it builds, and gives the team an anchor when challenges arise. Think of it as the operating manual your group writes for itself.
+
+### Core Elements of Effective Teamwork
+
+**1. Shared Understanding Comes First** Before dividing tasks, the team must discuss the problem together. Everyone should understand the goals, the rationale behind your approach, and the key decisions. A strong project always begins with a shared analysis.
+
+**2. Communication Must Be Reliable and Transparent** Good teams don’t rely on luck or last-minute scrambling. Establish norms such as:
+
+• What communication platform you will use • Expected response times • How you will document decisions and who will do it • Frequency and format of check-ins Consistent communication prevents most problems.
+
+**3. Collaboration Beats “Divide and Assemble”** Teams that simply split up the project produce fragmented, inconsistent work. Instead:
+
+• Plan the structure and argument together • Review each member’s work as a group • Revise collaboratively so the final product speaks with one voice This approach mirrors real-world team-based problem solving.
+
+**4. Accountability Is Shared and Explicit** Accountability is not punishment—it is clarity. A strong team agreement includes:
+
+• Individual responsibilities and deadlines • What happens if someone falls behind • How the team will redistribute tasks when needed • How concerns will be raised and addressed Teams succeed when expectations are visible and mutual.
+
+### Building a Strong Team Agreement: Key Tips
+
+**Set Clear Roles, But Stay Flexible** Assign roles such as coordinator, writer/editor, researcher, or data lead, but revisit them as the project evolves. Roles are tools, not cages.
+
+**Name Your Internal Deadlines** Set earlier deadlines than the official ones. Give yourselves time to review, synthesize, and revise.
+
+**Decide How You Will Handle Conflict** Conflict is normal. Avoiding it is harmful. Agree on how you will raise concerns, how disagreements will be resolved, and when to involve the instructor.
+
+**Define Quality Standards Together** Clarify what “good work” means for your team. Alignment reduces frustration and mismatched expectations.
+
+**Plan for the Unexpected** People get sick, overloaded, or stuck. A good agreement includes what the team will do—not who to blame—when things change.
+
+### Common Pitfalls to Avoid
+
+Teams typically struggle when they:
+
+• Split the project into isolated parts without shared discussion • Rely on one or two members to carry the work • Assume “someone else” is handling a task • Fail to communicate early when problems arise • Wait until the last minute to coordinate
+
+These issues are preventable when the team agreement is clear, specific, and used actively—not just created and forgotten.
+
+### Using the Agreement Throughout the Project
+
+A team agreement is a living document. Revisit it regularly:
+
+• At the start of each major project phase • When challenges emerge • When team roles or needs shift
+
+Successful teams adjust their agreements as they learn more about how they work together.
+
+## Explore your Health Problem
+
+See the [Module 1 Topic List](../../PUBH_402/module-1-team-formation-and-Project-Framing/Module-1-topic-list.llms.md) to find your team’s assigned health problem. Your topic was assigned by me to the team. Each topic includes an example outcome or marker that might be used to measure this particular problem; there may be other markers as well.
+
+At this point in our process, take some time and do some preliminary research on your topic before you start the next module.
+
+The health problem provides **context and orientation**, not a single outcome that every system element must directly explain.
+
+# Module Deliverables
+
+## What to submit:
+
+- Your team agreement
+
+## Format:
+
+For your team agreement, you must at a minimum answer these questions:
+
+Answer every question.
+
+1.  What platform will you use to communicate?
+2.  What are your expectations for response times?
+3.  How will you document your decisions? Who will do it?
+4.  How frequent will you check-in together?
+5.  When and how will you meet?
+6.  What is the meeting schedule?
+7.  How will you review each member’s work together?
+8.  How will you make decisions on the team?
+9.  What are the responsibilities of each team member?
+10. How will you set and enforce deadlines?
+11. How will you redistribute tasks if necessary?
+12. How will you manage conflict?
+13. How will you handle it if someone falls behind?
+14. What roles have you assigned?
+15. How will roles be shared?
+
+By submitting your agreement on Canvas, you are indicating that every member of your team has been consulted and has explicitly agreed to to this agreement.
+
+Include your class section, team number, and the names of your team members at the top of the page.
+
+## Length:
+
+Your agreement should be approximately a page to two pages.
+
+## Submission location:
+
+- Canvas
+
+## How This Will Be Evaluated
+
+This deliverable will be evaluated based on completeness. You are establishing how your team will function and coordinate work.

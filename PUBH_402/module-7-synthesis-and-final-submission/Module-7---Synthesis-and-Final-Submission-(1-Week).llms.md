@@ -1,0 +1,66 @@
+# Module 7 - Synthesis and Final Submission (1 Week)
+
+# Module Orientation
+
+This is the point where everything you’ve been building comes together.
+
+Up to now, you’ve been mapping parts of a system, testing assumptions, revising relationships, and sitting with uncertainty. Module 7 asks you to step back and finalize your team’s system map — your best current explanation of how the system works, clear, grounded, and honest about its limits.
+
+> **TIP:**
+>
+> This module is about synthesis, not stress-testing yourself at the last minute. You are not expected to discover something new here. You are expected to *make sense of what you already built*.
+>
+> Systems thinking is not about certainty. It’s about disciplined explanation in a messy world. This final submission is your best current explanation — clear, grounded, and honest about its limits.
+>
+> Take a breath. Then finalize the system’s story.
+
+# Module Deliverables
+
+## What to submit
+
+### Final System Map
+
+Submit your team’s final version of the system map you have been developing.
+
+Your map should:
+
+- Include the elements you ultimately decided were essential
+- Show clear causal relationships
+- Make feedback loops and major dynamics visible
+- Reflect revisions made based on research and reasoning over the term
+
+This is your *best current model* of the system, not a claim that the system is fully knowable.
+
+#### Format
+
+Submit your team’s final `.gv` file and a copy of your rendered system map.
+
+#### Submission Location
+
+Canvas
+
+# How This Will Be Evaluated
+
+**This component starts with a Format Check; it’s evaluated on quality only if it passes.**
+
+First, your submission goes through the Format Check:
+
+- Your `.gv` file must be valid and must render successfully as a graph.
+- You must submit a copy of the rendered image along with the file.
+
+**If either check fails — the file doesn’t render, or no rendered image is included — this module is 0 points. There is no partial credit for a file that doesn’t render.** Because the final map is the only deliverable in Module 7, failing the Format Check means the module as a whole earns no credit — there is no separate memo or narrative component to fall back on.
+
+If your submission passes the Format Check, it is then evaluated using the same diagnostic question used throughout the Systems Analysis Project:
+
+**Does this submission demonstrate a coherent, well-reasoned systems understanding of the health problem, appropriate for the end of the project?**
+
+Strong submissions show:
+
+- Integration rather than accumulation
+- Clear causal logic
+- Thoughtful revision and learning over time
+- A system that “hangs together” conceptually
+
+Minor technical or stylistic issues will not outweigh strong reasoning — that standard applies once the map has already passed the Format Check above, not as a substitute for it.
+
+Remember: your team’s final map may also be used to write part of your individualized final exam questions — a map that clearly shows your reasoning makes that process easier and fairer for your team.

@@ -1,0 +1,194 @@
+# Module 4 - System Expansion and Early Evidence (2 Weeks)
+
+# Module Orientation
+
+Up to now, you have been *building* a system. In this module, you start *asking questions* about it.
+
+The goal is not to make your system map prettier or bigger for its own sake. The goal is to use the map as a thinking device: to see where your assumptions strain, where causal stories are vague, and where important dynamics are missing or oversimplified. What is your map telling you, where is your map leaving you uncertain?
+
+At this stage, a good system map is one that **creates productive uncertainty**. Confusion here is not a failure; it is evidence that the system is starting to behave like a system rather than a diagram.
+
+**Individual loop ownership begins now.** At the end of Module 3, your team identified at least one provisional feedback loop together. Starting in this module, each team member takes individual ownership of developing one loop in depth. Loops are built so that they share elements with at least one other teammate’s loop — the point is not to give you a private corner of the map to work on alone, but to make sure that developing your loop well requires understanding how it connects to your teammates’ loops. A team that divides the map without doing this collaborative thinking will produce a map that is visibly broken, not just shallow.
+
+# What You Should Be Able to Do After This Module
+
+By the end of this module, you should be able to use your system map to drive research questions focused on better-understanding your health care problem.
+
+# Core Concepts and Materials
+
+You should be using your map now to surface questions like:
+
+- Where am I asserting causality without evidence?
+- Which relationships feel directionally right but poorly specified?
+- What feedback loops seem implied but not fully articulated?
+- What elements did I exclude earlier that now appear structurally important?
+- What assumptions would need to be true for this system to behave as I’ve drawn it?
+- Are there elements missing from this map and from the provided list of elements? Do we need new elements?
+
+You are not expected to resolve all of these questions yet. You are expected to *see* them.
+
+## Research
+
+You should be more intensely focused on researching your health problem and the US health care system using your system map as a research partner. Your system map should help focus your research on topics where your system map is unclear or where it lacks enough detail. Your research should lead you to update your system map with new elements, more detail, and possible revisions. You will need to show your research work in your submission.
+
+## Discomfort
+
+If this module feels harder and less settled than earlier ones, that is expected. Systems thinking tends to feel worse before it feels better. You are learning to sit inside incomplete explanations rather than rushing to closure. That skill matters far more than a tidy diagram.
+
+# How This Module Connects to Your System Map
+
+Use the ideas in this module to actively revise or interrogate your system map.
+
+Consider:
+
+- What part of your system map should change as a result of this module?
+- What assumptions does this module challenge?
+- Where does your current map feel strongest or weakest after engaging this material?
+
+Your system map should evolve as you move through modules
+
+# Module Deliverables
+
+## What to submit
+
+### Revised system map
+
+Update your map based on the research and questions you asked in this module. Make sure that you have identified feedback loops in your system.
+
+Your revision may include:
+
+- Adding or removing elements, with justification You map must contain 12 elements from the provided list and in the required categories but 12 is the minimum. You may add additional elements if necessary.
+- Making feedback relationships clearer or more explicit
+- Clarifying causal direction or polarity where it was previously vague
+- Adjusting structure based on emerging uncertainties
+- Each team member developing their own owned feedback loop in depth — see Individual loop ownership above
+
+This is an *evolution* of your prior map, not starting over.
+
+- Use comments in you `.gv` file to discuss changes and additions you have made.
+- Turn in your `.gv` file.
+- You will be turning in a research summary in Module 5. **Start placing your research sources in your comments in your submission.**
+
+### Element reconsideration
+
+1.  Return to the elements you previously excluded. For each:
+    - Briefly state whether it should now be included or remain excluded
+    - Explain *why* that decision makes sense given how the system is now behaving and what you know now.
+2.  You may also propose **new elements** that were not part of the original list if—and only if—you can justify their inclusion structurally (what they do in the system, not just why they seem important). If you propose new elements, provide the name of the element, the areas (if any) you think it belongs in, and a sentence why it is important
+3.  Write this reconsideration up as `//` comments in your `.gv` file — **not** as new nodes or edges. Only elements and relationships that are actually part of your map should appear as node or edge lines; a reconsideration note written as a real node/edge (rather than a comment) can break the file’s ability to render.
+
+### Brief memo (reflection on system behavior)
+
+Submit a short memo (concise, not polished prose) that addresses:
+
+- How the system map changed and why
+- What uncertainties or tensions the revised map made visible
+- Which assumptions feel weakest or most in need of evidence
+
+This memo is not a literature review. It is a snapshot of your thinking as it encounters the limits of your current model.
+
+## Format:
+
+**Revised System Map**: Turn in your `.gv` file.
+
+**Element Reconsideration**: Include your element list and reasoning in your `.gv` file **as comments** (`//` lines) — not as nodes or edges — so it doesn’t affect whether the file renders. Use the template I provide to make this easier.
+
+**Brief Memo**: Standard memo format, Word or PDF, Times New Roman, 10pt, 1.5 spacing, 1” margins. Make sure your team number, section, and names are on your memo.
+
+## Submission location
+
+Canvas
+
+# Module 4 Grading Criteria
+
+Each component of Module 4 is graded separately. Each component is worth **5 points** (15 points total for the module).
+
+This system evaluates **quality of reasoning and engagement with the system**, not cosmetic features of the diagram — but your Revised System Map has to clear a format check before that evaluation happens at all.
+
+------------------------------------------------------------------------
+
+# 1. Revised System Map (5 points)
+
+**This component starts with a Format Check; it’s evaluated on quality only if it passes.**
+
+First, your submission goes through the Format Check:
+
+- Your `.gv` file must be valid and must render successfully as a graph.
+
+**If the check fails — the file doesn’t render then this component is 0 points. There is no partial credit for a file that doesn’t render.** This is pass/fail, not a tier on the scale below.
+
+If your submission passes the Format Check, it is then evaluated for **structural development** of the system using the scale below.
+
+| Evaluation Level             | Points |
+|------------------------------|--------|
+| Meets Requirements           | 5      |
+| Partially Meets Requirements | 3.5    |
+| Does Not Meet Requirements   | 2      |
+
+### Meets Requirements — 5 points
+
+- The map shows **meaningful structural revision**
+- Causal relationships are clearly specified
+- Feedback loops are identified
+- Revisions reflect research, reflection, or improved understanding of the system
+- Your research efforts are clearly documented with citations in your comments.
+
+### Partially Meets Requirements — 3.5 points
+
+- Some revisions are present
+- Causal structure is partially clarified
+- Feedback loops may be incomplete or unclear
+- Changes are limited or only partially justified.
+
+### Does Not Meet Requirements — 2 points
+
+- Minimal or superficial revision of the previous map.
+- Causal relationships remain vague or unclear.
+- Feedback loops are missing or not identified.
+- No research efforts are documented in comments, i.e. no citations.
+
+*(Note: this tier is for a map that renders but shows weak revision. A map that does not render at all is 0 points under the Format Check above, not 2 points here.)*
+
+# 2. Element Reconsideration (5 points)
+
+This component is **not** subject to the Format Check above — it evaluates the reasoning in your comments, which can be read even if there’s a problem elsewhere in the file. It evaluates **how teams reason about system boundaries and element selection**.
+
+### Meets Requirements — 5 points
+
+- Clear reasoning is provided for why elements are included or excluded
+- Decisions reflect understanding of the system’s structure
+- New elements (if proposed) are justified structurally
+
+### Partially Meets Requirements — 3.5 points
+
+- Some explanation is provided
+- Reasoning is present but limited or inconsistent
+- Structural justification may be incomplete
+
+### Does Not Meet Requirements — 2 points
+
+- Little or no explanation for element decisions
+- Inclusion or exclusion of elements appears arbitrary
+
+# 3. Brief Memo: Reflection on System Behavior (5 points)
+
+This is a separate Word/PDF submission and is not subject to the map’s Format Check. The memo should reflect on **how the system map changed and what uncertainties remain**.
+
+### Meets Requirements — 5 points
+
+- Clearly explains how the map changed and why
+- Is focused on the assigned research topic and is not generally applicable to any issue in the US health care system.
+- Identifies uncertainties, tensions, or weak assumptions in the system
+- Demonstrates engagement with the limits of the current model
+
+### Partially Meets Requirements — 3.5 points
+
+- Describes changes to the system map
+- Some reflection is present but limited
+- Uncertainty or assumptions are only lightly discussed
+- Is focused on the assigned research topic and is not generally applicable to any issue in the US health care system.
+
+### Does Not Meet Requirements — 2 points
+
+- Memo is largely descriptive
+- Little reflection on system behavior or uncertainty

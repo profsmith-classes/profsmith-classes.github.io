@@ -1,0 +1,223 @@
+# Tips for Working in This Course
+
+This page collects practical advice for navigating PUBH 402. None of this replaces assignment instructions. Think of it as **field notes** from people who have already walked this terrain.
+
+You do not need to follow every tip perfectly. Use them to orient yourself when things feel unclear or harder than expected.
+
+# How to Make This Course Easier (Not Harder)
+
+The single most useful tip in this course is this:
+
+**Focus on understanding the health problem, not on “getting the assignment right.”**
+
+Students often struggle when they:
+
+- try to reverse-engineer what the instructor wants,
+- treat the system map as a technical task,
+- aim for polish or certainty too early.
+
+The course becomes more manageable when you:
+
+- stay curious about why the problem persists,
+- explore causes even when you’re unsure,
+- follow questions that genuinely interest you,
+- treat the system map as a tool for thinking, not a final answer.
+
+If you are engaged with the health problem itself, the assignments usually take care of themselves.
+
+# Why You Can’t Save This for the End
+
+This is the most important practical warning on this page.
+
+A systems map is built through **iteration**, not assembly. Iteration means to repeat the process over and over, generating a new and better version each times. You identify elements, connect them, notice the connections don’t quite work, research, and revise — over weeks. There is no version of this course where you skip the weekly work and reconstruct a good map in the final days. The reasoning literally cannot be compressed into a single sitting.
+
+The arithmetic makes this concrete. This is a 3-unit course, which assumes about **9 hours of work per week**. If you do nothing for three weeks and then face a deadline, that’s 30+ hours of work in one week — work that depends on thinking you haven’t done yet. That isn’t a motivation problem. **It’s a physical impossibility on top of your other courses and commitments.**
+
+What actually works:
+
+- Start each module early, even if you only have a vague idea.
+- Expect your first version to be incomplete and wrong. That’s normal and part of the process.
+- Treat each week’s work as raw material for the next, not as a separate task to finish.
+
+> **WARNING:**
+>
+> If you find yourself planning to “catch up this weekend” on several weeks of mapping work, that plan will not survive contact with reality. Reach out *before* the deadline, not after.
+
+# How to Know If You’re Doing Okay
+
+Early in the course, many students worry that they are behind. Use these signals instead:
+
+- **Confused but working?** That’s normal.
+- **Asking “why does this behave this way?”** You’re on track.
+- **Revising your thinking over time?** That’s success in this course.
+- **Avoiding the work because it feels unclear?** That’s a sign to pause and reach out.
+
+There are two different states that can both feel like “I’m struggling,” and they call for opposite responses:
+
+- **Confusion + engagement is productive.** If you’re actively wrestling with the problem, keep going — this is the work.
+- **Silence + avoidance is a warning sign.** If you’ve stopped opening the file because it feels unclear, that’s the moment to act, not wait. Reassurance that “confusion is normal” is *not* permission to keep waiting.
+
+If you recognize yourself in that second state, the single best move is to reach out, even with nothing more than “I’ve stalled and I’m not sure why.”
+
+> **WARNING:**
+>
+> The students who get into trouble are rarely the confused ones — they’re the ones who went quiet and did not reach out for help.
+
+# Common Traps to Avoid
+
+These patterns make the course harder than it needs to be:
+
+- Waiting for full clarity before starting
+- Over-polishing early work
+- Treating early drafts as if they must be “right”
+- Dividing team work before thinking together (see [A Note on Teams](#a-note-on-teams))
+- Optimizing for format instead of explanation
+- Being vague when the assignment rewards specificity (see below)
+
+These are understandable habits from other courses — but they don’t work well here.
+
+# Render Your File Before You Submit It (The Format Check)
+
+Starting in Module 4, every `.gv` file you submit — the Revised System Map (Module 4), the Final System Map (Module 5), and the Final System Map (Module 7) — goes through a **Format Check** before anything else. Two requirements: the file has to actually render as a valid graph, and you have to submit a copy of the rendered image along with it.
+
+> **IMPORTANT:**
+>
+> If either check fails — the file doesn’t render, or there’s no rendered image — that component is zero points. There is no partial credit, and strong reasoning inside a file that doesn’t render can’t be evaluated, let alone rescue the score. In Module 7 specifically, since the final map is the module’s only deliverable, failing the Format Check zeroes the entire module.
+
+This is the most avoidable kind of point loss in the whole course, because it’s mechanical, not a judgment call:
+
+- Render your file in an online Graphviz tool before you submit — see the [DOT/GV Explainer](../PUBH_402/resources/DOT-Explainer.llms.md) for recommended tools.
+- Do this every time you edit the file, not just once at the start — a file that rendered last week can break with one bad edit.
+- If you’re starting a new `.gv` file, build from the [Systems Map Template](../PUBH_402/resources/Systems-Map-Template.llms.md) rather than from scratch — its structure and styling are already known to render, so you’re only responsible for what you add.
+- Submit the rendered image alongside the file every time. A file that renders but arrives with no image still fails the check.
+
+# Be Specific (This Is Where Most Points Are Won or Lost)
+
+The most common problem in submitted work is **vagueness**: writing that could apply to almost any health problem in the U.S. A check-in or memo that talks generally about “social determinants” or “policy and financing” doesn’t show how *your team’s system* actually works. This is the exact standard your [Team Check-In](../PUBH_402/Syllabus.llms.md#team-check-ins) grades against — generic language is treated as indistinguishable from not understanding the system, regardless of how confident it sounds.
+
+The fix is to name concrete elements and relationships from your own map.
+
+Compare:
+
+- **Too abstract:** “Policy and financing influence outcomes.”
+- **Specific:** “Our inclusion of Medicaid reimbursement rates connects to primary care capacity, which then affects emergency department utilization. Access to primary care reduces emergency department visits, which in turn reduces wait times and improves patient outcomes.”
+
+The second version shows reasoning. The first could have been written without doing any of the work and can be easily applied to any problem in the U.S. health care system. Whenever you’re asked what you think, point at specific elements, relationships, feedback loops, or boundary choices in your map. Uncertainty is expected; vagueness is not.
+
+# Using AI as an Adversarial Critic (Modules 5–6)
+
+Starting in Module 5, part of the assignment design asks you to use AI differently than you might be used to: not to help you write, but to challenge your own reasoning. You’ll draft a **critique skill** — written instructions telling AI exactly what to check for — and use it to pressure-test a specific causal claim in your own loop. In Module 6 this becomes a full memo → AI critique → response cycle, and the critique skill itself is graded on its rigor.
+
+This is a different skill than brainstorming or drafting with AI, and it’s easy to get wrong in either direction: too trusting (accepting whatever AI says as correct) or too dismissive (waving off a real problem because the AI’s tone was blunt). Read the [AI Explainer](../PUBH_402/resources/AI-Explainer.llms.md) before you get to Module 5 — it covers what AI is and isn’t good for, how to prompt it to actually disagree with you instead of defaulting to agreement, and how to draft and test a critique skill that’s rigorous rather than soft.
+
+# A note on questions, confusion, and communication
+
+This course is designed to challenge how you think about public health problems. As a result, there will be times when you feel uncertain, confused, or unsure how to proceed — especially early in the term.
+
+That experience is expected.
+
+In this course, confusion is not a failure and it is not something to wait out. It is often the first signal that you are engaging with systems thinking rather than memorization or procedure.
+
+You do not need to have a fully formed question in order to reach out. “I’m not sure what I’m missing,” “I don’t know how to improve this,” or “I feel stuck” are all sufficient reasons to contact me or come to office hours.
+
+Waiting until the end of the term to raise questions makes it much harder to resolve them. Early, partial, and even inarticulate questions are strongly encouraged and will be treated as a normal part of learning in this course.
+
+# What to Do When You’re Stuck
+
+Being stuck is part of systems thinking. Try this sequence:
+
+1.  **Name what you don’t understand.** Write it down, even if it’s vague.
+2.  **Return to the health problem.** Ask: *What am I trying to explain? Why does this problem persist?*
+3.  **Check whether your map is doing work.** Does it help you ask better questions, or is it just sitting there?
+4.  **Reach out early.** You do not need a fully formed question. Confusion is enough.
+
+# Where to Ask Questions
+
+This course uses different tools for different purposes. Knowing where to go makes things much easier.
+
+- **Canvas** is for rules: deadlines, submissions, grades.
+- **This website** is for meaning: course content, explanations, and guidance.
+
+So:
+
+- If you’re confused about *what something means*, start with this website.
+- If you’re confused about *what is due or how to submit*, check Canvas.
+- If you’re stuck, unsure how to proceed, or don’t have a fully formed question, reach out to me directly.
+
+> **TIP:**
+>
+> Misrouting a question is always better than staying silent. Confusion is enough reason to ask.
+
+# A Note on Teams
+
+Teams work best when:
+
+- thinking happens together before tasks are divided,
+- communication is explicit and regular,
+- concerns are raised early.
+
+**The trap to avoid: divide and assemble.** The most common team failure is splitting the map into pieces — one person takes financing, another takes workforce, another takes structural factors — and stitching the parts together at the end. Systems analysis does not work this way.
+
+This assignment is not like baking a cake where each person prepares one ingredient. It is closer to studying an ecosystem. You cannot assign one person the forest, another the river, and another the animals, then combine them later. The forest changes the river. The river changes the animals. The animals change the forest. The *value* of a systems map comes from understanding those relationships — which means the team has to think about the system together, not just merge separate sections.
+
+A shared Graphviz file makes division of labor easy, which is exactly why it’s dangerous: the file can look complete while no one actually understands how the whole thing fits together. Build shared understanding first; divide specific tasks only after.
+
+[Module 3](../PUBH_402/module-3-system-framing/Module-3---System-Framing-and-Initial-Element-Selection-(3-Weeks).llms.md) requires your team to build at least one provisional feedback loop *together* before Module 4 splits loop ownership among individuals — so “divide and assemble” isn’t just bad practice, it works against the module’s own structure. A team that assigns loops before finding them together will have nothing to assign.
+
+If something isn’t working:
+
+- that information matters,
+- escalation is responsible, not a failure,
+- waiting usually makes things harder.
+
+Team friction is not a sign of a bad team — it’s often a sign that the system is doing real work.
+
+> **TIP:**
+>
+> Don’t pause the whole project waiting on a teammate who’s gone quiet. Concretely:
+>
+> - Message them through at least two channels (e.g., email and whatever your team uses day-to-day).
+> - Give them a specific, reasonable deadline to respond — not an open-ended wait.
+> - If they miss it, keep moving on the parts of the map you can move on without them.
+> - Email me if the silence continues past that deadline, and note it in your next check-in. Documenting the attempt is what protects you — and your teammate — from being penalized for someone else’s non-participation.
+
+# How Grading Works Here (Briefly)
+
+Grades in this course are based on:
+
+- quality of reasoning appropriate to the stage of the project,
+- clarity of explanation,
+- evidence of learning and revision over time.
+
+Grades are **not** based on:
+
+- early certainty,
+- confidence,
+- polish in early drafts,
+- having the “right” answer.
+
+Late learning still counts.
+
+# How to Interpret Your Grades
+
+In this course, grades are signals, not verdicts.
+
+- An early lower score usually means: *your reasoning isn’t fully developed yet.*
+- A later higher score usually means: *your thinking deepened or became clearer.*
+- Consistent engagement and revision matter more than getting everything right the first time.
+
+If you receive feedback, the most useful question to ask is not “Why did I lose points?” but:
+
+> *What part of my reasoning needs to be clearer or better supported at this stage?*
+
+# A Final Tip
+
+If this course feels hard, ask yourself:
+
+> *Am I trying to manage the assignment, or am I trying to understand the health problem?*
+
+Shifting your focus back to the problem usually makes the next step clearer.
+
+You are not expected to have everything figured out. You are expected to stay curious, engaged, and willing to revise your thinking.
+
+That is enough to succeed here.
