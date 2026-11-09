@@ -32,7 +32,7 @@ This is different from Section 1: it is not “you may use AI” but **AI built 
 
 **The constant grading principle:** your **response** to the AI’s critique is the gradeable reasoning artifact — never the AI exchange itself, and never proof that you used AI. A student who writes a soft, superficial critique skill to avoid real scrutiny is graded down on the skill itself, which is the built-in defense against gaming this mechanism.
 
-**For practical guidance** on drafting a rigorous skill, telling a real critique from a superficial one, and common AI failure modes (hallucination, fabricated statistics, sycophancy) — see the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md).
+**For practical guidance** on drafting a rigorous skill, see [Agent Skills](../../PUBH_402/resources/Agent-Skills.llms.md). For telling a real critique from a superficial one, and for common AI failure modes (hallucination, fabricated statistics, sycophancy), see the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md).
 
 ## 3. Instructor use of AI
 

@@ -61,7 +61,7 @@ This module uses the full version of a mechanism you’ve already practiced in l
 3.  Run your memo through your skill and get an AI critique back.
 4.  Write your **response** to that critique — what it got right, what it got wrong, and how (if at all) your thinking changes as a result.
 
-See the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md) for how to draft a critique skill that’s actually rigorous, and how to tell a real critique from a superficial one. The grading principle throughout: **your response is the gradeable reasoning artifact — never the AI exchange itself, and never proof that you used AI.**
+See [Agent Skills](../../PUBH_402/resources/Agent-Skills.llms.md) for how to draft a critique skill that’s actually rigorous, and the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md) for how to tell a real critique from a superficial one. The grading principle throughout: **your response is the gradeable reasoning artifact — never the AI exchange itself, and never proof that you used AI.**
 
 # Module Deliverables
 
@@ -118,7 +118,7 @@ Canvas
 
 ## 2. Student-Drafted Critique Skill
 
-Write the actual instructions you give an AI tool to critique your memo — not just an ad hoc question, but a specific checklist of what it should look for (e.g., unsupported causal claims, missing or unjustified polarity, weak mechanisms, feedback loops that don’t actually close, performative leverage points). See the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md) for a template and guidance on testing your own skill before you submit it.
+Write the actual instructions you give an AI tool to critique your memo — not just an ad hoc question, but a specific checklist of what it should look for (e.g., unsupported causal claims, missing or unjustified polarity, weak mechanisms, feedback loops that don’t actually close, performative leverage points). See [Agent Skills](../../PUBH_402/resources/Agent-Skills.llms.md) for a template and guidance on testing your own skill before you submit it.
 
 **This skill is graded on its own rigor.** A skill written to go easy on your memo — vague criteria, no instruction to disagree, nothing that would actually catch a weak claim — scores poorly on its own terms, regardless of what critique it produces.
 

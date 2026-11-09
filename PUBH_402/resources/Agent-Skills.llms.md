@@ -1,0 +1,36 @@
+# Agent Skills
+
+# Agent Skills
+
+**What this page is for.** [Module 5](../../PUBH_402/module-5-research-refinement/Module-5---Research-and-System-Refinement-(3-Weeks).llms.md) and [Module 6](../../PUBH_402/module-6-interpretation-leverage/Module-6---Interpretation-and-Leverage-(2-Weeks).llms.md) ask you to write a critique skill: the instructions you give an AI so it critiques your work. This page explains how to write one. If you haven’t yet, read the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md) first. It covers what AI is and isn’t, and how to work with it effectively.
+
+------------------------------------------------------------------------
+
+## 1. What a Skill Is
+
+A **skill**, in this context, is a written set of instructions you give an AI in advance so it evaluates things the same way every time, instead of you improvising a new prompt each time and hoping it asks the right questions. Think of it as a checklist or rubric you hand the AI, rather than a single question.
+
+[Watch this video provided by OpenAI that provides an overview of skills.](https://openai.com/academy/skills/)
+
+## 2. Why This Matters for Module 6
+
+An ad hoc prompt like “critique my memo” tends to produce a vague, generically encouraging response. A well-built skill that says specifically what to check for — unsupported causal claims, unjustified polarity, feedback loops that don’t actually close, elements that should be stocks but read like one-time events — produces a critique you can actually act on. Module 6 asks you to draft this skill yourself and grades it on its own rigor, because *writing* a good skill requires the same understanding of what makes causal reasoning strong or weak that the underlying assignment is trying to teach.
+
+## 3. Format of a skill
+
+Skills are written in a specific format and are structured to guide the AI through a consistent evaluation process. They are named SKILL.md and follow a standard template that includes sections for the skill’s purpose, the specific failure modes to check for, and the instructions for the AI to follow.
+
+The exact specifications are outlined at [agentskills.io](https://agentskills.io). Skills are not limited to ChatGPT. It is a standard format for working with all kinds of AI regardless of provider.
+
+I have made an example for you to look at. View my example skill here: [example skill](https://github.com/profsmith-classes/pubh-402/blob/main/SKILL.md). On GitHub, click **Code** (top left of the file) to see the raw format, including the header, or click the download icon to save it, then open it in a text editor such as VSCode, Notepad, or TextEdit. This template is deliberately from an unrelated domain, so you can see the *structure* without being able to just paste it into your own memo with the blanks filled in.
+
+## 4. How to Draft a Skill That’s Actually Rigorous
+
+- **Name specific failure modes, not vague quality checks.** “Check if this is good” produces nothing useful. “Check whether each causal arrow has a stated mechanism, whether polarity is justified rather than asserted, and whether any named feedback loop actually closes back on its starting element” produces something checkable.
+- **Use the course’s own vocabulary.** Stocks vs. flows, polarity, feedback loops, endogenous vs. exogenous, delays — instructing the AI to evaluate using these specific concepts (from [Systems Thinking Foundations](../../PUBH_402/module-2-systems-thinking/2.1_Systems_Thinking.llms.md)) means it’s applying the same standard you’re being graded on, not some generic notion of “good writing.”
+- **Point the AI to the course’s own definitions.** This site publishes an [llms.txt](https://profsmith-classes.github.io/llms.txt) file, which is a plain-text index of every course page written for AI tools to read. The index also includes pages for PUBH 115, a different course, so tell the AI to ignore those. Each page also has an AI-readable version. For example, [Systems Thinking Foundations](https://profsmith-classes.github.io/PUBH_402/module-2-systems-thinking/2.1_Systems_Thinking.llms.md) has one with the full stock/flow, polarity, and feedback loop definitions. Your skill can tell the AI to use those definitions instead of its own general knowledge. If your AI tool can’t open links, copy the page text and paste it into the chat. Either way, ask the AI to quote the definition it’s using, so you can confirm it actually read the page.
+- 
+- **Explicitly instruct it not to just agree.** Include a line like “actively look for the weakest link in this reasoning; do not simply confirm the strongest part.” Without this, the default agreeableness bias described in the [AI Explainer](../../PUBH_402/resources/AI-Explainer.llms.md) will produce a soft critique regardless of how the rest of the skill is worded.
+- **Test your own skill before you submit it.** Run it against your memo, and then run it against something you know is weak (a claim with no mechanism, a made-up polarity). If your skill gives both a passing grade, it isn’t rigorous enough — and a critique skill written to be gentle is graded down on its own terms, not just on the response it produces.
+
+Notice thes shape in the example I provided: name the failure modes, force the critique to use the domain’s own vocabulary (here, physiology terms — for your memo, systems-thinking terms), and explicitly forbid soft-pedaling. That shape is what transfers to your own skill. The workout-plan content itself doesn’t — you have to build the systems-thinking version yourself, using [Systems Thinking Foundations](../../PUBH_402/module-2-systems-thinking/2.1_Systems_Thinking.llms.md)’s vocabulary the way this template uses exercise science’s.
