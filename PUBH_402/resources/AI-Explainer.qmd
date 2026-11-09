@@ -7,9 +7,20 @@ class: "402"
 
 # AI Explainer
 
-**What this page is for.** [Module 5](../module-5-research-refinement/Module-5---Research-and-System-Refinement-(3-Weeks).qmd) and [Module 6](../module-6-interpretation-leverage/Module-6---Interpretation-and-Leverage-(2-Weeks).qmd) ask you to use AI adversarially — to challenge your own reasoning rather than help you write it. That's a different skill than using AI to brainstorm or draft, and it's easy to do badly without realizing it: either too trusting (accepting whatever the AI says as correct) or too dismissive (ignoring a real problem because the AI's tone was blunt). This page is about doing it well.
+**What this page is for.** [Module 5](../module-5-research-refinement/Module-5---Research-and-System-Refinement-(3-Weeks).qmd) and [Module 6](../module-6-interpretation-leverage/Module-6---Interpretation-and-Leverage-(2-Weeks).qmd) ask you to use AI adversarially — to challenge your own reasoning rather than help you write it. That's a different skill than using AI to brainstorm or draft, and it's easy to do badly without realizing it: either too trusting (accepting whatever the AI says as correct) or too dismissive (ignoring a real problem because the AI's tone was blunt). This page is about doing it well. For how to write the critique skill those modules ask for, see [Agent Skills](Agent-Skills.qmd).
 
 ---
+## Access to ChatGPT
+
+You will need access to ChatGPT for this course. Specifically, you need to have a CSU account that allows you to use the university's ChatGPT access. CSU provides access to this tool for faculty and students as part of its educational resources.  Use the link below to find instructions for requesting and logging into ChatGPT with your CSU account.
+
+::: {.callout-note}
+## Requesting ChatGPT access with your CSU account
+Use the instructions provided at the following link: 
+
+<https://csuf.screenstepslive.com/m/97099/l/1923588-chatgpt-edu-requesting-an-account-and-logging-in>
+:::
+
 
 ## 1. What AI Is — And Isn't
 
@@ -34,40 +45,14 @@ The practical upshot: treat AI output the way you'd treat a claim from an anonym
 
 **Learn to tell a real gap from a superficial one.** This is the actual skill being graded in Modules 5–6. AI sometimes surfaces a genuine weakness you hadn't seen. It sometimes produces a critique that sounds sophisticated but doesn't actually apply to your specific claim, or restates your claim back at you with a skeptical tone and calls that a challenge. Distinguishing the two is your job, not the AI's — and it's exactly what your written response is evaluated on.
 
-## 3. How to Use Skills
-
-A **skill**, in this context, is a written set of instructions you give an AI in advance so it evaluates things the same way every time, instead of you improvising a new prompt each time and hoping it asks the right questions. Think of it as a checklist or rubric you hand the AI, rather than a single question.
-
-**Why this matters for Module 6.** An ad hoc prompt like "critique my memo" tends to produce a vague, generically encouraging response. A well-built skill that says specifically what to check for — unsupported causal claims, unjustified polarity, feedback loops that don't actually close, elements that should be stocks but read like one-time events — produces a critique you can actually act on. Module 6 asks you to draft this skill yourself and grades it on its own rigor, because *writing* a good skill requires the same understanding of what makes causal reasoning strong or weak that the underlying assignment is trying to teach.
-
-**How to draft a skill that's actually rigorous:**
-
-- **Name specific failure modes, not vague quality checks.** "Check if this is good" produces nothing useful. "Check whether each causal arrow has a stated mechanism, whether polarity is justified rather than asserted, and whether any named feedback loop actually closes back on its starting element" produces something checkable.
-- **Use the course's own vocabulary.** Stocks vs. flows, polarity, feedback loops, endogenous vs. exogenous, delays — instructing the AI to evaluate using these specific concepts (from [Systems Thinking Foundations](../module-2-systems-thinking/2.1_Systems_Thinking.qmd)) means it's applying the same standard you're being graded on, not some generic notion of "good writing."
-- **Explicitly instruct it not to just agree.** Include a line like "actively look for the weakest link in this reasoning; do not simply confirm the strongest part." Without this, the default agreeableness bias described above will produce a soft critique regardless of how the rest of the skill is worded.
-- **Test your own skill before you submit it.** Run it against your memo, and then run it against something you know is weak (a claim with no mechanism, a made-up polarity). If your skill gives both a passing grade, it isn't rigorous enough — and a critique skill written to be gentle is graded down on its own terms, not just on the response it produces.
-
-**A rough template** — deliberately from an unrelated domain, so you can see the *structure* without being able to just paste it into your own memo with the blanks filled in:
-
-> You are reviewing the reasoning behind a workout plan for [describe the specific section — e.g., "the choice of exercises for week 3"]. For each claim, check:
->
-> 1. Is there a stated physiological mechanism, or is a result being asserted without explaining why it would happen?
-> 2. Is the claimed effect (build muscle, improve endurance, prevent injury) justified with a reason, or just labeled?
-> 3. Does every claimed cause-and-effect chain actually close — does the proposed mechanism plausibly lead all the way to the stated outcome, with no missing step?
-> 4. Are any recommended changes performative (just "do more cardio," "eat more protein") without explaining the specific mechanism of improvement?
->
-> Do not soften your critique or default to agreement. Identify the single weakest claim in this plan and explain specifically why it's weak.
-
-Notice the shape: name the failure modes, force the critique to use the domain's own vocabulary (here, physiology terms — for your memo, systems-thinking terms), and explicitly forbid soft-pedaling. That shape is what transfers to your own skill. The workout-plan content itself doesn't — you have to build the systems-thinking version yourself, using [Systems Thinking Foundations](../module-2-systems-thinking/2.1_Systems_Thinking.qmd)'s vocabulary the way this template uses exercise science's.
-
-## 4. Other Things Worth Knowing
+## 3. Other Things Worth Knowing
 
 **Common AI failure modes to watch for, specifically:**
 
 - *Hallucinated citations* — a source that sounds real, formatted correctly, and doesn't exist (or exists but doesn't say what's claimed).
 - *Fabricated statistics* — a precise-sounding number with no traceable origin.
 - *Confident tone regardless of accuracy* — AI does not signal uncertainty the way a careful human source would; a wrong answer and a right one can read identically.
-- *Sycophancy* — agreeing with whatever you already believe unless explicitly told to do otherwise (this is why Section 2 and Section 3 both emphasize instructing it to disagree).
+- *Sycophancy* — agreeing with whatever you already believe unless explicitly told to do otherwise (this is why Section 2 and the [Agent Skills](Agent-Skills.qmd) page both emphasize instructing it to disagree).
 - *Shallow "critique"* — restating your own claim back to you in a skeptical tone without actually identifying a specific mechanism-level problem. This can look like a real critique at a glance; check whether it names something concrete about *your* claim or could have been generated for almost any claim.
 
 **The grading principle, restated one more time because it's the whole point:** your written response to the critique — what you agreed with, what you pushed back on, and why — is what's graded. Not the AI exchange itself, and not whether you used AI at all. A thoughtful response to a mediocre AI critique is worth more than a transcript of a great one with no engagement attached.
@@ -84,7 +69,7 @@ Before your Module 5 or Module 6 submission, see if you can answer these honestl
 - Did I explicitly instruct it to challenge me, or did I just ask a neutral question and take whatever it said?
 - Did I check any citation, statistic, or factual claim it made before treating it as true?
 - Can I tell the difference between a critique that names something specific and wrong, versus one that just sounds skeptical?
-- If I drafted a critique skill: did I test it against something I know is weak, to confirm it doesn't just pass everything?
+- If I drafted a critique skill: did I test it against something I know is weak, to confirm it doesn't just pass everything? (See [Agent Skills](Agent-Skills.qmd).)
 - Is my *written response* — not the AI transcript — actually doing the reasoning work this assignment is grading?
 
 If you can answer yes to these, you're using AI the way this course's adversarial-critique mechanism is designed for.

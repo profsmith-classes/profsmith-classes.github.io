@@ -114,7 +114,7 @@ The second version shows reasoning. The first could have been written without do
 
 Starting in Module 5, part of the assignment design asks you to use AI differently than you might be used to: not to help you write, but to challenge your own reasoning. You'll draft a **critique skill** — written instructions telling AI exactly what to check for — and use it to pressure-test a specific causal claim in your own loop. In Module 6 this becomes a full memo → AI critique → response cycle, and the critique skill itself is graded on its rigor.
 
-This is a different skill than brainstorming or drafting with AI, and it's easy to get wrong in either direction: too trusting (accepting whatever AI says as correct) or too dismissive (waving off a real problem because the AI's tone was blunt). Read the [AI Explainer](resources/AI-Explainer.qmd) before you get to Module 5 — it covers what AI is and isn't good for, how to prompt it to actually disagree with you instead of defaulting to agreement, and how to draft and test a critique skill that's rigorous rather than soft.
+This is a different skill than brainstorming or drafting with AI, and it's easy to get wrong in either direction: too trusting (accepting whatever AI says as correct) or too dismissive (waving off a real problem because the AI's tone was blunt). Read the [AI Explainer](resources/AI-Explainer.qmd) before you get to Module 5 — it covers what AI is and isn't good for, and how to prompt it to actually disagree with you instead of defaulting to agreement. Then read [Agent Skills](resources/Agent-Skills.qmd) for how to draft and test a critique skill that's rigorous rather than soft.
 
 # A note on questions, confusion, and communication
 

@@ -93,6 +93,8 @@ website:
             contents:
               - text: "AI Explainer"
                 href: PUBH_402/resources/AI-Explainer.qmd
+              - text: "Agent Skills"
+                href: PUBH_402/resources/Agent-Skills.qmd
               - text: "CSV Explainer"
                 href: PUBH_402/resources/CSV-Explainer.qmd
               - text: "Class AI Policy"
